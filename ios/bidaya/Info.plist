@@ -53,6 +53,7 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
+		<string>me_quran.ttf</string>
 		<string>KFGQPCUthmanicScriptHAFS.otf</string>
 		<string>Ionicons.ttf</string>
 	</array>

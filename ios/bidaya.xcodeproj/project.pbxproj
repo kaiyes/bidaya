@@ -12,6 +12,7 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		4933C99C29A44F6800DBB307 /* me_quran.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4933C99B29A44F6800DBB307 /* me_quran.ttf */; };
 		49487FF129A396CA005D87A9 /* KFGQPCUthmanicScriptHAFS.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49487FF029A396CA005D87A9 /* KFGQPCUthmanicScriptHAFS.otf */; };
 		7699B88040F8A987B510C191 /* libPods-bidaya-bidayaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-bidaya-bidayaTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
@@ -39,6 +40,7 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = bidaya/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-bidaya-bidayaTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bidaya-bidayaTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-bidaya.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bidaya.debug.xcconfig"; path = "Target Support Files/Pods-bidaya/Pods-bidaya.debug.xcconfig"; sourceTree = "<group>"; };
+		4933C99B29A44F6800DBB307 /* me_quran.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = me_quran.ttf; sourceTree = "<group>"; };
 		49487FF029A396CA005D87A9 /* KFGQPCUthmanicScriptHAFS.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = KFGQPCUthmanicScriptHAFS.otf; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-bidaya.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bidaya.release.xcconfig"; path = "Target Support Files/Pods-bidaya/Pods-bidaya.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-bidaya-bidayaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bidaya-bidayaTests.debug.xcconfig"; path = "Target Support Files/Pods-bidaya-bidayaTests/Pods-bidaya-bidayaTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 		49487FEF29A39679005D87A9 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
+				4933C99B29A44F6800DBB307 /* me_quran.ttf */,
 				49487FF029A396CA005D87A9 /* KFGQPCUthmanicScriptHAFS.otf */,
 			);
 			path = Fonts;
@@ -253,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4933C99C29A44F6800DBB307 /* me_quran.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				49487FF129A396CA005D87A9 /* KFGQPCUthmanicScriptHAFS.otf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
