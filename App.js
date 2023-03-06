@@ -133,7 +133,51 @@ const arr = [
 		image: require('./src/assets/flower.jpeg'),
 		question: ' مَتَى تَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ؟',
 		answer: ' أَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ صَبَاحًا.'
+	},
+
+	//lamp
+	{
+		image: require('./src/assets/lamp.jpeg'),
+		question: 'مَا هَذَا؟',
+		answer: 'هَذَا مِصْبَاحٌ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'كَيْفَ هَذَا الْمِصْبَاحُ؟',
+		answer: 'اَلْمِصْبَاحُ مُضِيْئٌ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'أَيْنَ الْمِصْبَاحُ؟',
+		answer: 'اَلْمِصْبَاحُ عَلَى الْمَكْتَبِ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'لِمَنْ هَذَا الْمِصْبَاحُ؟',
+		answer: 'اَلْمِصْبَاحُ لِنَبِيْلٍ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'مَنْ يُضِيْئُ هَذَا الْمِصْبَاحَ؟',
+		answer: 'يُضِيْئُ نَبِيْلٌ هَذَا الْمِصْبَاحَ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'هَلْ تُضِيْئُ هَذَا الْمِصْبَاحَ؟',
+		answer: 'نَعَمْ، أُضِيْئُ هَذَا الْمِصْبَاحَ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'لِمَاذَا تُضِيْئُ هَذَا الْمِصْبَاحَ؟',
+		answer: 'أُضِيْئُ هَذَا الْمِصْبَاحَ  تَنْوِيرًا'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'مَتىَ تُضِيْئُ الْمِصْبَاحَ؟',
+		answer: 'أُضِيْئُ الْمِصْبَاحَ لَيْلًا.'
 	}
+
+	//
 ]
 
 export default function App() {
