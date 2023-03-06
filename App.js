@@ -51,11 +51,88 @@ const arr = [
 		question: 'مَتَى تَدْرُسُ الكتابَ؟',
 		answer: 'أدرس صَبَاحًا وَلَيلًا'
 	},
-
+	//ball
 	{
 		image: require('./src/assets/ball.jpeg'),
 		question: 'مَا هٰذِهِ؟',
 		answer: 'هٰذِهِ كُرَةٌ'
+	},
+	{
+		image: require('./src/assets/ball.jpeg'),
+		question: 'كَيْفَ هٰذِهِ الكُرَةُ ؟',
+		answer: 'الكُرَةُ جَمِيْلَةٌ'
+	},
+	{
+		image: require('./src/assets/ball.jpeg'),
+		question: 'أيْنَ الكُرَةُ ؟',
+		answer: 'الكُرَةُ تَحْتَ الْمَكتبِ'
+	},
+	{
+		image: require('./src/assets/ball.jpeg'),
+		question: 'كُرَةُ مَنْ هٰذِهِ؟',
+		answer: 'هٰذِهِ كُرَةُ وَلَدٍ'
+	},
+	{
+		image: require('./src/assets/ball.jpeg'),
+		question: 'مَنْ يَلْعبُ بِهٰذِهِ الكُرَةِ؟',
+		answer: 'يَلْعبُ حَامِدٌ بِهٰذِهِ الْكُرَةِ'
+	},
+	{
+		image: require('./src/assets/ball.jpeg'),
+		question: 'هَلْ تلْعَبُ بِهٰذِهِ الْكُرَةِ ؟',
+		answer: 'نَعَمْ، أَلْعَبُ بِهٰذِهِ الْكُرَةِ.'
+	},
+	{
+		image: require('./src/assets/ball.jpeg'),
+		question: 'لِمَاذا تلْعَبُ الْكُرَةَ ؟',
+		answer: 'ألعَبُ الْكُرَةَ تَدَرُّبًا'
+	},
+	{
+		image: require('./src/assets/ball.jpeg'),
+		question: 'مَتَى تَلعَبُ الْكُرَةَ ؟',
+		answer: 'أَلْعَبُ الْكُرَةَ مَسَاءً'
+	},
+
+	//ball
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: ' مَا هَذِهِ؟',
+		answer: 'هَذِهِ زَهْرَةٌ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'كَيْفَ هَذِهِ الزَّهْرَةُ؟',
+		answer: 'اَلزَّهْرَةُ رَائِعَةٌ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'أَيْنَ الزَّهْرَةُ؟',
+		answer: 'اَلزَّهْرَةُ فِي الإنَاءِ'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'زَهْرَةُ مَنْ هَذِهِ؟',
+		answer: 'هَذِهِ زَهْرَةُ عَائِشَةَ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: 'مَنْ يَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ؟',
+		answer: ' تَعْتَنِيْ عَائِشَةُ هَذِهِ الزَّهْرَةِ.'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: ' هَلْ تَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ؟',
+		answer: ' نَعَمْ أَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: ' لِمَاذَا تَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ؟',
+		answer: ' أَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ رَغْبَةً'
+	},
+	{
+		image: require('./src/assets/flower.jpeg'),
+		question: ' مَتَى تَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ؟',
+		answer: ' أَعْتَنِيْ بِهَذِهِ الزَّهْرَةِ صَبَاحًا.'
 	}
 ]
 
@@ -125,7 +202,7 @@ const styles = StyleSheet.create({
 	},
 	button: {
 		backgroundColor: 'lightgreen',
-		borderRadius: '5%',
+		borderRadius: wp('5%'),
 		justifyContent: 'center',
 		fontWeight: 'bold',
 		alignItems: 'center',
