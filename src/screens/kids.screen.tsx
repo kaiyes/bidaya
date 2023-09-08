@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import {Icon} from '@rneui/themed';
 
-import {arr} from './src/util/words.js';
+import {arr} from '../util/words';
 
 function App(): JSX.Element {
   const [numberOfImage, setNumberOfImage] = useState(0);
