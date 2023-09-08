@@ -11,6 +11,7 @@
 		514201522437B4B40078DB4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 514201512437B4B40078DB4F /* Assets.xcassets */; };
 		514201552437B4B40078DB4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 514201532437B4B40078DB4F /* Main.storyboard */; };
 		514201582437B4B40078DB4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 514201572437B4B40078DB4F /* main.m */; };
+		88F26FBA2AAB8F9300603C72 /* me_quran.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 88F26FB92AAB8F9300603C72 /* me_quran.ttf */; };
 		98279E74B1F82363B8EA9939 /* libPods-bidaya-macOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DFE672F8CD004525D11A258A /* libPods-bidaya-macOS.a */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		514201572437B4B40078DB4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		514201592437B4B40078DB4F /* bidaya.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = bidaya.entitlements; sourceTree = "<group>"; };
 		873C78CCFA255D9A7A6570C8 /* Pods-bidaya-macOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bidaya-macOS.release.xcconfig"; path = "Target Support Files/Pods-bidaya-macOS/Pods-bidaya-macOS.release.xcconfig"; sourceTree = "<group>"; };
+		88F26FB92AAB8F9300603C72 /* me_quran.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = me_quran.ttf; sourceTree = "<group>"; };
 		DFE672F8CD004525D11A258A /* libPods-bidaya-macOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bidaya-macOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -55,7 +57,6 @@
 				493991D03B7156A23B3E8538 /* Pods-bidaya-macOS.debug.xcconfig */,
 				873C78CCFA255D9A7A6570C8 /* Pods-bidaya-macOS.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -92,6 +93,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				88F26FB82AAB8F7E00603C72 /* Fonts */,
 				5142014A2437B4B30078DB4F /* bidaya-macOS */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
@@ -110,6 +112,14 @@
 				514201492437B4B30078DB4F /* bidaya.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		88F26FB82AAB8F7E00603C72 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				88F26FB92AAB8F9300603C72 /* me_quran.ttf */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,6 +214,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				514201522437B4B40078DB4F /* Assets.xcassets in Resources */,
+				88F26FBA2AAB8F9300603C72 /* me_quran.ttf in Resources */,
 				514201552437B4B40078DB4F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
