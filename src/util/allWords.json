@@ -1,0 +1,5002 @@
+[
+  {
+    "rank": 1,
+    "word": "كما",
+    "pronunciation": "as"
+  },
+  {
+    "rank": 2,
+    "word": "أنا",
+    "pronunciation": "I"
+  },
+  {
+    "rank": 3,
+    "word": "له",
+    "pronunciation": "his"
+  },
+  {
+    "rank": 4,
+    "word": "أن",
+    "pronunciation": "that"
+  },
+  {
+    "rank": 5,
+    "word": "هو",
+    "pronunciation": "he"
+  },
+  {
+    "rank": 6,
+    "word": "كان",
+    "pronunciation": "was"
+  },
+  {
+    "rank": 7,
+    "word": "إلى",
+    "pronunciation": "for"
+  },
+  {
+    "rank": 8,
+    "word": "في",
+    "pronunciation": "on"
+  },
+  {
+    "rank": 9,
+    "word": "هي",
+    "pronunciation": "are"
+  },
+  {
+    "rank": 10,
+    "word": "مع",
+    "pronunciation": "with"
+  },
+  {
+    "rank": 11,
+    "word": "هم",
+    "pronunciation": "they"
+  },
+  {
+    "rank": 12,
+    "word": "يكون",
+    "pronunciation": "be"
+  },
+  {
+    "rank": 13,
+    "word": "في",
+    "pronunciation": "at"
+  },
+  {
+    "rank": 14,
+    "word": "واحد",
+    "pronunciation": "one"
+  },
+  {
+    "rank": 15,
+    "word": "ديك",
+    "pronunciation": "have"
+  },
+  {
+    "rank": 16,
+    "word": "هذا",
+    "pronunciation": "this"
+  },
+  {
+    "rank": 17,
+    "word": "من",
+    "pronunciation": "from"
+  },
+  {
+    "rank": 18,
+    "word": "بواسطة",
+    "pronunciation": "by"
+  },
+  {
+    "rank": 19,
+    "word": "حار",
+    "pronunciation": "hot"
+  },
+  {
+    "rank": 20,
+    "word": "كلمة",
+    "pronunciation": "word"
+  },
+  {
+    "rank": 21,
+    "word": "لكن",
+    "pronunciation": "but"
+  },
+  {
+    "rank": 22,
+    "word": "ما",
+    "pronunciation": "what"
+  },
+  {
+    "rank": 23,
+    "word": "بعض",
+    "pronunciation": "some"
+  },
+  {
+    "rank": 24,
+    "word": "هو",
+    "pronunciation": "is"
+  },
+  {
+    "rank": 25,
+    "word": "هو",
+    "pronunciation": "it"
+  },
+  {
+    "rank": 26,
+    "word": "أنت",
+    "pronunciation": "you"
+  },
+  {
+    "rank": 27,
+    "word": "أو",
+    "pronunciation": "or"
+  },
+  {
+    "rank": 28,
+    "word": "كان",
+    "pronunciation": "had"
+  },
+  {
+    "rank": 29,
+    "word": "و",
+    "pronunciation": "the"
+  },
+  {
+    "rank": 30,
+    "word": "من",
+    "pronunciation": "of"
+  },
+  {
+    "rank": 31,
+    "word": "إلى",
+    "pronunciation": "to"
+  },
+  {
+    "rank": 32,
+    "word": "و",
+    "pronunciation": "and"
+  },
+  {
+    "rank": 33,
+    "word": "و",
+    "pronunciation": "a"
+  },
+  {
+    "rank": 34,
+    "word": "في",
+    "pronunciation": "in"
+  },
+  {
+    "rank": 35,
+    "word": "نحن",
+    "pronunciation": "we"
+  },
+  {
+    "rank": 36,
+    "word": "علبة",
+    "pronunciation": "can"
+  },
+  {
+    "rank": 37,
+    "word": "خارج",
+    "pronunciation": "out"
+  },
+  {
+    "rank": 38,
+    "word": "البعض",
+    "pronunciation": "other"
+  },
+  {
+    "rank": 39,
+    "word": "و",
+    "pronunciation": "were"
+  },
+  {
+    "rank": 40,
+    "word": "التي",
+    "pronunciation": "which"
+  },
+  {
+    "rank": 41,
+    "word": "القيام",
+    "pronunciation": "do"
+  },
+  {
+    "rank": 42,
+    "word": "من",
+    "pronunciation": "their"
+  },
+  {
+    "rank": 43,
+    "word": "الوقت",
+    "pronunciation": "time"
+  },
+  {
+    "rank": 44,
+    "word": "إذا",
+    "pronunciation": "if"
+  },
+  {
+    "rank": 45,
+    "word": "سوف",
+    "pronunciation": "will"
+  },
+  {
+    "rank": 46,
+    "word": "كيف",
+    "pronunciation": "how"
+  },
+  {
+    "rank": 47,
+    "word": "قال",
+    "pronunciation": "said"
+  },
+  {
+    "rank": 48,
+    "word": "و",
+    "pronunciation": "an"
+  },
+  {
+    "rank": 49,
+    "word": "كل",
+    "pronunciation": "each"
+  },
+  {
+    "rank": 50,
+    "word": "أقول",
+    "pronunciation": "tell"
+  },
+  {
+    "rank": 51,
+    "word": "لا",
+    "pronunciation": "does"
+  },
+  {
+    "rank": 52,
+    "word": "مجموعة",
+    "pronunciation": "set"
+  },
+  {
+    "rank": 53,
+    "word": "ثلاثة",
+    "pronunciation": "three"
+  },
+  {
+    "rank": 54,
+    "word": "تريد",
+    "pronunciation": "want"
+  },
+  {
+    "rank": 55,
+    "word": "هواء",
+    "pronunciation": "air"
+  },
+  {
+    "rank": 56,
+    "word": "جيد",
+    "pronunciation": "well"
+  },
+  {
+    "rank": 57,
+    "word": "أيضا",
+    "pronunciation": "also"
+  },
+  {
+    "rank": 58,
+    "word": "لعب",
+    "pronunciation": "play"
+  },
+  {
+    "rank": 59,
+    "word": "صغير",
+    "pronunciation": "small"
+  },
+  {
+    "rank": 60,
+    "word": "نهاية",
+    "pronunciation": "end"
+  },
+  {
+    "rank": 61,
+    "word": "وضع",
+    "pronunciation": "put"
+  },
+  {
+    "rank": 62,
+    "word": "المنزل",
+    "pronunciation": "home"
+  },
+  {
+    "rank": 63,
+    "word": "قرأ",
+    "pronunciation": "read"
+  },
+  {
+    "rank": 64,
+    "word": "يد",
+    "pronunciation": "hand"
+  },
+  {
+    "rank": 65,
+    "word": "ميناء",
+    "pronunciation": "port"
+  },
+  {
+    "rank": 66,
+    "word": "كبير",
+    "pronunciation": "large"
+  },
+  {
+    "rank": 67,
+    "word": "تهجى",
+    "pronunciation": "spell"
+  },
+  {
+    "rank": 68,
+    "word": "إضافة",
+    "pronunciation": "add"
+  },
+  {
+    "rank": 69,
+    "word": "حتى",
+    "pronunciation": "even"
+  },
+  {
+    "rank": 70,
+    "word": "الأرض",
+    "pronunciation": "land"
+  },
+  {
+    "rank": 71,
+    "word": "هنا",
+    "pronunciation": "here"
+  },
+  {
+    "rank": 72,
+    "word": "يجب",
+    "pronunciation": "must"
+  },
+  {
+    "rank": 73,
+    "word": "كبير",
+    "pronunciation": "big"
+  },
+  {
+    "rank": 74,
+    "word": "ارتفاع",
+    "pronunciation": "high"
+  },
+  {
+    "rank": 75,
+    "word": "مثل",
+    "pronunciation": "such"
+  },
+  {
+    "rank": 76,
+    "word": "تابع",
+    "pronunciation": "follow"
+  },
+  {
+    "rank": 77,
+    "word": "فعل",
+    "pronunciation": "act"
+  },
+  {
+    "rank": 78,
+    "word": "لماذا",
+    "pronunciation": "why"
+  },
+  {
+    "rank": 79,
+    "word": "تطلب",
+    "pronunciation": "ask"
+  },
+  {
+    "rank": 80,
+    "word": "الرجال",
+    "pronunciation": "men"
+  },
+  {
+    "rank": 81,
+    "word": "تغيير",
+    "pronunciation": "change"
+  },
+  {
+    "rank": 82,
+    "word": "ذهب",
+    "pronunciation": "went"
+  },
+  {
+    "rank": 83,
+    "word": "ضوء",
+    "pronunciation": "light"
+  },
+  {
+    "rank": 84,
+    "word": "نوع",
+    "pronunciation": "kind"
+  },
+  {
+    "rank": 85,
+    "word": "بعيدا",
+    "pronunciation": "off"
+  },
+  {
+    "rank": 86,
+    "word": "تحتاج",
+    "pronunciation": "need"
+  },
+  {
+    "rank": 87,
+    "word": "منزل",
+    "pronunciation": "house"
+  },
+  {
+    "rank": 88,
+    "word": "صور",
+    "pronunciation": "picture"
+  },
+  {
+    "rank": 89,
+    "word": "محاولة",
+    "pronunciation": "try"
+  },
+  {
+    "rank": 90,
+    "word": "لنا",
+    "pronunciation": "us"
+  },
+  {
+    "rank": 91,
+    "word": "مرة أخرى",
+    "pronunciation": "again"
+  },
+  {
+    "rank": 92,
+    "word": "الحيوان",
+    "pronunciation": "animal"
+  },
+  {
+    "rank": 93,
+    "word": "نقطة",
+    "pronunciation": "point"
+  },
+  {
+    "rank": 94,
+    "word": "أم",
+    "pronunciation": "mother"
+  },
+  {
+    "rank": 95,
+    "word": "العالم",
+    "pronunciation": "world"
+  },
+  {
+    "rank": 96,
+    "word": "قرب",
+    "pronunciation": "near"
+  },
+  {
+    "rank": 97,
+    "word": "بناء",
+    "pronunciation": "build"
+  },
+  {
+    "rank": 98,
+    "word": "النفس",
+    "pronunciation": "self"
+  },
+  {
+    "rank": 99,
+    "word": "أرض",
+    "pronunciation": "earth"
+  },
+  {
+    "rank": 100,
+    "word": "الأب",
+    "pronunciation": "father"
+  },
+  {
+    "rank": 101,
+    "word": "أي",
+    "pronunciation": "any"
+  },
+  {
+    "rank": 102,
+    "word": "جديدة",
+    "pronunciation": "new"
+  },
+  {
+    "rank": 103,
+    "word": "العمل",
+    "pronunciation": "work"
+  },
+  {
+    "rank": 104,
+    "word": "جزء",
+    "pronunciation": "part"
+  },
+  {
+    "rank": 105,
+    "word": "أخذ",
+    "pronunciation": "take"
+  },
+  {
+    "rank": 106,
+    "word": "الحصول على",
+    "pronunciation": "get"
+  },
+  {
+    "rank": 107,
+    "word": "مكان",
+    "pronunciation": "place"
+  },
+  {
+    "rank": 108,
+    "word": "مصنوع",
+    "pronunciation": "made"
+  },
+  {
+    "rank": 109,
+    "word": "حي",
+    "pronunciation": "live"
+  },
+  {
+    "rank": 110,
+    "word": "حيث",
+    "pronunciation": "where"
+  },
+  {
+    "rank": 111,
+    "word": "بعد",
+    "pronunciation": "after"
+  },
+  {
+    "rank": 112,
+    "word": "ظهر",
+    "pronunciation": "back"
+  },
+  {
+    "rank": 113,
+    "word": "القليل",
+    "pronunciation": "little"
+  },
+  {
+    "rank": 114,
+    "word": "فقط",
+    "pronunciation": "only"
+  },
+  {
+    "rank": 115,
+    "word": "جولة",
+    "pronunciation": "round"
+  },
+  {
+    "rank": 116,
+    "word": "رجل",
+    "pronunciation": "man"
+  },
+  {
+    "rank": 117,
+    "word": "عام",
+    "pronunciation": "year"
+  },
+  {
+    "rank": 118,
+    "word": "جاء",
+    "pronunciation": "came"
+  },
+  {
+    "rank": 119,
+    "word": "المعرض",
+    "pronunciation": "show"
+  },
+  {
+    "rank": 120,
+    "word": "كل",
+    "pronunciation": "every"
+  },
+  {
+    "rank": 121,
+    "word": "جيد",
+    "pronunciation": "good"
+  },
+  {
+    "rank": 122,
+    "word": "أنا",
+    "pronunciation": "me"
+  },
+  {
+    "rank": 123,
+    "word": "منح",
+    "pronunciation": "give"
+  },
+  {
+    "rank": 124,
+    "word": "لدينا",
+    "pronunciation": "our"
+  },
+  {
+    "rank": 125,
+    "word": "تحت",
+    "pronunciation": "under"
+  },
+  {
+    "rank": 126,
+    "word": "اسم",
+    "pronunciation": "name"
+  },
+  {
+    "rank": 127,
+    "word": "جدا",
+    "pronunciation": "very"
+  },
+  {
+    "rank": 128,
+    "word": "من خلال",
+    "pronunciation": "through"
+  },
+  {
+    "rank": 129,
+    "word": "فقط",
+    "pronunciation": "just"
+  },
+  {
+    "rank": 130,
+    "word": "شكل",
+    "pronunciation": "form"
+  },
+  {
+    "rank": 131,
+    "word": "عقوبة",
+    "pronunciation": "sentence"
+  },
+  {
+    "rank": 132,
+    "word": "عظيم",
+    "pronunciation": "great"
+  },
+  {
+    "rank": 133,
+    "word": "اعتقد",
+    "pronunciation": "think"
+  },
+  {
+    "rank": 134,
+    "word": "قول",
+    "pronunciation": "say"
+  },
+  {
+    "rank": 135,
+    "word": "مساعدة",
+    "pronunciation": "help"
+  },
+  {
+    "rank": 136,
+    "word": "منخفض",
+    "pronunciation": "low"
+  },
+  {
+    "rank": 137,
+    "word": "خط",
+    "pronunciation": "line"
+  },
+  {
+    "rank": 138,
+    "word": "اختلف",
+    "pronunciation": "differ"
+  },
+  {
+    "rank": 139,
+    "word": "منعطف",
+    "pronunciation": "turn"
+  },
+  {
+    "rank": 140,
+    "word": "السبب",
+    "pronunciation": "cause"
+  },
+  {
+    "rank": 141,
+    "word": "كثيرا",
+    "pronunciation": "much"
+  },
+  {
+    "rank": 142,
+    "word": "متوسط",
+    "pronunciation": "mean"
+  },
+  {
+    "rank": 143,
+    "word": "قبل",
+    "pronunciation": "before"
+  },
+  {
+    "rank": 144,
+    "word": "خطوة",
+    "pronunciation": "move"
+  },
+  {
+    "rank": 145,
+    "word": "الحق",
+    "pronunciation": "right"
+  },
+  {
+    "rank": 146,
+    "word": "صبي",
+    "pronunciation": "boy"
+  },
+  {
+    "rank": 147,
+    "word": "قديم",
+    "pronunciation": "old"
+  },
+  {
+    "rank": 148,
+    "word": "أيضا",
+    "pronunciation": "too"
+  },
+  {
+    "rank": 149,
+    "word": "نفسه",
+    "pronunciation": "same"
+  },
+  {
+    "rank": 150,
+    "word": "هي",
+    "pronunciation": "she"
+  },
+  {
+    "rank": 151,
+    "word": "كل",
+    "pronunciation": "all"
+  },
+  {
+    "rank": 152,
+    "word": "هناك",
+    "pronunciation": "there"
+  },
+  {
+    "rank": 153,
+    "word": "عندما",
+    "pronunciation": "when"
+  },
+  {
+    "rank": 154,
+    "word": "فوق",
+    "pronunciation": "up"
+  },
+  {
+    "rank": 155,
+    "word": "استخدام",
+    "pronunciation": "use"
+  },
+  {
+    "rank": 156,
+    "word": "ك",
+    "pronunciation": "your"
+  },
+  {
+    "rank": 157,
+    "word": "طريق",
+    "pronunciation": "way"
+  },
+  {
+    "rank": 158,
+    "word": "حول",
+    "pronunciation": "about"
+  },
+  {
+    "rank": 159,
+    "word": "كثير",
+    "pronunciation": "many"
+  },
+  {
+    "rank": 160,
+    "word": "ثم",
+    "pronunciation": "then"
+  },
+  {
+    "rank": 161,
+    "word": "هم",
+    "pronunciation": "them"
+  },
+  {
+    "rank": 162,
+    "word": "إرسال",
+    "pronunciation": "write"
+  },
+  {
+    "rank": 163,
+    "word": "أراد",
+    "pronunciation": "would"
+  },
+  {
+    "rank": 164,
+    "word": "مثل",
+    "pronunciation": "like"
+  },
+  {
+    "rank": 165,
+    "word": "هكذا",
+    "pronunciation": "so"
+  },
+  {
+    "rank": 166,
+    "word": "هؤلاء",
+    "pronunciation": "these"
+  },
+  {
+    "rank": 167,
+    "word": "لها",
+    "pronunciation": "her"
+  },
+  {
+    "rank": 168,
+    "word": "طويل",
+    "pronunciation": "long"
+  },
+  {
+    "rank": 169,
+    "word": "جعل",
+    "pronunciation": "make"
+  },
+  {
+    "rank": 170,
+    "word": "شيء",
+    "pronunciation": "thing"
+  },
+  {
+    "rank": 171,
+    "word": "شاهد",
+    "pronunciation": "see"
+  },
+  {
+    "rank": 172,
+    "word": "له",
+    "pronunciation": "him"
+  },
+  {
+    "rank": 173,
+    "word": "اثنين",
+    "pronunciation": "two"
+  },
+  {
+    "rank": 174,
+    "word": "لديه",
+    "pronunciation": "has"
+  },
+  {
+    "rank": 175,
+    "word": "بحث",
+    "pronunciation": "look"
+  },
+  {
+    "rank": 176,
+    "word": "أكثر",
+    "pronunciation": "more"
+  },
+  {
+    "rank": 177,
+    "word": "يوم",
+    "pronunciation": "day"
+  },
+  {
+    "rank": 178,
+    "word": "يمكن",
+    "pronunciation": "could"
+  },
+  {
+    "rank": 179,
+    "word": "تذهب",
+    "pronunciation": "go"
+  },
+  {
+    "rank": 180,
+    "word": "جاء",
+    "pronunciation": "come"
+  },
+  {
+    "rank": 181,
+    "word": "لم",
+    "pronunciation": "did"
+  },
+  {
+    "rank": 182,
+    "word": "عدد",
+    "pronunciation": "number"
+  },
+  {
+    "rank": 183,
+    "word": "صوت",
+    "pronunciation": "sound"
+  },
+  {
+    "rank": 184,
+    "word": "لا",
+    "pronunciation": "no"
+  },
+  {
+    "rank": 185,
+    "word": "أكثر",
+    "pronunciation": "most"
+  },
+  {
+    "rank": 186,
+    "word": "الناس",
+    "pronunciation": "people"
+  },
+  {
+    "rank": 187,
+    "word": "لي",
+    "pronunciation": "my"
+  },
+  {
+    "rank": 188,
+    "word": "على",
+    "pronunciation": "over"
+  },
+  {
+    "rank": 189,
+    "word": "تعرف",
+    "pronunciation": "know"
+  },
+  {
+    "rank": 190,
+    "word": "ماء",
+    "pronunciation": "water"
+  },
+  {
+    "rank": 191,
+    "word": "من",
+    "pronunciation": "than"
+  },
+  {
+    "rank": 192,
+    "word": "دعوة",
+    "pronunciation": "call"
+  },
+  {
+    "rank": 193,
+    "word": "الأول",
+    "pronunciation": "first"
+  },
+  {
+    "rank": 194,
+    "word": "الذي",
+    "pronunciation": "who"
+  },
+  {
+    "rank": 195,
+    "word": "قد",
+    "pronunciation": "may"
+  },
+  {
+    "rank": 196,
+    "word": "إلى",
+    "pronunciation": "down"
+  },
+  {
+    "rank": 197,
+    "word": "الجانب",
+    "pronunciation": "side"
+  },
+  {
+    "rank": 198,
+    "word": "كان",
+    "pronunciation": "been"
+  },
+  {
+    "rank": 199,
+    "word": "الآن",
+    "pronunciation": "now"
+  },
+  {
+    "rank": 200,
+    "word": "اكتشاف",
+    "pronunciation": "find"
+  },
+  {
+    "rank": 201,
+    "word": "رئيس",
+    "pronunciation": "head"
+  },
+  {
+    "rank": 202,
+    "word": "الوقوف",
+    "pronunciation": "stand"
+  },
+  {
+    "rank": 203,
+    "word": "الخاصة",
+    "pronunciation": "own"
+  },
+  {
+    "rank": 204,
+    "word": "الصفحة",
+    "pronunciation": "page"
+  },
+  {
+    "rank": 205,
+    "word": "ينبغي",
+    "pronunciation": "should"
+  },
+  {
+    "rank": 206,
+    "word": "بلد",
+    "pronunciation": "country"
+  },
+  {
+    "rank": 207,
+    "word": "أسس",
+    "pronunciation": "found"
+  },
+  {
+    "rank": 208,
+    "word": "الجواب",
+    "pronunciation": "answer"
+  },
+  {
+    "rank": 209,
+    "word": "المدرسة",
+    "pronunciation": "school"
+  },
+  {
+    "rank": 210,
+    "word": "تنمو",
+    "pronunciation": "grow"
+  },
+  {
+    "rank": 211,
+    "word": "دراسة",
+    "pronunciation": "study"
+  },
+  {
+    "rank": 212,
+    "word": "لا يزال",
+    "pronunciation": "still"
+  },
+  {
+    "rank": 213,
+    "word": "تعلم",
+    "pronunciation": "learn"
+  },
+  {
+    "rank": 214,
+    "word": "مصنع",
+    "pronunciation": "plant"
+  },
+  {
+    "rank": 215,
+    "word": "غطاء",
+    "pronunciation": "cover"
+  },
+  {
+    "rank": 216,
+    "word": "غذاء",
+    "pronunciation": "food"
+  },
+  {
+    "rank": 217,
+    "word": "شمس",
+    "pronunciation": "sun"
+  },
+  {
+    "rank": 218,
+    "word": "أربعة",
+    "pronunciation": "four"
+  },
+  {
+    "rank": 219,
+    "word": "بين",
+    "pronunciation": "between"
+  },
+  {
+    "rank": 220,
+    "word": "دولة",
+    "pronunciation": "state"
+  },
+  {
+    "rank": 221,
+    "word": "احتفظ",
+    "pronunciation": "keep"
+  },
+  {
+    "rank": 222,
+    "word": "العين",
+    "pronunciation": "eye"
+  },
+  {
+    "rank": 223,
+    "word": "أبدا",
+    "pronunciation": "never"
+  },
+  {
+    "rank": 224,
+    "word": "آخر",
+    "pronunciation": "last"
+  },
+  {
+    "rank": 225,
+    "word": "سمح",
+    "pronunciation": "let"
+  },
+  {
+    "rank": 226,
+    "word": "يعتقد",
+    "pronunciation": "thought"
+  },
+  {
+    "rank": 227,
+    "word": "المدينة",
+    "pronunciation": "city"
+  },
+  {
+    "rank": 228,
+    "word": "شجرة",
+    "pronunciation": "tree"
+  },
+  {
+    "rank": 229,
+    "word": "عبور",
+    "pronunciation": "cross"
+  },
+  {
+    "rank": 230,
+    "word": "مزرعة",
+    "pronunciation": "farm"
+  },
+  {
+    "rank": 231,
+    "word": "شاق",
+    "pronunciation": "hard"
+  },
+  {
+    "rank": 232,
+    "word": "بداية",
+    "pronunciation": "start"
+  },
+  {
+    "rank": 233,
+    "word": "قد",
+    "pronunciation": "might"
+  },
+  {
+    "rank": 234,
+    "word": "قصة",
+    "pronunciation": "story"
+  },
+  {
+    "rank": 235,
+    "word": "منشار",
+    "pronunciation": "saw"
+  },
+  {
+    "rank": 236,
+    "word": "الآن",
+    "pronunciation": "far"
+  },
+  {
+    "rank": 237,
+    "word": "بحر",
+    "pronunciation": "sea"
+  },
+  {
+    "rank": 238,
+    "word": "رسم",
+    "pronunciation": "draw"
+  },
+  {
+    "rank": 239,
+    "word": "غادر",
+    "pronunciation": "left"
+  },
+  {
+    "rank": 240,
+    "word": "متأخر",
+    "pronunciation": "late"
+  },
+  {
+    "rank": 241,
+    "word": "تشغيل",
+    "pronunciation": "run"
+  },
+  {
+    "rank": 242,
+    "word": "لا",
+    "pronunciation": "don’t"
+  },
+  {
+    "rank": 243,
+    "word": "في حين",
+    "pronunciation": "while"
+  },
+  {
+    "rank": 244,
+    "word": "الصحافة",
+    "pronunciation": "press"
+  },
+  {
+    "rank": 245,
+    "word": "قريب",
+    "pronunciation": "close"
+  },
+  {
+    "rank": 246,
+    "word": "الليل",
+    "pronunciation": "night"
+  },
+  {
+    "rank": 247,
+    "word": "حقيقية",
+    "pronunciation": "real"
+  },
+  {
+    "rank": 248,
+    "word": "حياة",
+    "pronunciation": "life"
+  },
+  {
+    "rank": 249,
+    "word": "قليل",
+    "pronunciation": "few"
+  },
+  {
+    "rank": 250,
+    "word": "شمال",
+    "pronunciation": "north"
+  },
+  {
+    "rank": 251,
+    "word": "كتاب",
+    "pronunciation": "book"
+  },
+  {
+    "rank": 252,
+    "word": "حمل",
+    "pronunciation": "carry"
+  },
+  {
+    "rank": 253,
+    "word": "استغرق",
+    "pronunciation": "took"
+  },
+  {
+    "rank": 254,
+    "word": "علم",
+    "pronunciation": "science"
+  },
+  {
+    "rank": 255,
+    "word": "أكل",
+    "pronunciation": "eat"
+  },
+  {
+    "rank": 256,
+    "word": "غرفة",
+    "pronunciation": "room"
+  },
+  {
+    "rank": 257,
+    "word": "صديق",
+    "pronunciation": "friend"
+  },
+  {
+    "rank": 258,
+    "word": "بدأ",
+    "pronunciation": "began"
+  },
+  {
+    "rank": 259,
+    "word": "فكرة",
+    "pronunciation": "idea"
+  },
+  {
+    "rank": 260,
+    "word": "سمك",
+    "pronunciation": "fish"
+  },
+  {
+    "rank": 261,
+    "word": "الجبل",
+    "pronunciation": "mountain"
+  },
+  {
+    "rank": 262,
+    "word": "توقف",
+    "pronunciation": "stop"
+  },
+  {
+    "rank": 263,
+    "word": "مرة واحدة",
+    "pronunciation": "once"
+  },
+  {
+    "rank": 264,
+    "word": "قاعدة",
+    "pronunciation": "base"
+  },
+  {
+    "rank": 265,
+    "word": "سمع",
+    "pronunciation": "hear"
+  },
+  {
+    "rank": 266,
+    "word": "الحصان",
+    "pronunciation": "horse"
+  },
+  {
+    "rank": 267,
+    "word": "قطع",
+    "pronunciation": "cut"
+  },
+  {
+    "rank": 268,
+    "word": "بالتأكيد",
+    "pronunciation": "sure"
+  },
+  {
+    "rank": 269,
+    "word": "راقب",
+    "pronunciation": "watch"
+  },
+  {
+    "rank": 270,
+    "word": "لون",
+    "pronunciation": "color"
+  },
+  {
+    "rank": 271,
+    "word": "وجه",
+    "pronunciation": "face"
+  },
+  {
+    "rank": 272,
+    "word": "الخشب",
+    "pronunciation": "wood"
+  },
+  {
+    "rank": 273,
+    "word": "رئيسي",
+    "pronunciation": "main"
+  },
+  {
+    "rank": 274,
+    "word": "مفتوحة",
+    "pronunciation": "open"
+  },
+  {
+    "rank": 275,
+    "word": "يبدو",
+    "pronunciation": "seem"
+  },
+  {
+    "rank": 276,
+    "word": "معا",
+    "pronunciation": "together"
+  },
+  {
+    "rank": 277,
+    "word": "المقبل",
+    "pronunciation": "next"
+  },
+  {
+    "rank": 278,
+    "word": "أبيض",
+    "pronunciation": "white"
+  },
+  {
+    "rank": 279,
+    "word": "الأطفال",
+    "pronunciation": "children"
+  },
+  {
+    "rank": 280,
+    "word": "بدأ",
+    "pronunciation": "begin"
+  },
+  {
+    "rank": 281,
+    "word": "حصلت",
+    "pronunciation": "got"
+  },
+  {
+    "rank": 282,
+    "word": "سير",
+    "pronunciation": "walk"
+  },
+  {
+    "rank": 283,
+    "word": "مثال",
+    "pronunciation": "example"
+  },
+  {
+    "rank": 284,
+    "word": "سهولة",
+    "pronunciation": "ease"
+  },
+  {
+    "rank": 285,
+    "word": "ورق",
+    "pronunciation": "paper"
+  },
+  {
+    "rank": 286,
+    "word": "مجموعة",
+    "pronunciation": "group"
+  },
+  {
+    "rank": 287,
+    "word": "دائما",
+    "pronunciation": "always"
+  },
+  {
+    "rank": 288,
+    "word": "الموسيقى",
+    "pronunciation": "music"
+  },
+  {
+    "rank": 289,
+    "word": "تلك",
+    "pronunciation": "those"
+  },
+  {
+    "rank": 290,
+    "word": "كلا",
+    "pronunciation": "both"
+  },
+  {
+    "rank": 291,
+    "word": "علامة",
+    "pronunciation": "mark"
+  },
+  {
+    "rank": 292,
+    "word": "غالبا",
+    "pronunciation": "often"
+  },
+  {
+    "rank": 293,
+    "word": "الرسالة",
+    "pronunciation": "letter"
+  },
+  {
+    "rank": 294,
+    "word": "حتى",
+    "pronunciation": "until"
+  },
+  {
+    "rank": 295,
+    "word": "ميل",
+    "pronunciation": "mile"
+  },
+  {
+    "rank": 296,
+    "word": "النهر",
+    "pronunciation": "river"
+  },
+  {
+    "rank": 297,
+    "word": "سيارة",
+    "pronunciation": "car"
+  },
+  {
+    "rank": 298,
+    "word": "قدم",
+    "pronunciation": "feet"
+  },
+  {
+    "rank": 299,
+    "word": "الرعاية",
+    "pronunciation": "care"
+  },
+  {
+    "rank": 300,
+    "word": "ثان",
+    "pronunciation": "second"
+  },
+  {
+    "rank": 301,
+    "word": "بما فيه الكفاية",
+    "pronunciation": "enough"
+  },
+  {
+    "rank": 302,
+    "word": "سهل",
+    "pronunciation": "plain"
+  },
+  {
+    "rank": 303,
+    "word": "فتاة",
+    "pronunciation": "girl"
+  },
+  {
+    "rank": 304,
+    "word": "معتاد",
+    "pronunciation": "usual"
+  },
+  {
+    "rank": 305,
+    "word": "الشباب",
+    "pronunciation": "young"
+  },
+  {
+    "rank": 306,
+    "word": "جاهزة",
+    "pronunciation": "ready"
+  },
+  {
+    "rank": 307,
+    "word": "فوق",
+    "pronunciation": "above"
+  },
+  {
+    "rank": 308,
+    "word": "أبدا",
+    "pronunciation": "ever"
+  },
+  {
+    "rank": 309,
+    "word": "أحمر",
+    "pronunciation": "red"
+  },
+  {
+    "rank": 310,
+    "word": "قائمة",
+    "pronunciation": "list"
+  },
+  {
+    "rank": 311,
+    "word": "على الرغم من",
+    "pronunciation": "though"
+  },
+  {
+    "rank": 312,
+    "word": "إحساس",
+    "pronunciation": "feel"
+  },
+  {
+    "rank": 313,
+    "word": "الحديث",
+    "pronunciation": "talk"
+  },
+  {
+    "rank": 314,
+    "word": "طائر",
+    "pronunciation": "bird"
+  },
+  {
+    "rank": 315,
+    "word": "قريبا",
+    "pronunciation": "soon"
+  },
+  {
+    "rank": 316,
+    "word": "هيئة",
+    "pronunciation": "body"
+  },
+  {
+    "rank": 317,
+    "word": "الكلب",
+    "pronunciation": "dog"
+  },
+  {
+    "rank": 318,
+    "word": "عائلة",
+    "pronunciation": "family"
+  },
+  {
+    "rank": 319,
+    "word": "مباشر",
+    "pronunciation": "direct"
+  },
+  {
+    "rank": 320,
+    "word": "أربك",
+    "pronunciation": "pose"
+  },
+  {
+    "rank": 321,
+    "word": "ترك",
+    "pronunciation": "leave"
+  },
+  {
+    "rank": 322,
+    "word": "أغنية",
+    "pronunciation": "song"
+  },
+  {
+    "rank": 323,
+    "word": "قياس",
+    "pronunciation": "measure"
+  },
+  {
+    "rank": 324,
+    "word": "باب",
+    "pronunciation": "door"
+  },
+  {
+    "rank": 325,
+    "word": "نتاج",
+    "pronunciation": "product"
+  },
+  {
+    "rank": 326,
+    "word": "أسود",
+    "pronunciation": "black"
+  },
+  {
+    "rank": 327,
+    "word": "قصير",
+    "pronunciation": "short"
+  },
+  {
+    "rank": 328,
+    "word": "الأرقام",
+    "pronunciation": "numeral"
+  },
+  {
+    "rank": 329,
+    "word": "الفئة",
+    "pronunciation": "class"
+  },
+  {
+    "rank": 330,
+    "word": "الرياح",
+    "pronunciation": "wind"
+  },
+  {
+    "rank": 331,
+    "word": "السؤال",
+    "pronunciation": "question"
+  },
+  {
+    "rank": 332,
+    "word": "يحدث",
+    "pronunciation": "happen"
+  },
+  {
+    "rank": 333,
+    "word": "كاملة",
+    "pronunciation": "complete"
+  },
+  {
+    "rank": 334,
+    "word": "سفينة",
+    "pronunciation": "ship"
+  },
+  {
+    "rank": 335,
+    "word": "منطقة",
+    "pronunciation": "area"
+  },
+  {
+    "rank": 336,
+    "word": "نصف",
+    "pronunciation": "half"
+  },
+  {
+    "rank": 337,
+    "word": "صخرة",
+    "pronunciation": "rock"
+  },
+  {
+    "rank": 338,
+    "word": "النظام",
+    "pronunciation": "order"
+  },
+  {
+    "rank": 339,
+    "word": "النار",
+    "pronunciation": "fire"
+  },
+  {
+    "rank": 340,
+    "word": "الجنوب",
+    "pronunciation": "south"
+  },
+  {
+    "rank": 341,
+    "word": "مشكلة",
+    "pronunciation": "problem"
+  },
+  {
+    "rank": 342,
+    "word": "قطعة",
+    "pronunciation": "piece"
+  },
+  {
+    "rank": 343,
+    "word": "قال",
+    "pronunciation": "told"
+  },
+  {
+    "rank": 344,
+    "word": "عرف",
+    "pronunciation": "knew"
+  },
+  {
+    "rank": 345,
+    "word": "تمر",
+    "pronunciation": "pass"
+  },
+  {
+    "rank": 346,
+    "word": "منذ",
+    "pronunciation": "since"
+  },
+  {
+    "rank": 347,
+    "word": "أعلى",
+    "pronunciation": "top"
+  },
+  {
+    "rank": 348,
+    "word": "ككل",
+    "pronunciation": "whole"
+  },
+  {
+    "rank": 349,
+    "word": "ملك",
+    "pronunciation": "king"
+  },
+  {
+    "rank": 350,
+    "word": "شارع",
+    "pronunciation": "street"
+  },
+  {
+    "rank": 351,
+    "word": "بوصة",
+    "pronunciation": "inch"
+  },
+  {
+    "rank": 352,
+    "word": "مضاعفة",
+    "pronunciation": "multiply"
+  },
+  {
+    "rank": 353,
+    "word": "لا شيء",
+    "pronunciation": "nothing"
+  },
+  {
+    "rank": 354,
+    "word": "بالطبع",
+    "pronunciation": "course"
+  },
+  {
+    "rank": 355,
+    "word": "إقامة",
+    "pronunciation": "stay"
+  },
+  {
+    "rank": 356,
+    "word": "عجلة",
+    "pronunciation": "wheel"
+  },
+  {
+    "rank": 357,
+    "word": "كامل",
+    "pronunciation": "full"
+  },
+  {
+    "rank": 358,
+    "word": "قوة",
+    "pronunciation": "force"
+  },
+  {
+    "rank": 359,
+    "word": "الأزرق",
+    "pronunciation": "blue"
+  },
+  {
+    "rank": 360,
+    "word": "موضوع",
+    "pronunciation": "object"
+  },
+  {
+    "rank": 361,
+    "word": "تقرر",
+    "pronunciation": "decide"
+  },
+  {
+    "rank": 362,
+    "word": "سطح",
+    "pronunciation": "surface"
+  },
+  {
+    "rank": 363,
+    "word": "عميق",
+    "pronunciation": "deep"
+  },
+  {
+    "rank": 364,
+    "word": "ضوء القمر",
+    "pronunciation": "moon"
+  },
+  {
+    "rank": 365,
+    "word": "الجزيرة",
+    "pronunciation": "island"
+  },
+  {
+    "rank": 366,
+    "word": "القدم",
+    "pronunciation": "foot"
+  },
+  {
+    "rank": 367,
+    "word": "نظام",
+    "pronunciation": "system"
+  },
+  {
+    "rank": 368,
+    "word": "مشغول",
+    "pronunciation": "busy"
+  },
+  {
+    "rank": 369,
+    "word": "اختبار",
+    "pronunciation": "test"
+  },
+  {
+    "rank": 370,
+    "word": "سجل",
+    "pronunciation": "record"
+  },
+  {
+    "rank": 371,
+    "word": "قارب",
+    "pronunciation": "boat"
+  },
+  {
+    "rank": 372,
+    "word": "مشترك",
+    "pronunciation": "common"
+  },
+  {
+    "rank": 373,
+    "word": "الذهب",
+    "pronunciation": "gold"
+  },
+  {
+    "rank": 374,
+    "word": "ممكن",
+    "pronunciation": "possible"
+  },
+  {
+    "rank": 375,
+    "word": "طائرة",
+    "pronunciation": "plane"
+  },
+  {
+    "rank": 376,
+    "word": "بدلا",
+    "pronunciation": "stead"
+  },
+  {
+    "rank": 377,
+    "word": "جاف",
+    "pronunciation": "dry"
+  },
+  {
+    "rank": 378,
+    "word": "عجب",
+    "pronunciation": "wonder"
+  },
+  {
+    "rank": 379,
+    "word": "الضحك",
+    "pronunciation": "laugh"
+  },
+  {
+    "rank": 380,
+    "word": "ألف",
+    "pronunciation": "thousand"
+  },
+  {
+    "rank": 381,
+    "word": "منذ",
+    "pronunciation": "ago"
+  },
+  {
+    "rank": 382,
+    "word": "ركض",
+    "pronunciation": "ran"
+  },
+  {
+    "rank": 383,
+    "word": "تحقق",
+    "pronunciation": "check"
+  },
+  {
+    "rank": 384,
+    "word": "لعبة",
+    "pronunciation": "game"
+  },
+  {
+    "rank": 385,
+    "word": "شكل",
+    "pronunciation": "shape"
+  },
+  {
+    "rank": 386,
+    "word": "مساواة",
+    "pronunciation": "equate"
+  },
+  {
+    "rank": 387,
+    "word": "حار",
+    "pronunciation": "hot"
+  },
+  {
+    "rank": 388,
+    "word": "ملكة جمال",
+    "pronunciation": "miss"
+  },
+  {
+    "rank": 389,
+    "word": "جلبت",
+    "pronunciation": "brought"
+  },
+  {
+    "rank": 390,
+    "word": "حرارة",
+    "pronunciation": "heat"
+  },
+  {
+    "rank": 391,
+    "word": "ثلج",
+    "pronunciation": "snow"
+  },
+  {
+    "rank": 392,
+    "word": "إطار العجلة",
+    "pronunciation": "tire"
+  },
+  {
+    "rank": 393,
+    "word": "جلب",
+    "pronunciation": "bring"
+  },
+  {
+    "rank": 394,
+    "word": "نعم",
+    "pronunciation": "yes"
+  },
+  {
+    "rank": 395,
+    "word": "بعيد",
+    "pronunciation": "distant"
+  },
+  {
+    "rank": 396,
+    "word": "شغل",
+    "pronunciation": "fill"
+  },
+  {
+    "rank": 397,
+    "word": "الشرق",
+    "pronunciation": "east"
+  },
+  {
+    "rank": 398,
+    "word": "الطلاء",
+    "pronunciation": "paint"
+  },
+  {
+    "rank": 399,
+    "word": "اللغة",
+    "pronunciation": "language"
+  },
+  {
+    "rank": 400,
+    "word": "بين",
+    "pronunciation": "among"
+  },
+  {
+    "rank": 401,
+    "word": "وحدة",
+    "pronunciation": "unit"
+  },
+  {
+    "rank": 402,
+    "word": "قوة",
+    "pronunciation": "power"
+  },
+  {
+    "rank": 403,
+    "word": "مدينة",
+    "pronunciation": "town"
+  },
+  {
+    "rank": 404,
+    "word": "غرامة",
+    "pronunciation": "fine"
+  },
+  {
+    "rank": 405,
+    "word": "معين",
+    "pronunciation": "certain"
+  },
+  {
+    "rank": 406,
+    "word": "يطير",
+    "pronunciation": "fly"
+  },
+  {
+    "rank": 407,
+    "word": "سقط",
+    "pronunciation": "fall"
+  },
+  {
+    "rank": 408,
+    "word": "قيادة",
+    "pronunciation": "lead"
+  },
+  {
+    "rank": 409,
+    "word": "صرخة",
+    "pronunciation": "cry"
+  },
+  {
+    "rank": 410,
+    "word": "مظلم",
+    "pronunciation": "dark"
+  },
+  {
+    "rank": 411,
+    "word": "آلة",
+    "pronunciation": "machine"
+  },
+  {
+    "rank": 412,
+    "word": "مذكرة",
+    "pronunciation": "note"
+  },
+  {
+    "rank": 413,
+    "word": "انتظر",
+    "pronunciation": "wait"
+  },
+  {
+    "rank": 414,
+    "word": "خطة",
+    "pronunciation": "plan"
+  },
+  {
+    "rank": 415,
+    "word": "الرقم",
+    "pronunciation": "figure"
+  },
+  {
+    "rank": 416,
+    "word": "نجمة",
+    "pronunciation": "star"
+  },
+  {
+    "rank": 417,
+    "word": "صندوق",
+    "pronunciation": "box"
+  },
+  {
+    "rank": 418,
+    "word": "إسم",
+    "pronunciation": "noun"
+  },
+  {
+    "rank": 419,
+    "word": "الحقل",
+    "pronunciation": "field"
+  },
+  {
+    "rank": 420,
+    "word": "بقية",
+    "pronunciation": "rest"
+  },
+  {
+    "rank": 421,
+    "word": "صحيح",
+    "pronunciation": "correct"
+  },
+  {
+    "rank": 422,
+    "word": "قادرة",
+    "pronunciation": "able"
+  },
+  {
+    "rank": 423,
+    "word": "الجنيه",
+    "pronunciation": "pound"
+  },
+  {
+    "rank": 424,
+    "word": "منجز",
+    "pronunciation": "done"
+  },
+  {
+    "rank": 425,
+    "word": "الجمال",
+    "pronunciation": "beauty"
+  },
+  {
+    "rank": 426,
+    "word": "محرك",
+    "pronunciation": "drive"
+  },
+  {
+    "rank": 427,
+    "word": "وقفت",
+    "pronunciation": "stood"
+  },
+  {
+    "rank": 428,
+    "word": "تحتوي على",
+    "pronunciation": "contain"
+  },
+  {
+    "rank": 429,
+    "word": "الجبهة",
+    "pronunciation": "front"
+  },
+  {
+    "rank": 430,
+    "word": "تعليم",
+    "pronunciation": "teach"
+  },
+  {
+    "rank": 431,
+    "word": "أسبوع",
+    "pronunciation": "week"
+  },
+  {
+    "rank": 432,
+    "word": "نهائي",
+    "pronunciation": "final"
+  },
+  {
+    "rank": 433,
+    "word": "أعطى",
+    "pronunciation": "gave"
+  },
+  {
+    "rank": 434,
+    "word": "الأخضر",
+    "pronunciation": "green"
+  },
+  {
+    "rank": 435,
+    "word": "يا",
+    "pronunciation": "oh"
+  },
+  {
+    "rank": 436,
+    "word": "سريع",
+    "pronunciation": "quick"
+  },
+  {
+    "rank": 437,
+    "word": "تطوير",
+    "pronunciation": "develop"
+  },
+  {
+    "rank": 438,
+    "word": "المحيط",
+    "pronunciation": "ocean"
+  },
+  {
+    "rank": 439,
+    "word": "الحارة",
+    "pronunciation": "warm"
+  },
+  {
+    "rank": 440,
+    "word": "حر",
+    "pronunciation": "free"
+  },
+  {
+    "rank": 441,
+    "word": "دقيقة",
+    "pronunciation": "minute"
+  },
+  {
+    "rank": 442,
+    "word": "قوي",
+    "pronunciation": "strong"
+  },
+  {
+    "rank": 443,
+    "word": "خاص",
+    "pronunciation": "special"
+  },
+  {
+    "rank": 444,
+    "word": "عقل",
+    "pronunciation": "mind"
+  },
+  {
+    "rank": 445,
+    "word": "خلف",
+    "pronunciation": "behind"
+  },
+  {
+    "rank": 446,
+    "word": "واضح",
+    "pronunciation": "clear"
+  },
+  {
+    "rank": 447,
+    "word": "ذيل",
+    "pronunciation": "tail"
+  },
+  {
+    "rank": 448,
+    "word": "إنتاج",
+    "pronunciation": "produce"
+  },
+  {
+    "rank": 449,
+    "word": "حقيقة",
+    "pronunciation": "fact"
+  },
+  {
+    "rank": 450,
+    "word": "الفضاء",
+    "pronunciation": "space"
+  },
+  {
+    "rank": 451,
+    "word": "سمعت",
+    "pronunciation": "heard"
+  },
+  {
+    "rank": 452,
+    "word": "أفضل",
+    "pronunciation": "best"
+  },
+  {
+    "rank": 453,
+    "word": "ساعة",
+    "pronunciation": "hour"
+  },
+  {
+    "rank": 454,
+    "word": "أفضل",
+    "pronunciation": "better"
+  },
+  {
+    "rank": 455,
+    "word": "صحيح",
+    "pronunciation": "true"
+  },
+  {
+    "rank": 456,
+    "word": "خلال",
+    "pronunciation": "during"
+  },
+  {
+    "rank": 457,
+    "word": "مائة",
+    "pronunciation": "hundred"
+  },
+  {
+    "rank": 458,
+    "word": "خمسة",
+    "pronunciation": "five"
+  },
+  {
+    "rank": 459,
+    "word": "تذكر",
+    "pronunciation": "remember"
+  },
+  {
+    "rank": 460,
+    "word": "خطوة",
+    "pronunciation": "step"
+  },
+  {
+    "rank": 461,
+    "word": "في وقت مبكر",
+    "pronunciation": "early"
+  },
+  {
+    "rank": 462,
+    "word": "عقد",
+    "pronunciation": "hold"
+  },
+  {
+    "rank": 463,
+    "word": "غرب",
+    "pronunciation": "west"
+  },
+  {
+    "rank": 464,
+    "word": "أرض",
+    "pronunciation": "ground"
+  },
+  {
+    "rank": 465,
+    "word": "مصلحة",
+    "pronunciation": "interest"
+  },
+  {
+    "rank": 466,
+    "word": "الوصول",
+    "pronunciation": "reach"
+  },
+  {
+    "rank": 467,
+    "word": "بسرعة",
+    "pronunciation": "fast"
+  },
+  {
+    "rank": 468,
+    "word": "الفعل",
+    "pronunciation": "verb"
+  },
+  {
+    "rank": 469,
+    "word": "الغناء",
+    "pronunciation": "sing"
+  },
+  {
+    "rank": 470,
+    "word": "استمع",
+    "pronunciation": "listen"
+  },
+  {
+    "rank": 471,
+    "word": "ستة",
+    "pronunciation": "six"
+  },
+  {
+    "rank": 472,
+    "word": "الجدول",
+    "pronunciation": "table"
+  },
+  {
+    "rank": 473,
+    "word": "السفر",
+    "pronunciation": "travel"
+  },
+  {
+    "rank": 474,
+    "word": "أقل",
+    "pronunciation": "less"
+  },
+  {
+    "rank": 475,
+    "word": "الصباح",
+    "pronunciation": "morning"
+  },
+  {
+    "rank": 476,
+    "word": "عشرة",
+    "pronunciation": "ten"
+  },
+  {
+    "rank": 477,
+    "word": "بسيطة",
+    "pronunciation": "simple"
+  },
+  {
+    "rank": 478,
+    "word": "عدة",
+    "pronunciation": "several"
+  },
+  {
+    "rank": 479,
+    "word": "حرف لين",
+    "pronunciation": "vowel"
+  },
+  {
+    "rank": 480,
+    "word": "نحو",
+    "pronunciation": "toward"
+  },
+  {
+    "rank": 481,
+    "word": "حرب",
+    "pronunciation": "war"
+  },
+  {
+    "rank": 482,
+    "word": "وضع",
+    "pronunciation": "lay"
+  },
+  {
+    "rank": 483,
+    "word": "ضد",
+    "pronunciation": "against"
+  },
+  {
+    "rank": 484,
+    "word": "نمط",
+    "pronunciation": "pattern"
+  },
+  {
+    "rank": 485,
+    "word": "بطيئة",
+    "pronunciation": "slow"
+  },
+  {
+    "rank": 486,
+    "word": "مركز",
+    "pronunciation": "center"
+  },
+  {
+    "rank": 487,
+    "word": "الحب",
+    "pronunciation": "love"
+  },
+  {
+    "rank": 488,
+    "word": "شخص",
+    "pronunciation": "person"
+  },
+  {
+    "rank": 489,
+    "word": "المال",
+    "pronunciation": "money"
+  },
+  {
+    "rank": 490,
+    "word": "خدمة",
+    "pronunciation": "serve"
+  },
+  {
+    "rank": 491,
+    "word": "تظهر",
+    "pronunciation": "appear"
+  },
+  {
+    "rank": 492,
+    "word": "طريق",
+    "pronunciation": "road"
+  },
+  {
+    "rank": 493,
+    "word": "خريطة",
+    "pronunciation": "map"
+  },
+  {
+    "rank": 494,
+    "word": "مطر",
+    "pronunciation": "rain"
+  },
+  {
+    "rank": 495,
+    "word": "حكم",
+    "pronunciation": "rule"
+  },
+  {
+    "rank": 496,
+    "word": "الحكم",
+    "pronunciation": "govern"
+  },
+  {
+    "rank": 497,
+    "word": "سحب",
+    "pronunciation": "pull"
+  },
+  {
+    "rank": 498,
+    "word": "بارد",
+    "pronunciation": "cold"
+  },
+  {
+    "rank": 499,
+    "word": "إشعار",
+    "pronunciation": "notice"
+  },
+  {
+    "rank": 500,
+    "word": "صوت",
+    "pronunciation": "voice"
+  },
+  {
+    "rank": 501,
+    "word": "الطاقة",
+    "pronunciation": "energy"
+  },
+  {
+    "rank": 502,
+    "word": "مطاردة",
+    "pronunciation": "hunt"
+  },
+  {
+    "rank": 503,
+    "word": "محتمل",
+    "pronunciation": "probable"
+  },
+  {
+    "rank": 504,
+    "word": "قاع",
+    "pronunciation": "bed"
+  },
+  {
+    "rank": 505,
+    "word": "شقيق",
+    "pronunciation": "brother"
+  },
+  {
+    "rank": 506,
+    "word": "البيض",
+    "pronunciation": "egg"
+  },
+  {
+    "rank": 507,
+    "word": "ركوب",
+    "pronunciation": "ride"
+  },
+  {
+    "rank": 508,
+    "word": "خلية",
+    "pronunciation": "cell"
+  },
+  {
+    "rank": 509,
+    "word": "اعتقد",
+    "pronunciation": "believe"
+  },
+  {
+    "rank": 510,
+    "word": "ربما",
+    "pronunciation": "perhaps"
+  },
+  {
+    "rank": 511,
+    "word": "اختيار",
+    "pronunciation": "pick"
+  },
+  {
+    "rank": 512,
+    "word": "مفاجئ",
+    "pronunciation": "sudden"
+  },
+  {
+    "rank": 513,
+    "word": "عد",
+    "pronunciation": "count"
+  },
+  {
+    "rank": 514,
+    "word": "مربع",
+    "pronunciation": "square"
+  },
+  {
+    "rank": 515,
+    "word": "سبب",
+    "pronunciation": "reason"
+  },
+  {
+    "rank": 516,
+    "word": "طول",
+    "pronunciation": "length"
+  },
+  {
+    "rank": 517,
+    "word": "تمثيل",
+    "pronunciation": "represent"
+  },
+  {
+    "rank": 518,
+    "word": "فن",
+    "pronunciation": "art"
+  },
+  {
+    "rank": 519,
+    "word": "الموضوع",
+    "pronunciation": "subject"
+  },
+  {
+    "rank": 520,
+    "word": "منطقة",
+    "pronunciation": "region"
+  },
+  {
+    "rank": 521,
+    "word": "حجم",
+    "pronunciation": "size"
+  },
+  {
+    "rank": 522,
+    "word": "تختلف",
+    "pronunciation": "vary"
+  },
+  {
+    "rank": 523,
+    "word": "حل",
+    "pronunciation": "settle"
+  },
+  {
+    "rank": 524,
+    "word": "الكلام",
+    "pronunciation": "speak"
+  },
+  {
+    "rank": 525,
+    "word": "الوزن",
+    "pronunciation": "weight"
+  },
+  {
+    "rank": 526,
+    "word": "عام",
+    "pronunciation": "general"
+  },
+  {
+    "rank": 527,
+    "word": "الجليد",
+    "pronunciation": "ice"
+  },
+  {
+    "rank": 528,
+    "word": "مسألة",
+    "pronunciation": "matter"
+  },
+  {
+    "rank": 529,
+    "word": "دائرة",
+    "pronunciation": "circle"
+  },
+  {
+    "rank": 530,
+    "word": "زوج",
+    "pronunciation": "pair"
+  },
+  {
+    "rank": 531,
+    "word": "تضمن",
+    "pronunciation": "include"
+  },
+  {
+    "rank": 532,
+    "word": "الفجوة",
+    "pronunciation": "divide"
+  },
+  {
+    "rank": 533,
+    "word": "مقطع لفظي",
+    "pronunciation": "syllable"
+  },
+  {
+    "rank": 534,
+    "word": "شعر",
+    "pronunciation": "felt"
+  },
+  {
+    "rank": 535,
+    "word": "الكبرى",
+    "pronunciation": "grand"
+  },
+  {
+    "rank": 536,
+    "word": "كرة",
+    "pronunciation": "ball"
+  },
+  {
+    "rank": 537,
+    "word": "بعد",
+    "pronunciation": "yet"
+  },
+  {
+    "rank": 538,
+    "word": "موجة",
+    "pronunciation": "wave"
+  },
+  {
+    "rank": 539,
+    "word": "إسقاط",
+    "pronunciation": "drop"
+  },
+  {
+    "rank": 540,
+    "word": "قلب",
+    "pronunciation": "heart"
+  },
+  {
+    "rank": 541,
+    "word": "صباحا",
+    "pronunciation": "am"
+  },
+  {
+    "rank": 542,
+    "word": "الحاضر",
+    "pronunciation": "present"
+  },
+  {
+    "rank": 543,
+    "word": "ثقيلة",
+    "pronunciation": "heavy"
+  },
+  {
+    "rank": 544,
+    "word": "رقص",
+    "pronunciation": "dance"
+  },
+  {
+    "rank": 545,
+    "word": "محرك",
+    "pronunciation": "engine"
+  },
+  {
+    "rank": 546,
+    "word": "موقف",
+    "pronunciation": "position"
+  },
+  {
+    "rank": 547,
+    "word": "الذراع",
+    "pronunciation": "arm"
+  },
+  {
+    "rank": 548,
+    "word": "واسع",
+    "pronunciation": "wide"
+  },
+  {
+    "rank": 549,
+    "word": "الشراع",
+    "pronunciation": "sail"
+  },
+  {
+    "rank": 550,
+    "word": "مادة",
+    "pronunciation": "material"
+  },
+  {
+    "rank": 551,
+    "word": "جزء",
+    "pronunciation": "fraction"
+  },
+  {
+    "rank": 552,
+    "word": "الغابات",
+    "pronunciation": "forest"
+  },
+  {
+    "rank": 553,
+    "word": "الجلوس",
+    "pronunciation": "sit"
+  },
+  {
+    "rank": 554,
+    "word": "سباق",
+    "pronunciation": "race"
+  },
+  {
+    "rank": 555,
+    "word": "نافذة",
+    "pronunciation": "window"
+  },
+  {
+    "rank": 556,
+    "word": "متجر",
+    "pronunciation": "store"
+  },
+  {
+    "rank": 557,
+    "word": "الصيف",
+    "pronunciation": "summer"
+  },
+  {
+    "rank": 558,
+    "word": "قطار",
+    "pronunciation": "train"
+  },
+  {
+    "rank": 559,
+    "word": "نوم",
+    "pronunciation": "sleep"
+  },
+  {
+    "rank": 560,
+    "word": "إثبات",
+    "pronunciation": "prove"
+  },
+  {
+    "rank": 561,
+    "word": "وحيد",
+    "pronunciation": "lone"
+  },
+  {
+    "rank": 562,
+    "word": "الساق",
+    "pronunciation": "leg"
+  },
+  {
+    "rank": 563,
+    "word": "ممارسة",
+    "pronunciation": "exercise"
+  },
+  {
+    "rank": 564,
+    "word": "جدار",
+    "pronunciation": "wall"
+  },
+  {
+    "rank": 565,
+    "word": "مزلاج",
+    "pronunciation": "catch"
+  },
+  {
+    "rank": 566,
+    "word": "جبل",
+    "pronunciation": "mount"
+  },
+  {
+    "rank": 567,
+    "word": "رغب",
+    "pronunciation": "wish"
+  },
+  {
+    "rank": 568,
+    "word": "سماء",
+    "pronunciation": "sky"
+  },
+  {
+    "rank": 569,
+    "word": "مجلس الإدارة",
+    "pronunciation": "board"
+  },
+  {
+    "rank": 570,
+    "word": "الفرح",
+    "pronunciation": "joy"
+  },
+  {
+    "rank": 571,
+    "word": "شتاء",
+    "pronunciation": "winter"
+  },
+  {
+    "rank": 572,
+    "word": "السبت",
+    "pronunciation": "sat"
+  },
+  {
+    "rank": 573,
+    "word": "مكتوبة",
+    "pronunciation": "written"
+  },
+  {
+    "rank": 574,
+    "word": "بري",
+    "pronunciation": "wild"
+  },
+  {
+    "rank": 575,
+    "word": "أداة",
+    "pronunciation": "instrument"
+  },
+  {
+    "rank": 576,
+    "word": "أبقى",
+    "pronunciation": "kept"
+  },
+  {
+    "rank": 577,
+    "word": "زجاج",
+    "pronunciation": "glass"
+  },
+  {
+    "rank": 578,
+    "word": "العشب",
+    "pronunciation": "grass"
+  },
+  {
+    "rank": 579,
+    "word": "بقرة",
+    "pronunciation": "cow"
+  },
+  {
+    "rank": 580,
+    "word": "العمل",
+    "pronunciation": "job"
+  },
+  {
+    "rank": 581,
+    "word": "حافة",
+    "pronunciation": "edge"
+  },
+  {
+    "rank": 582,
+    "word": "علامة",
+    "pronunciation": "sign"
+  },
+  {
+    "rank": 583,
+    "word": "زيارة",
+    "pronunciation": "visit"
+  },
+  {
+    "rank": 584,
+    "word": "الماضي",
+    "pronunciation": "past"
+  },
+  {
+    "rank": 585,
+    "word": "لينة",
+    "pronunciation": "soft"
+  },
+  {
+    "rank": 586,
+    "word": "مرح",
+    "pronunciation": "fun"
+  },
+  {
+    "rank": 587,
+    "word": "مشرق",
+    "pronunciation": "bright"
+  },
+  {
+    "rank": 588,
+    "word": "الغاز",
+    "pronunciation": "gas"
+  },
+  {
+    "rank": 589,
+    "word": "الطقس",
+    "pronunciation": "weather"
+  },
+  {
+    "rank": 590,
+    "word": "شهر",
+    "pronunciation": "month"
+  },
+  {
+    "rank": 591,
+    "word": "مليون",
+    "pronunciation": "million"
+  },
+  {
+    "rank": 592,
+    "word": "تحمل",
+    "pronunciation": "bear"
+  },
+  {
+    "rank": 593,
+    "word": "نهاية",
+    "pronunciation": "finish"
+  },
+  {
+    "rank": 594,
+    "word": "سعيدة",
+    "pronunciation": "happy"
+  },
+  {
+    "rank": 595,
+    "word": "نأمل",
+    "pronunciation": "hope"
+  },
+  {
+    "rank": 596,
+    "word": "زهرة",
+    "pronunciation": "flower"
+  },
+  {
+    "rank": 597,
+    "word": "كسا",
+    "pronunciation": "clothe"
+  },
+  {
+    "rank": 598,
+    "word": "غريب",
+    "pronunciation": "strange"
+  },
+  {
+    "rank": 599,
+    "word": "ذهب",
+    "pronunciation": "gone"
+  },
+  {
+    "rank": 600,
+    "word": "تجارة",
+    "pronunciation": "trade"
+  },
+  {
+    "rank": 601,
+    "word": "لحن",
+    "pronunciation": "melody"
+  },
+  {
+    "rank": 602,
+    "word": "رحلة",
+    "pronunciation": "trip"
+  },
+  {
+    "rank": 603,
+    "word": "مكتب",
+    "pronunciation": "office"
+  },
+  {
+    "rank": 604,
+    "word": "تلقي",
+    "pronunciation": "receive"
+  },
+  {
+    "rank": 605,
+    "word": "الصف",
+    "pronunciation": "row"
+  },
+  {
+    "rank": 606,
+    "word": "فم",
+    "pronunciation": "mouth"
+  },
+  {
+    "rank": 607,
+    "word": "بالضبط",
+    "pronunciation": "exact"
+  },
+  {
+    "rank": 608,
+    "word": "رمز",
+    "pronunciation": "symbol"
+  },
+  {
+    "rank": 609,
+    "word": "مات",
+    "pronunciation": "die"
+  },
+  {
+    "rank": 610,
+    "word": "الأقل",
+    "pronunciation": "least"
+  },
+  {
+    "rank": 611,
+    "word": "مشكلة",
+    "pronunciation": "trouble"
+  },
+  {
+    "rank": 612,
+    "word": "صيحة",
+    "pronunciation": "shout"
+  },
+  {
+    "rank": 613,
+    "word": "إلا",
+    "pronunciation": "except"
+  },
+  {
+    "rank": 614,
+    "word": "كتب",
+    "pronunciation": "wrote"
+  },
+  {
+    "rank": 615,
+    "word": "بذرة",
+    "pronunciation": "seed"
+  },
+  {
+    "rank": 616,
+    "word": "نغمة",
+    "pronunciation": "tone"
+  },
+  {
+    "rank": 617,
+    "word": "انضمام",
+    "pronunciation": "join"
+  },
+  {
+    "rank": 618,
+    "word": "اقترح",
+    "pronunciation": "suggest"
+  },
+  {
+    "rank": 619,
+    "word": "نظيف",
+    "pronunciation": "clean"
+  },
+  {
+    "rank": 620,
+    "word": "استراحة",
+    "pronunciation": "break"
+  },
+  {
+    "rank": 621,
+    "word": "سيدة",
+    "pronunciation": "lady"
+  },
+  {
+    "rank": 622,
+    "word": "ساحة",
+    "pronunciation": "yard"
+  },
+  {
+    "rank": 623,
+    "word": "الارتفاع",
+    "pronunciation": "rise"
+  },
+  {
+    "rank": 624,
+    "word": "سيئة",
+    "pronunciation": "bad"
+  },
+  {
+    "rank": 625,
+    "word": "ضربة",
+    "pronunciation": "blow"
+  },
+  {
+    "rank": 626,
+    "word": "زيت",
+    "pronunciation": "oil"
+  },
+  {
+    "rank": 627,
+    "word": "الدم",
+    "pronunciation": "blood"
+  },
+  {
+    "rank": 628,
+    "word": "لمس",
+    "pronunciation": "touch"
+  },
+  {
+    "rank": 629,
+    "word": "نما",
+    "pronunciation": "grew"
+  },
+  {
+    "rank": 630,
+    "word": "المائة",
+    "pronunciation": "cent"
+  },
+  {
+    "rank": 631,
+    "word": "مزيج",
+    "pronunciation": "mix"
+  },
+  {
+    "rank": 632,
+    "word": "فريق",
+    "pronunciation": "team"
+  },
+  {
+    "rank": 633,
+    "word": "سلك",
+    "pronunciation": "wire"
+  },
+  {
+    "rank": 634,
+    "word": "التكلفة",
+    "pronunciation": "cost"
+  },
+  {
+    "rank": 635,
+    "word": "فقدت",
+    "pronunciation": "lost"
+  },
+  {
+    "rank": 636,
+    "word": "أسمر",
+    "pronunciation": "brown"
+  },
+  {
+    "rank": 637,
+    "word": "ارتداء",
+    "pronunciation": "wear"
+  },
+  {
+    "rank": 638,
+    "word": "حديقة",
+    "pronunciation": "garden"
+  },
+  {
+    "rank": 639,
+    "word": "متساو",
+    "pronunciation": "equal"
+  },
+  {
+    "rank": 640,
+    "word": "أرسلت",
+    "pronunciation": "sent"
+  },
+  {
+    "rank": 641,
+    "word": "اختيار",
+    "pronunciation": "choose"
+  },
+  {
+    "rank": 642,
+    "word": "سقط",
+    "pronunciation": "fell"
+  },
+  {
+    "rank": 643,
+    "word": "تناسب",
+    "pronunciation": "fit"
+  },
+  {
+    "rank": 644,
+    "word": "تدفق",
+    "pronunciation": "flow"
+  },
+  {
+    "rank": 645,
+    "word": "عادل",
+    "pronunciation": "fair"
+  },
+  {
+    "rank": 646,
+    "word": "البنك",
+    "pronunciation": "bank"
+  },
+  {
+    "rank": 647,
+    "word": "جمع",
+    "pronunciation": "collect"
+  },
+  {
+    "rank": 648,
+    "word": "حفظ",
+    "pronunciation": "save"
+  },
+  {
+    "rank": 649,
+    "word": "السيطرة",
+    "pronunciation": "control"
+  },
+  {
+    "rank": 650,
+    "word": "العشري",
+    "pronunciation": "decimal"
+  },
+  {
+    "rank": 651,
+    "word": "إذن",
+    "pronunciation": "ear"
+  },
+  {
+    "rank": 652,
+    "word": "آخر",
+    "pronunciation": "else"
+  },
+  {
+    "rank": 653,
+    "word": "تماما",
+    "pronunciation": "quite"
+  },
+  {
+    "rank": 654,
+    "word": "حطم",
+    "pronunciation": "broke"
+  },
+  {
+    "rank": 655,
+    "word": "حالة",
+    "pronunciation": "case"
+  },
+  {
+    "rank": 656,
+    "word": "وسط",
+    "pronunciation": "middle"
+  },
+  {
+    "rank": 657,
+    "word": "قتل",
+    "pronunciation": "kill"
+  },
+  {
+    "rank": 658,
+    "word": "ابن",
+    "pronunciation": "son"
+  },
+  {
+    "rank": 659,
+    "word": "بحيرة",
+    "pronunciation": "lake"
+  },
+  {
+    "rank": 660,
+    "word": "لحظة",
+    "pronunciation": "moment"
+  },
+  {
+    "rank": 661,
+    "word": "على نطاق و",
+    "pronunciation": "scale"
+  },
+  {
+    "rank": 662,
+    "word": "بصوت عال",
+    "pronunciation": "loud"
+  },
+  {
+    "rank": 663,
+    "word": "الربيع",
+    "pronunciation": "spring"
+  },
+  {
+    "rank": 664,
+    "word": "رصد",
+    "pronunciation": "observe"
+  },
+  {
+    "rank": 665,
+    "word": "طفل",
+    "pronunciation": "child"
+  },
+  {
+    "rank": 666,
+    "word": "مباشرة",
+    "pronunciation": "straight"
+  },
+  {
+    "rank": 667,
+    "word": "متوافق",
+    "pronunciation": "consonant"
+  },
+  {
+    "rank": 668,
+    "word": "الأمة",
+    "pronunciation": "nation"
+  },
+  {
+    "rank": 669,
+    "word": "قاموس",
+    "pronunciation": "dictionary"
+  },
+  {
+    "rank": 670,
+    "word": "حليب",
+    "pronunciation": "milk"
+  },
+  {
+    "rank": 671,
+    "word": "السرعة",
+    "pronunciation": "speed"
+  },
+  {
+    "rank": 672,
+    "word": "طريقة",
+    "pronunciation": "method"
+  },
+  {
+    "rank": 673,
+    "word": "عضو",
+    "pronunciation": "organ"
+  },
+  {
+    "rank": 674,
+    "word": "دفع",
+    "pronunciation": "pay"
+  },
+  {
+    "rank": 675,
+    "word": "العمر",
+    "pronunciation": "age"
+  },
+  {
+    "rank": 676,
+    "word": "القسم",
+    "pronunciation": "section"
+  },
+  {
+    "rank": 677,
+    "word": "فستان",
+    "pronunciation": "dress"
+  },
+  {
+    "rank": 678,
+    "word": "سحابة",
+    "pronunciation": "cloud"
+  },
+  {
+    "rank": 679,
+    "word": "مفاجأة",
+    "pronunciation": "surprise"
+  },
+  {
+    "rank": 680,
+    "word": "هادئ",
+    "pronunciation": "quiet"
+  },
+  {
+    "rank": 681,
+    "word": "حجر",
+    "pronunciation": "stone"
+  },
+  {
+    "rank": 682,
+    "word": "صغير",
+    "pronunciation": "tiny"
+  },
+  {
+    "rank": 683,
+    "word": "تسلق",
+    "pronunciation": "climb"
+  },
+  {
+    "rank": 684,
+    "word": "بارد",
+    "pronunciation": "cool"
+  },
+  {
+    "rank": 685,
+    "word": "تصميم",
+    "pronunciation": "design"
+  },
+  {
+    "rank": 686,
+    "word": "فقير",
+    "pronunciation": "poor"
+  },
+  {
+    "rank": 687,
+    "word": "الكثير",
+    "pronunciation": "lot"
+  },
+  {
+    "rank": 688,
+    "word": "تجربة",
+    "pronunciation": "experiment"
+  },
+  {
+    "rank": 689,
+    "word": "أسفل",
+    "pronunciation": "bottom"
+  },
+  {
+    "rank": 690,
+    "word": "مفتاح",
+    "pronunciation": "key"
+  },
+  {
+    "rank": 691,
+    "word": "حديد",
+    "pronunciation": "iron"
+  },
+  {
+    "rank": 692,
+    "word": "احد",
+    "pronunciation": "single"
+  },
+  {
+    "rank": 693,
+    "word": "عصا",
+    "pronunciation": "stick"
+  },
+  {
+    "rank": 694,
+    "word": "شقة",
+    "pronunciation": "flat"
+  },
+  {
+    "rank": 695,
+    "word": "عشرون",
+    "pronunciation": "twenty"
+  },
+  {
+    "rank": 696,
+    "word": "الجلد",
+    "pronunciation": "skin"
+  },
+  {
+    "rank": 697,
+    "word": "الابتسامة",
+    "pronunciation": "smile"
+  },
+  {
+    "rank": 698,
+    "word": "تجعد",
+    "pronunciation": "crease"
+  },
+  {
+    "rank": 699,
+    "word": "حفرة",
+    "pronunciation": "hole"
+  },
+  {
+    "rank": 700,
+    "word": "القفزة",
+    "pronunciation": "jump"
+  },
+  {
+    "rank": 701,
+    "word": "طفل",
+    "pronunciation": "baby"
+  },
+  {
+    "rank": 702,
+    "word": "ثمانية",
+    "pronunciation": "eight"
+  },
+  {
+    "rank": 703,
+    "word": "قرية",
+    "pronunciation": "village"
+  },
+  {
+    "rank": 704,
+    "word": "تلبية",
+    "pronunciation": "meet"
+  },
+  {
+    "rank": 705,
+    "word": "الجذر",
+    "pronunciation": "root"
+  },
+  {
+    "rank": 706,
+    "word": "شراء",
+    "pronunciation": "buy"
+  },
+  {
+    "rank": 707,
+    "word": "رفع",
+    "pronunciation": "raise"
+  },
+  {
+    "rank": 708,
+    "word": "حل",
+    "pronunciation": "solve"
+  },
+  {
+    "rank": 709,
+    "word": "المعادن",
+    "pronunciation": "metal"
+  },
+  {
+    "rank": 710,
+    "word": "سواء",
+    "pronunciation": "whether"
+  },
+  {
+    "rank": 711,
+    "word": "دفع",
+    "pronunciation": "push"
+  },
+  {
+    "rank": 712,
+    "word": "سبعة",
+    "pronunciation": "seven"
+  },
+  {
+    "rank": 713,
+    "word": "فقرة",
+    "pronunciation": "paragraph"
+  },
+  {
+    "rank": 714,
+    "word": "الثالث",
+    "pronunciation": "third"
+  },
+  {
+    "rank": 715,
+    "word": "يجب",
+    "pronunciation": "shall"
+  },
+  {
+    "rank": 716,
+    "word": "عقدت",
+    "pronunciation": "held"
+  },
+  {
+    "rank": 717,
+    "word": "الشعر",
+    "pronunciation": "hair"
+  },
+  {
+    "rank": 718,
+    "word": "وصف",
+    "pronunciation": "describe"
+  },
+  {
+    "rank": 719,
+    "word": "طبخ",
+    "pronunciation": "cook"
+  },
+  {
+    "rank": 720,
+    "word": "الطابق",
+    "pronunciation": "floor"
+  },
+  {
+    "rank": 721,
+    "word": "كل",
+    "pronunciation": "either"
+  },
+  {
+    "rank": 722,
+    "word": "نتيجة",
+    "pronunciation": "result"
+  },
+  {
+    "rank": 723,
+    "word": "حرق",
+    "pronunciation": "burn"
+  },
+  {
+    "rank": 724,
+    "word": "التل",
+    "pronunciation": "hill"
+  },
+  {
+    "rank": 725,
+    "word": "آمنة",
+    "pronunciation": "safe"
+  },
+  {
+    "rank": 726,
+    "word": "القط",
+    "pronunciation": "cat"
+  },
+  {
+    "rank": 727,
+    "word": "القرن",
+    "pronunciation": "century"
+  },
+  {
+    "rank": 728,
+    "word": "النظر",
+    "pronunciation": "consider"
+  },
+  {
+    "rank": 729,
+    "word": "نوع",
+    "pronunciation": "type"
+  },
+  {
+    "rank": 730,
+    "word": "القانون",
+    "pronunciation": "law"
+  },
+  {
+    "rank": 731,
+    "word": "لقمة",
+    "pronunciation": "bit"
+  },
+  {
+    "rank": 732,
+    "word": "الساحل",
+    "pronunciation": "coast"
+  },
+  {
+    "rank": 733,
+    "word": "نسخة",
+    "pronunciation": "copy"
+  },
+  {
+    "rank": 734,
+    "word": "العبارة",
+    "pronunciation": "phrase"
+  },
+  {
+    "rank": 735,
+    "word": "الصمت",
+    "pronunciation": "silent"
+  },
+  {
+    "rank": 736,
+    "word": "طويل",
+    "pronunciation": "tall"
+  },
+  {
+    "rank": 737,
+    "word": "رمل",
+    "pronunciation": "sand"
+  },
+  {
+    "rank": 738,
+    "word": "التربة",
+    "pronunciation": "soil"
+  },
+  {
+    "rank": 739,
+    "word": "لفة",
+    "pronunciation": "roll"
+  },
+  {
+    "rank": 740,
+    "word": "درجة الحرارة",
+    "pronunciation": "temperature"
+  },
+  {
+    "rank": 741,
+    "word": "إصبع",
+    "pronunciation": "finger"
+  },
+  {
+    "rank": 742,
+    "word": "صناعة",
+    "pronunciation": "industry"
+  },
+  {
+    "rank": 743,
+    "word": "قيمة",
+    "pronunciation": "value"
+  },
+  {
+    "rank": 744,
+    "word": "المعركة",
+    "pronunciation": "fight"
+  },
+  {
+    "rank": 745,
+    "word": "كذبة",
+    "pronunciation": "lie"
+  },
+  {
+    "rank": 746,
+    "word": "فوز",
+    "pronunciation": "beat"
+  },
+  {
+    "rank": 747,
+    "word": "أثار",
+    "pronunciation": "excite"
+  },
+  {
+    "rank": 748,
+    "word": "طبيعي",
+    "pronunciation": "natural"
+  },
+  {
+    "rank": 749,
+    "word": "رأي",
+    "pronunciation": "view"
+  },
+  {
+    "rank": 750,
+    "word": "المعنى",
+    "pronunciation": "sense"
+  },
+  {
+    "rank": 751,
+    "word": "العاصمة",
+    "pronunciation": "capital"
+  },
+  {
+    "rank": 752,
+    "word": "سوف لا",
+    "pronunciation": "won’t"
+  },
+  {
+    "rank": 753,
+    "word": "كرسي",
+    "pronunciation": "chair"
+  },
+  {
+    "rank": 754,
+    "word": "خطر",
+    "pronunciation": "danger"
+  },
+  {
+    "rank": 755,
+    "word": "الفاكهة",
+    "pronunciation": "fruit"
+  },
+  {
+    "rank": 756,
+    "word": "غني",
+    "pronunciation": "rich"
+  },
+  {
+    "rank": 757,
+    "word": "سميك",
+    "pronunciation": "thick"
+  },
+  {
+    "rank": 758,
+    "word": "جندي",
+    "pronunciation": "soldier"
+  },
+  {
+    "rank": 759,
+    "word": "عملية",
+    "pronunciation": "process"
+  },
+  {
+    "rank": 760,
+    "word": "العمل",
+    "pronunciation": "operate"
+  },
+  {
+    "rank": 761,
+    "word": "ممارسة",
+    "pronunciation": "practice"
+  },
+  {
+    "rank": 762,
+    "word": "منفصلة",
+    "pronunciation": "separate"
+  },
+  {
+    "rank": 763,
+    "word": "الصعب",
+    "pronunciation": "difficult"
+  },
+  {
+    "rank": 764,
+    "word": "الطبيب",
+    "pronunciation": "doctor"
+  },
+  {
+    "rank": 765,
+    "word": "الرجاء",
+    "pronunciation": "please"
+  },
+  {
+    "rank": 766,
+    "word": "حماية",
+    "pronunciation": "protect"
+  },
+  {
+    "rank": 767,
+    "word": "ظهرا",
+    "pronunciation": "noon"
+  },
+  {
+    "rank": 768,
+    "word": "محصول",
+    "pronunciation": "crop"
+  },
+  {
+    "rank": 769,
+    "word": "الحديث",
+    "pronunciation": "modern"
+  },
+  {
+    "rank": 770,
+    "word": "عنصر",
+    "pronunciation": "element"
+  },
+  {
+    "rank": 771,
+    "word": "ضرب",
+    "pronunciation": "hit"
+  },
+  {
+    "rank": 772,
+    "word": "طالب",
+    "pronunciation": "student"
+  },
+  {
+    "rank": 773,
+    "word": "ركن",
+    "pronunciation": "corner"
+  },
+  {
+    "rank": 774,
+    "word": "حزب",
+    "pronunciation": "party"
+  },
+  {
+    "rank": 775,
+    "word": "تزويد",
+    "pronunciation": "supply"
+  },
+  {
+    "rank": 776,
+    "word": "الذي",
+    "pronunciation": "whose"
+  },
+  {
+    "rank": 777,
+    "word": "حدد",
+    "pronunciation": "locate"
+  },
+  {
+    "rank": 778,
+    "word": "عصابة",
+    "pronunciation": "ring"
+  },
+  {
+    "rank": 779,
+    "word": "حرف",
+    "pronunciation": "character"
+  },
+  {
+    "rank": 780,
+    "word": "الحشرة",
+    "pronunciation": "insect"
+  },
+  {
+    "rank": 781,
+    "word": "اشتعلت",
+    "pronunciation": "caught"
+  },
+  {
+    "rank": 782,
+    "word": "فترة",
+    "pronunciation": "period"
+  },
+  {
+    "rank": 783,
+    "word": "تشير",
+    "pronunciation": "indicate"
+  },
+  {
+    "rank": 784,
+    "word": "راديو",
+    "pronunciation": "radio"
+  },
+  {
+    "rank": 785,
+    "word": "وتحدث",
+    "pronunciation": "spoke"
+  },
+  {
+    "rank": 786,
+    "word": "ذرة",
+    "pronunciation": "atom"
+  },
+  {
+    "rank": 787,
+    "word": "بشري",
+    "pronunciation": "human"
+  },
+  {
+    "rank": 788,
+    "word": "التاريخ",
+    "pronunciation": "history"
+  },
+  {
+    "rank": 789,
+    "word": "تأثير",
+    "pronunciation": "effect"
+  },
+  {
+    "rank": 790,
+    "word": "كهربائي",
+    "pronunciation": "electric"
+  },
+  {
+    "rank": 791,
+    "word": "توقع",
+    "pronunciation": "expect"
+  },
+  {
+    "rank": 792,
+    "word": "العظام",
+    "pronunciation": "bone"
+  },
+  {
+    "rank": 793,
+    "word": "سكة حديدية",
+    "pronunciation": "rail"
+  },
+  {
+    "rank": 794,
+    "word": "تخيل",
+    "pronunciation": "imagine"
+  },
+  {
+    "rank": 795,
+    "word": "توفير",
+    "pronunciation": "provide"
+  },
+  {
+    "rank": 796,
+    "word": "توافق",
+    "pronunciation": "agree"
+  },
+  {
+    "rank": 797,
+    "word": "وبالتالي",
+    "pronunciation": "thus"
+  },
+  {
+    "rank": 798,
+    "word": "لطيف",
+    "pronunciation": "gentle"
+  },
+  {
+    "rank": 799,
+    "word": "امرأة",
+    "pronunciation": "woman"
+  },
+  {
+    "rank": 800,
+    "word": "نقيب",
+    "pronunciation": "captain"
+  },
+  {
+    "rank": 801,
+    "word": "تخمين",
+    "pronunciation": "guess"
+  },
+  {
+    "rank": 802,
+    "word": "الضرورة",
+    "pronunciation": "necessary"
+  },
+  {
+    "rank": 803,
+    "word": "حاد",
+    "pronunciation": "sharp"
+  },
+  {
+    "rank": 804,
+    "word": "جناح",
+    "pronunciation": "wing"
+  },
+  {
+    "rank": 805,
+    "word": "خلق",
+    "pronunciation": "create"
+  },
+  {
+    "rank": 806,
+    "word": "الجيران",
+    "pronunciation": "neighbor"
+  },
+  {
+    "rank": 807,
+    "word": "غسل",
+    "pronunciation": "wash"
+  },
+  {
+    "rank": 808,
+    "word": "خفاش",
+    "pronunciation": "bat"
+  },
+  {
+    "rank": 809,
+    "word": "بالأحرى",
+    "pronunciation": "rather"
+  },
+  {
+    "rank": 810,
+    "word": "الحشد",
+    "pronunciation": "crowd"
+  },
+  {
+    "rank": 811,
+    "word": "الذرة",
+    "pronunciation": "corn"
+  },
+  {
+    "rank": 812,
+    "word": "مقارنة",
+    "pronunciation": "compare"
+  },
+  {
+    "rank": 813,
+    "word": "قصيدة",
+    "pronunciation": "poem"
+  },
+  {
+    "rank": 814,
+    "word": "سلسلة",
+    "pronunciation": "string"
+  },
+  {
+    "rank": 815,
+    "word": "جرس",
+    "pronunciation": "bell"
+  },
+  {
+    "rank": 816,
+    "word": "تعتمد",
+    "pronunciation": "depend"
+  },
+  {
+    "rank": 817,
+    "word": "اللحوم",
+    "pronunciation": "meat"
+  },
+  {
+    "rank": 818,
+    "word": "فرك",
+    "pronunciation": "rub"
+  },
+  {
+    "rank": 819,
+    "word": "أنبوب",
+    "pronunciation": "tube"
+  },
+  {
+    "rank": 820,
+    "word": "الشهيرة",
+    "pronunciation": "famous"
+  },
+  {
+    "rank": 921,
+    "word": "الدولار",
+    "pronunciation": "dollar"
+  },
+  {
+    "rank": 822,
+    "word": "تيار",
+    "pronunciation": "stream"
+  },
+  {
+    "rank": 823,
+    "word": "خوف",
+    "pronunciation": "fear"
+  },
+  {
+    "rank": 284,
+    "word": "مشهد",
+    "pronunciation": "sight"
+  },
+  {
+    "rank": 825,
+    "word": "رقيق",
+    "pronunciation": "thin"
+  },
+  {
+    "rank": 826,
+    "word": "مثلث",
+    "pronunciation": "triangle"
+  },
+  {
+    "rank": 827,
+    "word": "كوكب",
+    "pronunciation": "planet"
+  },
+  {
+    "rank": 828,
+    "word": "عجل",
+    "pronunciation": "hurry"
+  },
+  {
+    "rank": 829,
+    "word": "رئيس",
+    "pronunciation": "chief"
+  },
+  {
+    "rank": 830,
+    "word": "مستعمرة",
+    "pronunciation": "colony"
+  },
+  {
+    "rank": 831,
+    "word": "على مدار الساعة",
+    "pronunciation": "clock"
+  },
+  {
+    "rank": 832,
+    "word": "منجم",
+    "pronunciation": "mine"
+  },
+  {
+    "rank": 833,
+    "word": "ربطة عنق",
+    "pronunciation": "tie"
+  },
+  {
+    "rank": 834,
+    "word": "دخول",
+    "pronunciation": "enter"
+  },
+  {
+    "rank": 835,
+    "word": "الرئيسية",
+    "pronunciation": "major"
+  },
+  {
+    "rank": 836,
+    "word": "جديدة",
+    "pronunciation": "fresh"
+  },
+  {
+    "rank": 837,
+    "word": "البحث",
+    "pronunciation": "search"
+  },
+  {
+    "rank": 838,
+    "word": "إرسال",
+    "pronunciation": "send"
+  },
+  {
+    "rank": 839,
+    "word": "الأصفر",
+    "pronunciation": "yellow"
+  },
+  {
+    "rank": 840,
+    "word": "بندقية",
+    "pronunciation": "gun"
+  },
+  {
+    "rank": 841,
+    "word": "السماح",
+    "pronunciation": "allow"
+  },
+  {
+    "rank": 842,
+    "word": "طباعة",
+    "pronunciation": "print"
+  },
+  {
+    "rank": 843,
+    "word": "ميت",
+    "pronunciation": "dead"
+  },
+  {
+    "rank": 844,
+    "word": "بقعة",
+    "pronunciation": "spot"
+  },
+  {
+    "rank": 845,
+    "word": "صحراء",
+    "pronunciation": "desert"
+  },
+  {
+    "rank": 846,
+    "word": "دعوى",
+    "pronunciation": "suit"
+  },
+  {
+    "rank": 847,
+    "word": "التيار",
+    "pronunciation": "current"
+  },
+  {
+    "rank": 848,
+    "word": "رفع",
+    "pronunciation": "lift"
+  },
+  {
+    "rank": 840,
+    "word": "ارتفع",
+    "pronunciation": "rose"
+  },
+  {
+    "rank": 850,
+    "word": "وصول",
+    "pronunciation": "arrive"
+  },
+  {
+    "rank": 851,
+    "word": "سيد",
+    "pronunciation": "master"
+  },
+  {
+    "rank": 852,
+    "word": "المسار",
+    "pronunciation": "track"
+  },
+  {
+    "rank": 853,
+    "word": "الأم",
+    "pronunciation": "parent"
+  },
+  {
+    "rank": 854,
+    "word": "الشاطئ",
+    "pronunciation": "shore"
+  },
+  {
+    "rank": 855,
+    "word": "تقسيم",
+    "pronunciation": "division"
+  },
+  {
+    "rank": 856,
+    "word": "ورقة",
+    "pronunciation": "sheet"
+  },
+  {
+    "rank": 857,
+    "word": "مادة",
+    "pronunciation": "substance"
+  },
+  {
+    "rank": 858,
+    "word": "صالح",
+    "pronunciation": "favor"
+  },
+  {
+    "rank": 859,
+    "word": "اتصال",
+    "pronunciation": "connect"
+  },
+  {
+    "rank": 860,
+    "word": "آخر",
+    "pronunciation": "post"
+  },
+  {
+    "rank": 861,
+    "word": "أنفق",
+    "pronunciation": "spend"
+  },
+  {
+    "rank": 862,
+    "word": "وتر",
+    "pronunciation": "chord"
+  },
+  {
+    "rank": 863,
+    "word": "دهن",
+    "pronunciation": "fat"
+  },
+  {
+    "rank": 864,
+    "word": "سعيد",
+    "pronunciation": "glad"
+  },
+  {
+    "rank": 865,
+    "word": "الأصلي",
+    "pronunciation": "original"
+  },
+  {
+    "rank": 866,
+    "word": "حصة",
+    "pronunciation": "share"
+  },
+  {
+    "rank": 867,
+    "word": "محطة",
+    "pronunciation": "station"
+  },
+  {
+    "rank": 868,
+    "word": "أب",
+    "pronunciation": "dad"
+  },
+  {
+    "rank": 869,
+    "word": "الخبز",
+    "pronunciation": "bread"
+  },
+  {
+    "rank": 870,
+    "word": "تهمة",
+    "pronunciation": "charge"
+  },
+  {
+    "rank": 871,
+    "word": "السليم",
+    "pronunciation": "proper"
+  },
+  {
+    "rank": 872,
+    "word": "شريط",
+    "pronunciation": "bar"
+  },
+  {
+    "rank": 873,
+    "word": "العرض",
+    "pronunciation": "offer"
+  },
+  {
+    "rank": 874,
+    "word": "قطاع",
+    "pronunciation": "segment"
+  },
+  {
+    "rank": 875,
+    "word": "الرقيق",
+    "pronunciation": "slave"
+  },
+  {
+    "rank": 876,
+    "word": "بط",
+    "pronunciation": "duck"
+  },
+  {
+    "rank": 877,
+    "word": "لحظة",
+    "pronunciation": "instant"
+  },
+  {
+    "rank": 878,
+    "word": "سوق",
+    "pronunciation": "market"
+  },
+  {
+    "rank": 879,
+    "word": "درجة",
+    "pronunciation": "degree"
+  },
+  {
+    "rank": 880,
+    "word": "أهل",
+    "pronunciation": "populate"
+  },
+  {
+    "rank": 881,
+    "word": "كتكوت",
+    "pronunciation": "chick"
+  },
+  {
+    "rank": 882,
+    "word": "عزيزتي",
+    "pronunciation": "dear"
+  },
+  {
+    "rank": 883,
+    "word": "العدو",
+    "pronunciation": "enemy"
+  },
+  {
+    "rank": 884,
+    "word": "الرد",
+    "pronunciation": "reply"
+  },
+  {
+    "rank": 885,
+    "word": "شراب",
+    "pronunciation": "drink"
+  },
+  {
+    "rank": 886,
+    "word": "تحدث",
+    "pronunciation": "occur"
+  },
+  {
+    "rank": 887,
+    "word": "دعم",
+    "pronunciation": "support"
+  },
+  {
+    "rank": 888,
+    "word": "خطاب",
+    "pronunciation": "speech"
+  },
+  {
+    "rank": 889,
+    "word": "الطبيعة",
+    "pronunciation": "nature"
+  },
+  {
+    "rank": 890,
+    "word": "مجموعة",
+    "pronunciation": "range"
+  },
+  {
+    "rank": 891,
+    "word": "البخار",
+    "pronunciation": "steam"
+  },
+  {
+    "rank": 892,
+    "word": "الحركة",
+    "pronunciation": "motion"
+  },
+  {
+    "rank": 893,
+    "word": "مسار",
+    "pronunciation": "path"
+  },
+  {
+    "rank": 894,
+    "word": "السائل",
+    "pronunciation": "liquid"
+  },
+  {
+    "rank": 895,
+    "word": "تسجيل",
+    "pronunciation": "log"
+  },
+  {
+    "rank": 896,
+    "word": "مقصود",
+    "pronunciation": "meant"
+  },
+  {
+    "rank": 897,
+    "word": "حاصل",
+    "pronunciation": "quotient"
+  },
+  {
+    "rank": 898,
+    "word": "أسنان",
+    "pronunciation": "teeth"
+  },
+  {
+    "rank": 899,
+    "word": "قذيفة",
+    "pronunciation": "shell"
+  },
+  {
+    "rank": 900,
+    "word": "الرقبة",
+    "pronunciation": "neck"
+  },
+  {
+    "rank": 901,
+    "word": "الأكسجين",
+    "pronunciation": "oxygen"
+  },
+  {
+    "rank": 902,
+    "word": "السكر",
+    "pronunciation": "sugar"
+  },
+  {
+    "rank": 903,
+    "word": "الموت",
+    "pronunciation": "death"
+  },
+  {
+    "rank": 904,
+    "word": "جميل",
+    "pronunciation": "pretty"
+  },
+  {
+    "rank": 905,
+    "word": "مهارة",
+    "pronunciation": "skill"
+  },
+  {
+    "rank": 906,
+    "word": "النساء",
+    "pronunciation": "women"
+  },
+  {
+    "rank": 907,
+    "word": "الموسم",
+    "pronunciation": "season"
+  },
+  {
+    "rank": 908,
+    "word": "حل",
+    "pronunciation": "solution"
+  },
+  {
+    "rank": 909,
+    "word": "مغناطيس",
+    "pronunciation": "magnet"
+  },
+  {
+    "rank": 910,
+    "word": "فضة",
+    "pronunciation": "silver"
+  },
+  {
+    "rank": 911,
+    "word": "شكرا",
+    "pronunciation": "thank"
+  },
+  {
+    "rank": 912,
+    "word": "فرع",
+    "pronunciation": "branch"
+  },
+  {
+    "rank": 913,
+    "word": "مباراة",
+    "pronunciation": "match"
+  },
+  {
+    "rank": 914,
+    "word": "لاحقة",
+    "pronunciation": "suffix"
+  },
+  {
+    "rank": 915,
+    "word": "خاصة",
+    "pronunciation": "especially"
+  },
+  {
+    "rank": 916,
+    "word": "تين",
+    "pronunciation": "fig"
+  },
+  {
+    "rank": 917,
+    "word": "خائف",
+    "pronunciation": "afraid"
+  },
+  {
+    "rank": 918,
+    "word": "ضخم",
+    "pronunciation": "huge"
+  },
+  {
+    "rank": 919,
+    "word": "شقيقة",
+    "pronunciation": "sister"
+  },
+  {
+    "rank": 920,
+    "word": "الصلب",
+    "pronunciation": "steel"
+  },
+  {
+    "rank": 921,
+    "word": "بحث",
+    "pronunciation": "discuss"
+  },
+  {
+    "rank": 922,
+    "word": "إلى الأمام",
+    "pronunciation": "forward"
+  },
+  {
+    "rank": 923,
+    "word": "مماثل",
+    "pronunciation": "similar"
+  },
+  {
+    "rank": 924,
+    "word": "توجيه",
+    "pronunciation": "guide"
+  },
+  {
+    "rank": 925,
+    "word": "التجربة",
+    "pronunciation": "experience"
+  },
+  {
+    "rank": 926,
+    "word": "النتيجة",
+    "pronunciation": "score"
+  },
+  {
+    "rank": 927,
+    "word": "تفاحة",
+    "pronunciation": "apple"
+  },
+  {
+    "rank": 928,
+    "word": "اشترى",
+    "pronunciation": "bought"
+  },
+  {
+    "rank": 929,
+    "word": "أدى",
+    "pronunciation": "led"
+  },
+  {
+    "rank": 930,
+    "word": "رمية",
+    "pronunciation": "pitch"
+  },
+  {
+    "rank": 931,
+    "word": "معطف",
+    "pronunciation": "coat"
+  },
+  {
+    "rank": 932,
+    "word": "كتلة",
+    "pronunciation": "mass"
+  },
+  {
+    "rank": 933,
+    "word": "بطاقة",
+    "pronunciation": "card"
+  },
+  {
+    "rank": 934,
+    "word": "فرقة",
+    "pronunciation": "band"
+  },
+  {
+    "rank": 935,
+    "word": "حبل",
+    "pronunciation": "rope"
+  },
+  {
+    "rank": 936,
+    "word": "انزلاق",
+    "pronunciation": "slip"
+  },
+  {
+    "rank": 937,
+    "word": "الفوز",
+    "pronunciation": "win"
+  },
+  {
+    "rank": 938,
+    "word": "حلم",
+    "pronunciation": "dream"
+  },
+  {
+    "rank": 939,
+    "word": "مساء",
+    "pronunciation": "evening"
+  },
+  {
+    "rank": 940,
+    "word": "حالة",
+    "pronunciation": "condition"
+  },
+  {
+    "rank": 941,
+    "word": "علف",
+    "pronunciation": "feed"
+  },
+  {
+    "rank": 942,
+    "word": "أداة",
+    "pronunciation": "tool"
+  },
+  {
+    "rank": 943,
+    "word": "الكل",
+    "pronunciation": "total"
+  },
+  {
+    "rank": 944,
+    "word": "الأساسية",
+    "pronunciation": "basic"
+  },
+  {
+    "rank": 945,
+    "word": "رائحة",
+    "pronunciation": "smell"
+  },
+  {
+    "rank": 946,
+    "word": "الوادي",
+    "pronunciation": "valley"
+  },
+  {
+    "rank": 947,
+    "word": "ولا",
+    "pronunciation": "nor"
+  },
+  {
+    "rank": 948,
+    "word": "ضعف",
+    "pronunciation": "double"
+  },
+  {
+    "rank": 949,
+    "word": "مقعد",
+    "pronunciation": "seat"
+  },
+  {
+    "rank": 950,
+    "word": "تواصل",
+    "pronunciation": "continue"
+  },
+  {
+    "rank": 951,
+    "word": "كتلة",
+    "pronunciation": "block"
+  },
+  {
+    "rank": 952,
+    "word": "جدول",
+    "pronunciation": "chart"
+  },
+  {
+    "rank": 953,
+    "word": "قبعة",
+    "pronunciation": "hat"
+  },
+  {
+    "rank": 954,
+    "word": "بيع",
+    "pronunciation": "sell"
+  },
+  {
+    "rank": 955,
+    "word": "نجاح",
+    "pronunciation": "success"
+  },
+  {
+    "rank": 956,
+    "word": "شركة",
+    "pronunciation": "company"
+  },
+  {
+    "rank": 957,
+    "word": "طرح",
+    "pronunciation": "subtract"
+  },
+  {
+    "rank": 958,
+    "word": "حدث",
+    "pronunciation": "event"
+  },
+  {
+    "rank": 959,
+    "word": "خاصة",
+    "pronunciation": "particular"
+  },
+  {
+    "rank": 960,
+    "word": "صفقة",
+    "pronunciation": "deal"
+  },
+  {
+    "rank": 961,
+    "word": "السباحة",
+    "pronunciation": "swim"
+  },
+  {
+    "rank": 962,
+    "word": "مصطلح",
+    "pronunciation": "term"
+  },
+  {
+    "rank": 963,
+    "word": "العكس",
+    "pronunciation": "opposite"
+  },
+  {
+    "rank": 964,
+    "word": "زوجة",
+    "pronunciation": "wife"
+  },
+  {
+    "rank": 965,
+    "word": "حذاء",
+    "pronunciation": "shoe"
+  },
+  {
+    "rank": 966,
+    "word": "الكتف",
+    "pronunciation": "shoulder"
+  },
+  {
+    "rank": 967,
+    "word": "انتشار",
+    "pronunciation": "spread"
+  },
+  {
+    "rank": 968,
+    "word": "رتب",
+    "pronunciation": "arrange"
+  },
+  {
+    "rank": 969,
+    "word": "مخيم",
+    "pronunciation": "camp"
+  },
+  {
+    "rank": 970,
+    "word": "اختراع",
+    "pronunciation": "invent"
+  },
+  {
+    "rank": 971,
+    "word": "قطن",
+    "pronunciation": "cotton"
+  },
+  {
+    "rank": 972,
+    "word": "الولادة",
+    "pronunciation": "born"
+  },
+  {
+    "rank": 973,
+    "word": "حدد",
+    "pronunciation": "determine"
+  },
+  {
+    "rank": 974,
+    "word": "رابعا",
+    "pronunciation": "quart"
+  },
+  {
+    "rank": 975,
+    "word": "تسعة",
+    "pronunciation": "nine"
+  },
+  {
+    "rank": 976,
+    "word": "شاحنة",
+    "pronunciation": "truck"
+  },
+  {
+    "rank": 977,
+    "word": "الضوضاء",
+    "pronunciation": "noise"
+  },
+  {
+    "rank": 978,
+    "word": "مستوى",
+    "pronunciation": "level"
+  },
+  {
+    "rank": 979,
+    "word": "فرصة",
+    "pronunciation": "chance"
+  },
+  {
+    "rank": 980,
+    "word": "جمع",
+    "pronunciation": "gather"
+  },
+  {
+    "rank": 981,
+    "word": "متجر",
+    "pronunciation": "shop"
+  },
+  {
+    "rank": 982,
+    "word": "امتداد",
+    "pronunciation": "stretch"
+  },
+  {
+    "rank": 983,
+    "word": "رمي",
+    "pronunciation": "throw"
+  },
+  {
+    "rank": 984,
+    "word": "تألق",
+    "pronunciation": "shine"
+  },
+  {
+    "rank": 985,
+    "word": "الملكية",
+    "pronunciation": "property"
+  },
+  {
+    "rank": 986,
+    "word": "عمود",
+    "pronunciation": "column"
+  },
+  {
+    "rank": 987,
+    "word": "جزيء",
+    "pronunciation": "molecule"
+  },
+  {
+    "rank": 988,
+    "word": "اختر",
+    "pronunciation": "select"
+  },
+  {
+    "rank": 989,
+    "word": "خاطئ",
+    "pronunciation": "wrong"
+  },
+  {
+    "rank": 990,
+    "word": "رمادي",
+    "pronunciation": "gray"
+  },
+  {
+    "rank": 991,
+    "word": "كرر",
+    "pronunciation": "repeat"
+  },
+  {
+    "rank": 992,
+    "word": "تتطلب",
+    "pronunciation": "require"
+  },
+  {
+    "rank": 993,
+    "word": "واسع",
+    "pronunciation": "broad"
+  },
+  {
+    "rank": 994,
+    "word": "إعداد",
+    "pronunciation": "prepare"
+  },
+  {
+    "rank": 995,
+    "word": "ملح",
+    "pronunciation": "salt"
+  },
+  {
+    "rank": 996,
+    "word": "الأنف",
+    "pronunciation": "nose"
+  },
+  {
+    "rank": 997,
+    "word": "الجمع",
+    "pronunciation": "plural"
+  },
+  {
+    "rank": 998,
+    "word": "غضب",
+    "pronunciation": "anger"
+  },
+  {
+    "rank": 999,
+    "word": "مطالبة",
+    "pronunciation": "claim"
+  },
+  {
+    "rank": 1000,
+    "word": "القارة",
+    "pronunciation": "continent"
+  }
+]

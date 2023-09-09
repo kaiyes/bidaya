@@ -1,10 +1,10 @@
-import React, { useState } from 'react'
+import React from 'react'
 import {
   View,
   Text,
   TouchableOpacity,
   StyleSheet,
-  ScrollView
+  SafeAreaView
 } from 'react-native'
 import {
   widthPercentageToDP as wp,
@@ -46,37 +46,8 @@ const SmallBlock = ({ handlePress, blockHeader, sub }) => (
   </TouchableOpacity>
 )
 
-const Pill = ({ index, handlePress, subject, level, isAll }) => (
-  <TouchableOpacity
-    style={[styles.pill, { backgroundColor: whichColor(subject) }]}
-    onPress={handlePress}>
-    <Text style={styles.subtitleText}>
-      {isAll ? 'All' : subject === 'JLPT' ? 'N' : null}
-      {isAll ? null : subject === 'JLPT' ? level - index : index + 1}
-    </Text>
-  </TouchableOpacity>
-)
-
 const VerticalSpacer = ({ height }) => <View style={{ height: `${height}%` }} />
 const HorizontalSpacer = ({ width }) => <View style={{ width: `${width}%` }} />
-
-const topics = [
-  {
-    topicName: 'jlpt',
-    header: 'JLPT',
-    subtitle: 'N1-N5'
-  },
-  {
-    topicName: 'strokes',
-    header: 'Stroke',
-    subtitle: '1-24'
-  },
-  {
-    topicName: 'grades',
-    header: 'Grade',
-    subtitle: '1-9'
-  }
-]
 
 const words = [
   {
@@ -102,113 +73,12 @@ const words = [
 ]
 
 export default function Home({ navigation: { navigate } }) {
-  const [topic, setTopic] = useState()
-
   return (
-    <ScrollView
-      style={styles.scrollView}
-      contentContainerStyle={styles.contentContainer}>
+    <SafeAreaView style={styles.container}>
       <VerticalSpacer height={3} />
 
       <View style={styles.blockHolder}>
-        <Text style={styles.h1}>Kanji</Text>
-        <VerticalSpacer height={2} />
-        <Text style={styles.h4}>Japanese characters</Text>
-        <VerticalSpacer height={2} />
-        <Text style={styles.h4}>With meanings & pronunciations</Text>
-
-        <VerticalSpacer height={3} />
-
-        <View style={styles.basicRow}>
-          {topics.map(i => (
-            <SmallBlock
-              key={i.topicName}
-              handlePress={() => setTopic(i.topicName)}
-              blockHeader={i.header}
-              sub={i.subtitle}
-            />
-          ))}
-        </View>
-
-        <VerticalSpacer height={5} />
-
-        <View style={styles.jlptRow}>
-          {topic === 'jlpt' ? (
-            <>
-              {new Array(5).fill(1).map((i, index) => (
-                <Pill
-                  key={index}
-                  index={index}
-                  level={5}
-                  subject={'JLPT'}
-                  isAll={false}
-                  handlePress={() =>
-                    navigate('KanjiTemplate', {
-                      jlptLevel: 5 - index
-                    })
-                  }
-                />
-              ))}
-              <Pill
-                subject={'tan'}
-                isAll={true}
-                handlePress={() => navigate('AllKanji', { jlpt: true })}
-              />
-            </>
-          ) : null}
-
-          {topic === 'strokes' ? (
-            <>
-              {new Array(24).fill(1).map((i, index) => (
-                <Pill
-                  key={index}
-                  index={index}
-                  subject={'Stroke'}
-                  isAll={false}
-                  handlePress={() =>
-                    navigate('KanjiTemplate', {
-                      strokes: index + 1
-                    })
-                  }
-                />
-              ))}
-              <Pill
-                subject={'tan'}
-                isAll={true}
-                handlePress={() => navigate('AllKanji', { strokes: true })}
-              />
-            </>
-          ) : null}
-
-          {topic === 'grades' ? (
-            <>
-              {new Array(9).fill(1).map((i, index) => (
-                <Pill
-                  key={index}
-                  index={index}
-                  subject={'Grade'}
-                  isAll={false}
-                  handlePress={() =>
-                    navigate('KanjiTemplate', {
-                      grades: index + 1
-                    })
-                  }
-                />
-              ))}
-              <Pill
-                subject={'tan'}
-                isAll={true}
-                handlePress={() => navigate('AllKanji', { grades: true })}
-              />
-            </>
-          ) : null}
-        </View>
-      </View>
-
-      <View style={styles.blockHolder}>
-        <Text style={styles.h1}>Words 文甫</Text>
-        <VerticalSpacer height={2} />
-        <Text style={styles.h4}>Words with Hiragana</Text>
+        <Text style={styles.h1}>Words</Text>
         <VerticalSpacer height={2} />
         <Text style={styles.h4}>With meanings & pronunciations</Text>
         <VerticalSpacer height={4} />
@@ -217,21 +87,11 @@ export default function Home({ navigation: { navigate } }) {
           {words.map(i => (
             <SmallBlock
               handlePress={() =>
-                navigate('KanjiTemplate', {
-                  jlptLevel: false,
-                  grades: false,
-                  strokes: false,
+                navigate('List', {
                   verbs: i.topicName === 'verbs' ?? false,
                   nouns: i.topicName === 'nouns' ?? false,
                   adjectives: i.topicName === 'adjectives' ?? false,
-                  adverbs: i.topicName === 'adverbs' ?? false,
-                  isWord:
-                    i.topicName === 'verbs' ||
-                    'nouns' ||
-                    'adjectives' ||
-                    'adverbs'
-                      ? true
-                      : false
+                  adverbs: i.topicName === 'adverbs' ?? false
                 })
               }
               blockHeader={i.header}
@@ -240,59 +100,23 @@ export default function Home({ navigation: { navigate } }) {
           ))}
         </View>
       </View>
-
-      <View style={styles.blockHolder}>
-        <Text style={styles.h1}>Kana 仮名</Text>
-        <VerticalSpacer height={2} />
-        <Text style={styles.h4}>Hirgana & Katakana</Text>
-        <VerticalSpacer height={2} />
-        <Text style={styles.h4}>Letters of Japanese Language</Text>
-        <VerticalSpacer height={4} />
-
-        <View style={[styles.wordsRow, { justifyContent: 'flex-start' }]}>
-          <SmallBlock
-            handlePress={() =>
-              navigate('KanjiTemplate', {
-                hiragana: true
-              })
-            }
-            blockHeader={'Hiragana'}
-            sub={'Japanese letters'}
-          />
-
-          <HorizontalSpacer width={3} />
-
-          <SmallBlock
-            handlePress={() =>
-              navigate('KanjiTemplate', {
-                katakana: true
-              })
-            }
-            blockHeader={'Katakana'}
-            sub={'Letters for Foreign words'}
-          />
-        </View>
-      </View>
-    </ScrollView>
+    </SafeAreaView>
   )
 }
 
 const styles = StyleSheet.create({
-  scrollView: {
-    height: '80%',
+  container: {
+    flex: 1,
+    paddingHorizontal: '5%',
+    alignItems: 'center',
     backgroundColor: 'ivory'
   },
-  contentContainer: {
-    alignItems: 'center',
-    backgroundColor: 'ivory',
-    paddingBottom: '50%'
-  },
   blockHolder: {
-    width: '95%',
+    marginHorizontal: '5%',
     paddingHorizontal: '5%',
+    paddingVertical: '5%',
     borderRadius: 20,
-    paddingTop: '7%',
-    marginBottom: '5%',
+    paddingTop: '5%',
     backgroundColor: 'beige'
   },
   jlptBlock: {

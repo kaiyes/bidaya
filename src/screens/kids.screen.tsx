@@ -1,18 +1,18 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react'
 import {
   SafeAreaView,
   StyleSheet,
   Text,
   View,
   TouchableOpacity,
-  Image,
-} from 'react-native';
-import {Icon} from '@rneui/themed';
+  Image
+} from 'react-native'
+import { Icon } from '@rneui/themed'
 
-import {arr} from '../util/words';
+import { arr } from '../util/bidayaQuestions'
 
 function App(): JSX.Element {
-  const [numberOfImage, setNumberOfImage] = useState(0);
+  const [numberOfImage, setNumberOfImage] = useState(0)
 
   return (
     <SafeAreaView style={styles.container}>
@@ -44,38 +44,38 @@ function App(): JSX.Element {
           style={styles.button}
           onPress={() => {
             if (numberOfImage != arr.length) {
-              setNumberOfImage(numberOfImage + 1);
+              setNumberOfImage(numberOfImage + 1)
             }
           }}>
           <Text style={styles.buttonText}>Continue</Text>
         </TouchableOpacity>
       </View>
     </SafeAreaView>
-  );
+  )
 }
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    flex: 1
   },
   question: {
     fontSize: 40,
     fontFamily: 'me_quran',
-    paddingHorizontal: '1%',
+    paddingHorizontal: '1%'
   },
   image: {
     width: '90%',
-    height: '40%',
+    height: '40%'
   },
   topView: {
     flex: 0.9,
-    alignItems: 'center',
+    alignItems: 'center'
   },
   bottomView: {
     flex: 0.1,
     flexDirection: 'row',
     justifyContent: 'center',
-    alignItems: 'center',
+    alignItems: 'center'
   },
   button: {
     backgroundColor: 'lightgreen',
@@ -83,13 +83,13 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     fontWeight: 'bold',
     alignItems: 'center',
-    marginHorizontal: '5%',
+    marginHorizontal: '5%'
   },
   buttonText: {
     fontSize: 22,
     paddingHorizontal: '5%',
-    paddingVertical: '2%',
-  },
-});
+    paddingVertical: '2%'
+  }
+})
 
-export default App;
+export default App

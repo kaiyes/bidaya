@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native'
 import { createStackNavigator } from '@react-navigation/stack'
 
 import KidScreen from './screens/kids.screen'
-import ListScreen from './screens/words.screen'
+import ListScreen from './screens/listTemplate.screen'
 import HomeScreen from './screens/home.screen'
 
 export default function Navigator() {
