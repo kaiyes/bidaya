@@ -1,186 +1,1430 @@
 [
-  { "word": "سريعاً", "pronunciation": "saree'an", "meaning": "quickly" },
-  { "word": "ببطء", "pronunciation": "bi-bat'", "meaning": "slowly" },
-  { "word": "دائماً", "pronunciation": "daa'iman", "meaning": "always" },
-  { "word": "أبداً", "pronunciation": "abadan", "meaning": "never" },
-  { "word": "قريباً", "pronunciation": "qareeban", "meaning": "soon" },
-  { "word": "الآن", "pronunciation": "al-an", "meaning": "now" },
-  { "word": "ثم", "pronunciation": "thumma", "meaning": "then" },
-  { "word": "هناك", "pronunciation": "hunaak", "meaning": "there" },
-  { "word": "هنا", "pronunciation": "huna", "meaning": "here" },
-  { "word": "أخيراً", "pronunciation": "akhiran", "meaning": "finally" },
   {
-    "word": "صباحاً",
+    "wordWithDia": "سَرِيعًا",
+    "wordWithoutDia": "سريعا",
+    "pronunciation": "saree'an",
+    "meaning": "quickly"
+  },
+  {
+    "wordWithDia": "بِبَطءٍ",
+    "wordWithoutDia": "ببطء",
+    "pronunciation": "bi-bat'",
+    "meaning": "slowly"
+  },
+  {
+    "wordWithDia": "دَائِمًا",
+    "wordWithoutDia": "دائما",
+    "pronunciation": "daa'iman",
+    "meaning": "always"
+  },
+  {
+    "wordWithDia": "أَبَدًا",
+    "wordWithoutDia": "أبدا",
+    "pronunciation": "abadan",
+    "meaning": "never"
+  },
+  {
+    "wordWithDia": "قَرِيبًا",
+    "wordWithoutDia": "قريبا",
+    "pronunciation": "qareeban",
+    "meaning": "soon"
+  },
+  {
+    "wordWithDia": "الآن",
+    "wordWithoutDia": "الآن",
+    "pronunciation": "al-an",
+    "meaning": "now"
+  },
+  {
+    "wordWithDia": "ثُمَّ",
+    "wordWithoutDia": "ثم",
+    "pronunciation": "thumma",
+    "meaning": "then"
+  },
+  {
+    "wordWithDia": "هُنَاكَ",
+    "wordWithoutDia": "هناك",
+    "pronunciation": "hunaak",
+    "meaning": "there"
+  },
+  {
+    "wordWithDia": "هُنَا",
+    "wordWithoutDia": "هنا",
+    "pronunciation": "huna",
+    "meaning": "here"
+  },
+  {
+    "wordWithDia": "أَخِيرًا",
+    "wordWithoutDia": "أخيرا",
+    "pronunciation": "akhiran",
+    "meaning": "finally"
+  },
+  {
+    "wordWithDia": "صَبَاحًا",
+    "wordWithoutDia": "صباحا",
     "pronunciation": "sabaahan",
     "meaning": "in the morning"
   },
-  { "word": "مساءً", "pronunciation": "masaa'an", "meaning": "in the evening" },
-  { "word": "ليلاً", "pronunciation": "laylan", "meaning": "at night" },
-  { "word": "نهاراً", "pronunciation": "naharan", "meaning": "during the day" },
   {
-    "word": "بعد ظهر",
+    "wordWithDia": "مَسَاءً",
+    "wordWithoutDia": "مساءا",
+    "pronunciation": "masaa'an",
+    "meaning": "in the evening"
+  },
+  {
+    "wordWithDia": "لَيْلًا",
+    "wordWithoutDia": "ليلا",
+    "pronunciation": "laylan",
+    "meaning": "at night"
+  },
+  {
+    "wordWithDia": "نَهَارًا",
+    "wordWithoutDia": "نهارا",
+    "pronunciation": "naharan",
+    "meaning": "during the day"
+  },
+  {
+    "wordWithDia": "بَعْدَ ظُهُرٍ",
+    "wordWithoutDia": "بعد ظهر",
     "pronunciation": "ba'dh dhuhur",
     "meaning": "in the afternoon"
   },
-  { "word": "غداً", "pronunciation": "ghadan", "meaning": "tomorrow" },
-  { "word": "أمس", "pronunciation": "ams", "meaning": "yesterday" },
-  { "word": "للأبد", "pronunciation": "lil-abad", "meaning": "forever" },
-  { "word": "جميعاً", "pronunciation": "jamee'an", "meaning": "together" },
-  { "word": "بعيداً", "pronunciation": "ba'eedan", "meaning": "far" },
-  { "word": "قريباً", "pronunciation": "qareeban", "meaning": "near" },
   {
-    "word": "على الفور",
+    "wordWithDia": "غَدًا",
+    "wordWithoutDia": "غدا",
+    "pronunciation": "ghadan",
+    "meaning": "tomorrow"
+  },
+  {
+    "wordWithDia": "أَمْسِ",
+    "wordWithoutDia": "أمس",
+    "pronunciation": "ams",
+    "meaning": "yesterday"
+  },
+  {
+    "wordWithDia": "لِلْأَبَدِ",
+    "wordWithoutDia": "للأبد",
+    "pronunciation": "lil-abad",
+    "meaning": "forever"
+  },
+  {
+    "wordWithDia": "جَمِيعًا",
+    "wordWithoutDia": "جميعا",
+    "pronunciation": "jamee'an",
+    "meaning": "together"
+  },
+  {
+    "wordWithDia": "بَعِيدًا",
+    "wordWithoutDia": "بعيدا",
+    "pronunciation": "ba'eedan",
+    "meaning": "far"
+  },
+  {
+    "wordWithDia": "قَرِيبًا",
+    "wordWithoutDia": "قريبا",
+    "pronunciation": "qareeban",
+    "meaning": "near"
+  },
+  {
+    "wordWithDia": "عَلَى الْفُوْرِ",
+    "wordWithoutDia": "على الفور",
     "pronunciation": "ala al-fawr",
     "meaning": "immediately"
   },
-  { "word": "منذ زمن", "pronunciation": "mundh ziman", "meaning": "long ago" },
   {
-    "word": "بدون توقف",
+    "wordWithDia": "مِنْذُ زَمَنٍ",
+    "wordWithoutDia": "منذ زمن",
+    "pronunciation": "mundh ziman",
+    "meaning": "long ago"
+  },
+  {
+    "wordWithDia": "بِدُوْنِ تَوْقِيْفٍ",
+    "wordWithoutDia": "بدون توقف",
     "pronunciation": "bidoon tawqeef",
     "meaning": "continuously"
   },
-  { "word": "عادةً", "pronunciation": "aadatan", "meaning": "usually" },
-  { "word": "نادراً", "pronunciation": "nadaran", "meaning": "rarely" },
-  { "word": "مرة واحدة", "pronunciation": "mara waahida", "meaning": "once" },
-  { "word": "أكثر", "pronunciation": "akthar", "meaning": "more" },
-  { "word": "أقل", "pronunciation": "aql", "meaning": "less" },
-  { "word": "مؤخراً", "pronunciation": "mu'akhiran", "meaning": "recently" },
-  { "word": "سابقاً", "pronunciation": "saabiqan", "meaning": "previously" },
-  { "word": "فجأة", "pronunciation": "fajaatan", "meaning": "suddenly" },
-  { "word": "عموماً", "pronunciation": "umuman", "meaning": "generally" },
-  { "word": "أخيراً", "pronunciation": "akhiran", "meaning": "lately" },
-  { "word": "كثيراً", "pronunciation": "katheeran", "meaning": "often" },
-  { "word": "أحياناً", "pronunciation": "ahyaanan", "meaning": "sometimes" },
-  { "word": "نادراً", "pronunciation": "nadaran", "meaning": "rarely" },
-  { "word": "مبكراً", "pronunciation": "mubakiran", "meaning": "early" },
-  { "word": "تأخراً", "pronunciation": "ta'akharan", "meaning": "late" },
-  { "word": "بجد", "pronunciation": "bijid", "meaning": "seriously" },
-  { "word": "بسهولة", "pronunciation": "bisaahula", "meaning": "easily" },
   {
-    "word": "بصعوبة",
+    "wordWithDia": "عَادَةً",
+    "wordWithoutDia": "عادة",
+    "pronunciation": "aadatan",
+    "meaning": "usually"
+  },
+  {
+    "wordWithDia": "نَادِرًا",
+    "wordWithoutDia": "نادرا",
+    "pronunciation": "nadaran",
+    "meaning": "rarely"
+  },
+  {
+    "wordWithDia": "مَرَّةً وَاحِدَةً",
+    "wordWithoutDia": "مرة واحدة",
+    "pronunciation": "mara waahida",
+    "meaning": "once"
+  },
+  {
+    "wordWithDia": "أَكْثَرُ",
+    "wordWithoutDia": "أكثر",
+    "pronunciation": "akthar",
+    "meaning": "more"
+  },
+  {
+    "wordWithDia": "أَقَلُّ",
+    "wordWithoutDia": "أقل",
+    "pronunciation": "aql",
+    "meaning": "less"
+  },
+  {
+    "wordWithDia": "مُؤَخِّرًا",
+    "wordWithoutDia": "مؤخرا",
+    "pronunciation": "mu'akhiran",
+    "meaning": "recently"
+  },
+  {
+    "wordWithDia": "سَابِقًا",
+    "wordWithoutDia": "سابقا",
+    "pronunciation": "saabiqan",
+    "meaning": "previously"
+  },
+  {
+    "wordWithDia": "فَجْأَةً",
+    "wordWithoutDia": "فجأة",
+    "pronunciation": "fajaatan",
+    "meaning": "suddenly"
+  },
+  {
+    "wordWithDia": "عُمُوْمًا",
+    "wordWithoutDia": "عموما",
+    "pronunciation": "umuman",
+    "meaning": "generally"
+  },
+  {
+    "wordWithDia": "أَخِيرًا",
+    "wordWithoutDia": "أخيرا",
+    "pronunciation": "akhiran",
+    "meaning": "lately"
+  },
+  {
+    "wordWithDia": "كَثِيْرًا",
+    "wordWithoutDia": "كثيرا",
+    "pronunciation": "katheeran",
+    "meaning": "often"
+  },
+  {
+    "wordWithDia": "أَحْيَانًا",
+    "wordWithoutDia": "أحيانا",
+    "pronunciation": "ahyaanan",
+    "meaning": "sometimes"
+  },
+  {
+    "wordWithDia": "نَادِرًا",
+    "wordWithoutDia": "نادرا",
+    "pronunciation": "nadaran",
+    "meaning": "rarely"
+  },
+  {
+    "wordWithDia": "مُبَكِّرًا",
+    "wordWithoutDia": "مبكرا",
+    "pronunciation": "mubakiran",
+    "meaning": "early"
+  },
+  {
+    "wordWithDia": "تَأَخِّرًا",
+    "wordWithoutDia": "تأخرا",
+    "pronunciation": "ta'akharan",
+    "meaning": "late"
+  },
+  {
+    "wordWithDia": "بِجَدٍّ",
+    "wordWithoutDia": "بجد",
+    "pronunciation": "bijid",
+    "meaning": "seriously"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "easily"
+  },
+  {
+    "wordWithDia": "بِصُعُوْبَةٍ",
+    "wordWithoutDia": "بصعوبة",
     "pronunciation": "bisa'uba",
     "meaning": "with difficulty"
   },
-  { "word": "بحذر", "pronunciation": "bihathar", "meaning": "cautiously" },
   {
-    "word": "بلا توقف",
+    "wordWithDia": "بِحَذَرٍ",
+    "wordWithoutDia": "بحذر",
+    "pronunciation": "bihathar",
+    "meaning": "cautiously"
+  },
+  {
+    "wordWithDia": "بِلَا تَوْقِيْفٍ",
+    "wordWithoutDia": "بلا توقف",
     "pronunciation": "bila tawqeef",
     "meaning": "ceaselessly"
   },
-  { "word": "بسرعة", "pronunciation": "bisura'a", "meaning": "quickly" },
-  { "word": "ببطء", "pronunciation": "bi-bat'", "meaning": "slowly" },
-  { "word": "بمهارة", "pronunciation": "bimaharat", "meaning": "skillfully" },
-  { "word": "بحرية", "pronunciation": "bahratan", "meaning": "freely" },
   {
-    "word": "بشكل طبيعي",
+    "wordWithDia": "بِسُرْعَةٍ",
+    "wordWithoutDia": "بسرعة",
+    "pronunciation": "bisura'a",
+    "meaning": "quickly"
+  },
+  {
+    "wordWithDia": "بِبُطْءٍ",
+    "wordWithoutDia": "ببطء",
+    "pronunciation": "bi-bat'",
+    "meaning": "slowly"
+  },
+  {
+    "wordWithDia": "بِمَهَارَةٍ",
+    "wordWithoutDia": "بمهارة",
+    "pronunciation": "bimaharat",
+    "meaning": "skillfully"
+  },
+  {
+    "wordWithDia": "بِحُرِّيَّةٍ",
+    "wordWithoutDia": "بحرية",
+    "pronunciation": "bahratan",
+    "meaning": "freely"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ طَبِيْعِيِّ",
+    "wordWithoutDia": "بشكل طبيعي",
     "pronunciation": "bshakl tabee'",
     "meaning": "naturally"
   },
-  { "word": "بإرادة", "pronunciation": "bi-iradah", "meaning": "willingly" },
-  { "word": "بلا خوف", "pronunciation": "bila khawf", "meaning": "fearlessly" },
-  { "word": "بدقة", "pronunciation": "bidqah", "meaning": "precisely" },
-  { "word": "باستمرار", "pronunciation": "bistimrar", "meaning": "constantly" },
-  { "word": "باستثناء", "pronunciation": "bistithna'", "meaning": "except" },
-  { "word": "بالتأكيد", "pronunciation": "biltaqeed", "meaning": "surely" },
-  { "word": "بلا شك", "pronunciation": "bila shak", "meaning": "undoubtedly" },
   {
-    "word": "بفعالية",
+    "wordWithDia": "بِإِرَادَةٍ",
+    "wordWithoutDia": "بإرادة",
+    "pronunciation": "bi-iradah",
+    "meaning": "willingly"
+  },
+  {
+    "wordWithDia": "بِلَا خَوْفٍ",
+    "wordWithoutDia": "بلا خوف",
+    "pronunciation": "bila khawf",
+    "meaning": "fearlessly"
+  },
+  {
+    "wordWithDia": "بِدِقَّةٍ",
+    "wordWithoutDia": "بدقة",
+    "pronunciation": "bidqah",
+    "meaning": "precisely"
+  },
+  {
+    "wordWithDia": "بِاِسْتِمْرَارٍ",
+    "wordWithoutDia": "باستمرار",
+    "pronunciation": "bistimrar",
+    "meaning": "constantly"
+  },
+  {
+    "wordWithDia": "بِاِسْتِثْنَاءٍ",
+    "wordWithoutDia": "باستثناء",
+    "pronunciation": "bistithna'",
+    "meaning": "except"
+  },
+  {
+    "wordWithDia": "بِالتَّأْكِيْدِ",
+    "wordWithoutDia": "بالتأكيد",
+    "pronunciation": "biltaqeed",
+    "meaning": "surely"
+  },
+  {
+    "wordWithDia": "بِلَا شَكٍّ",
+    "wordWithoutDia": "بلا شك",
+    "pronunciation": "bila shak",
+    "meaning": "undoubtedly"
+  },
+  {
+    "wordWithDia": "بِفَعَالِيَّةٍ",
+    "wordWithoutDia": "بفعالية",
     "pronunciation": "bife'aliyyah",
     "meaning": "effectively"
   },
-  { "word": "ببساطة", "pronunciation": "bibsarat", "meaning": "simply" },
-  { "word": "بجدية", "pronunciation": "bijidiyyah", "meaning": "earnestly" },
-  { "word": "بالتدريج", "pronunciation": "biltadreej", "meaning": "gradually" },
-  { "word": "بعناية", "pronunciation": "bi'anaayah", "meaning": "carefully" },
   {
-    "word": "بشكل كامل",
+    "wordWithDia": "بِبَسَاطَةٍ",
+    "wordWithoutDia": "ببساطة",
+    "pronunciation": "bibsarat",
+    "meaning": "simply"
+  },
+  {
+    "wordWithDia": "بِجِدٍّ",
+    "wordWithoutDia": "بجد",
+    "pronunciation": "bijidiyyah",
+    "meaning": "earnestly"
+  },
+  {
+    "wordWithDia": "بِالتَّدْرِيْجِ",
+    "wordWithoutDia": "بالتدريج",
+    "pronunciation": "biltadreej",
+    "meaning": "gradually"
+  },
+  {
+    "wordWithDia": "بِعِنَايَةٍ",
+    "wordWithoutDia": "بعناية",
+    "pronunciation": "bi'anaayah",
+    "meaning": "carefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ كَامِلٍ",
+    "wordWithoutDia": "بشكل كامل",
     "pronunciation": "bshakl kaamil",
     "meaning": "completely"
   },
   {
-    "word": "بكمية",
+    "wordWithDia": "بِكُمِّيَّةٍ",
+    "wordWithoutDia": "بكمية",
     "pronunciation": "bikammiyah",
     "meaning": "quantitatively"
   },
   {
-    "word": "باستمرارية",
+    "wordWithDia": "بِاِسْتِمْرَارِيَّةٍ",
+    "wordWithoutDia": "باستمرارية",
     "pronunciation": "bistimraariyah",
     "meaning": "continuity"
   },
-  { "word": "بصدق", "pronunciation": "bisidq", "meaning": "honestly" },
-  { "word": "بسلامة", "pronunciation": "bisalaamah", "meaning": "safely" },
-  { "word": "بوتيرة", "pronunciation": "bootirah", "meaning": "pace" },
-  { "word": "بسهولة", "pronunciation": "bisaahula", "meaning": "easily" },
   {
-    "word": "بصعوبة",
+    "wordWithDia": "بِصِدْقٍ",
+    "wordWithoutDia": "بصدق",
+    "pronunciation": "bisidq",
+    "meaning": "honestly"
+  },
+  {
+    "wordWithDia": "بِسَلَامَةٍ",
+    "wordWithoutDia": "بسلامة",
+    "pronunciation": "bisalaamah",
+    "meaning": "safely"
+  },
+  {
+    "wordWithDia": "بُوتِيْرَةٍ",
+    "wordWithoutDia": "بوتيرة",
+    "pronunciation": "bootirah",
+    "meaning": "pace"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "easily"
+  },
+  {
+    "wordWithDia": "بِصُعُوْبَةٍ",
+    "wordWithoutDia": "بصعوبة",
     "pronunciation": "bisa'uba",
     "meaning": "with difficulty"
   },
-  { "word": "باستقرار", "pronunciation": "bistiqraar", "meaning": "steadily" },
   {
-    "word": "باستمرار",
+    "wordWithDia": "بِاِسْتِقَرَارٍ",
+    "wordWithoutDia": "باستقرار",
+    "pronunciation": "bistiqraar",
+    "meaning": "steadily"
+  },
+  {
+    "wordWithDia": "بِاِسْتِمْرَارٍ",
+    "wordWithoutDia": "باستمرار",
     "pronunciation": "bistimraar",
     "meaning": "constantly"
   },
-  { "word": "بترتيب", "pronunciation": "bitarteeb", "meaning": "orderly" },
-  { "word": "بسكون", "pronunciation": "biskoon", "meaning": "quietly" },
   {
-    "word": "بحماس",
+    "wordWithDia": "بِتَّرْتِيْبٍ",
+    "wordWithoutDia": "بترتيب",
+    "pronunciation": "bitarteeb",
+    "meaning": "orderly"
+  },
+  {
+    "wordWithDia": "بِسُكُوْنٍ",
+    "wordWithoutDia": "بسكون",
+    "pronunciation": "biskoon",
+    "meaning": "quietly"
+  },
+  {
+    "wordWithDia": "بِحَمَاسٍ",
+    "wordWithoutDia": "بحماس",
     "pronunciation": "bihimaas",
     "meaning": "enthusiastically"
   },
-  { "word": "بانتظام", "pronunciation": "bi-intizaam", "meaning": "regularly" },
-  { "word": "بحزم", "pronunciation": "bihazm", "meaning": "firmly" },
   {
-    "word": "بشكل عام",
+    "wordWithDia": "بِانْتِظَامٍ",
+    "wordWithoutDia": "بانتظام",
+    "pronunciation": "bi-intizaam",
+    "meaning": "regularly"
+  },
+  {
+    "wordWithDia": "بِحَزْمٍ",
+    "wordWithoutDia": "بحزم",
+    "pronunciation": "bihazm",
+    "meaning": "firmly"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ عَامٍ",
+    "wordWithoutDia": "بشكل عام",
     "pronunciation": "bshakl 'aam",
     "meaning": "generally"
   },
-  { "word": "بحذر", "pronunciation": "bihathar", "meaning": "cautiously" },
-  { "word": "بسرور", "pronunciation": "bisuroor", "meaning": "happily" },
-  { "word": "بحب", "pronunciation": "bihubb", "meaning": "lovingly" },
   {
-    "word": "بشكل مباشر",
+    "wordWithDia": "بِحَذَرٍ",
+    "wordWithoutDia": "بحذر",
+    "pronunciation": "bihathar",
+    "meaning": "cautiously"
+  },
+  {
+    "wordWithDia": "بِسُرُوْرٍ",
+    "wordWithoutDia": "بسرور",
+    "pronunciation": "bisuroor",
+    "meaning": "happily"
+  },
+  {
+    "wordWithDia": "بِحُبٍّ",
+    "wordWithoutDia": "بحب",
+    "pronunciation": "bihubb",
+    "meaning": "lovingly"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ مُبَاشِرٍ",
+    "wordWithoutDia": "بشكل مباشر",
     "pronunciation": "bshakl mubaashir",
     "meaning": "directly"
   },
   {
-    "word": "باحترافية",
+    "wordWithDia": "بِاِحْتِرَافِيَّةٍ",
+    "wordWithoutDia": "باحترافية",
     "pronunciation": "bihutrifiyah",
     "meaning": "professionally"
   },
-  { "word": "بدقة", "pronunciation": "bidqah", "meaning": "precisely" },
   {
-    "word": "باستمرار",
+    "wordWithDia": "بِدُقَّةٍ",
+    "wordWithoutDia": "بدقة",
+    "pronunciation": "bidqah",
+    "meaning": "precisely"
+  },
+  {
+    "wordWithDia": "بِاِسْتِمْرَارٍ",
+    "wordWithoutDia": "باستمرار",
     "pronunciation": "bistimraar",
     "meaning": "constantly"
   },
   {
-    "word": "بتفاؤل",
+    "wordWithDia": "بِتَّفَاؤُلٍ",
+    "wordWithoutDia": "بتفاؤل",
     "pronunciation": "bitafa'ul",
     "meaning": "optimistically"
   },
   {
-    "word": "باحترام",
+    "wordWithDia": "بِاِحْتِرَامٍ",
+    "wordWithoutDia": "باحترام",
     "pronunciation": "bihitraam",
     "meaning": "respectfully"
   },
-  { "word": "بمرونة", "pronunciation": "bimaruunah", "meaning": "smoothly" },
-  { "word": "بإخلاص", "pronunciation": "biekhlaas", "meaning": "sincerely" },
-  { "word": "بفضل", "pronunciation": "bifadhl", "meaning": "gracefully" },
   {
-    "word": "بشكل آمن",
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
     "pronunciation": "bshakl aamen",
     "meaning": "securely"
   },
-  { "word": "بوضوح", "pronunciation": "bowdhoo", "meaning": "clearly" },
-  { "word": "بسهولة", "pronunciation": "bisaahula", "meaning": "effortlessly" },
-  { "word": "بتأني", "pronunciation": "bita'ni", "meaning": "patiently" },
   {
-    "word": "باهتمام",
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
     "pronunciation": "bihutamaam",
     "meaning": "attentively"
   },
-  { "word": "بتمويل", "pronunciation": "bitamweel", "meaning": "financially" },
-  { "word": "بتصميم", "pronunciation": "bitasmeem", "meaning": "determinedly" }
+  {
+    "wordWithDia": "بِتَمُوِيْلٍ",
+    "wordWithoutDia": "بتمويل",
+    "pronunciation": "bitamweel",
+    "meaning": "financially"
+  },
+  {
+    "wordWithDia": "بِتَصْمِيْمٍ",
+    "wordWithoutDia": "بتصميم",
+    "pronunciation": "bitasmeem",
+    "meaning": "determinedly"
+  },
+  {
+    "wordWithDia": "بِصَفَاءٍ",
+    "wordWithoutDia": "بصفاء",
+    "pronunciation": "bisaafaa",
+    "meaning": "purely"
+  },
+  {
+    "wordWithDia": "بِفَوْزٍ",
+    "wordWithoutDia": "بفوز",
+    "pronunciation": "bifawz",
+    "meaning": "victoriously"
+  },
+  {
+    "wordWithDia": "بِبَسَاطَةٍ",
+    "wordWithoutDia": "ببساطة",
+    "pronunciation": "bibsarat",
+    "meaning": "simply"
+  },
+  {
+    "wordWithDia": "بِدُقَّةٍ",
+    "wordWithoutDia": "بدقة",
+    "pronunciation": "bidqah",
+    "meaning": "accurately"
+  },
+  {
+    "wordWithDia": "بِلَطْفٍ",
+    "wordWithoutDia": "بلطف",
+    "pronunciation": "bilatf",
+    "meaning": "gently"
+  },
+  {
+    "wordWithDia": "بِحَمْلٍ",
+    "wordWithoutDia": "بحمل",
+    "pronunciation": "bihaml",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِمُحَبَّةٍ",
+    "wordWithoutDia": "بمحبة",
+    "pronunciation": "bimuhabbah",
+    "meaning": "lovingly"
+  },
+  {
+    "wordWithDia": "بِعَقْلٍ",
+    "wordWithoutDia": "بعقل",
+    "pronunciation": "biaql",
+    "meaning": "rationally"
+  },
+  {
+    "wordWithDia": "بِخِجْلٍ",
+    "wordWithoutDia": "بخجل",
+    "pronunciation": "bikhijl",
+    "meaning": "shyly"
+  },
+  {
+    "wordWithDia": "بِصَمْتٍ",
+    "wordWithoutDia": "بصمت",
+    "pronunciation": "bisamt",
+    "meaning": "silently"
+  },
+  {
+    "wordWithDia": "بِتَرَدُّدٍ",
+    "wordWithoutDia": "بتردد",
+    "pronunciation": "bitardud",
+    "meaning": "hesitantly"
+  },
+  {
+    "wordWithDia": "بِسُرُوْرٍ",
+    "wordWithoutDia": "بسرور",
+    "pronunciation": "bisuroor",
+    "meaning": "joyfully"
+  },
+  {
+    "wordWithDia": "بِفَرَحٍ",
+    "wordWithoutDia": "بفرح",
+    "pronunciation": "bifarah",
+    "meaning": "happily"
+  },
+  {
+    "wordWithDia": "بِإِيْمَانٍ",
+    "wordWithoutDia": "بإيمان",
+    "pronunciation": "bieemaan",
+    "meaning": "faithfully"
+  },
+  {
+    "wordWithDia": "بِسُعَادَةٍ",
+    "wordWithoutDia": "بسعادة",
+    "pronunciation": "bisa'adah",
+    "meaning": "happily"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ عَامٍ",
+    "wordWithoutDia": "بشكل عام",
+    "pronunciation": "bshakl 'aam",
+    "meaning": "generally"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ مُبَاشِرٍ",
+    "wordWithoutDia": "بشكل مباشر",
+    "pronunciation": "bshakl mubaashir",
+    "meaning": "directly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاِحْتِرَافِيَّةٍ",
+    "wordWithoutDia": "باحترافية",
+    "pronunciation": "bihutrifiyah",
+    "meaning": "professionally"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  },
+  {
+    "wordWithDia": "بِسُهُوْلَةٍ",
+    "wordWithoutDia": "بسهولة",
+    "pronunciation": "bisaahula",
+    "meaning": "effortlessly"
+  },
+  {
+    "wordWithDia": "بِتَأَنِّيٍ",
+    "wordWithoutDia": "بتأني",
+    "pronunciation": "bita'ni",
+    "meaning": "patiently"
+  },
+  {
+    "wordWithDia": "بِاهْتِمَامٍ",
+    "wordWithoutDia": "باهتمام",
+    "pronunciation": "bihutamaam",
+    "meaning": "attentively"
+  },
+  {
+    "wordWithDia": "بِمَرُونَةٍ",
+    "wordWithoutDia": "بمرونة",
+    "pronunciation": "bimaruunah",
+    "meaning": "smoothly"
+  },
+  {
+    "wordWithDia": "بِإِخْلَاصٍ",
+    "wordWithoutDia": "بإخلاص",
+    "pronunciation": "biekhlaas",
+    "meaning": "sincerely"
+  },
+  {
+    "wordWithDia": "بِفَضْلٍ",
+    "wordWithoutDia": "بفضل",
+    "pronunciation": "bifadhl",
+    "meaning": "gracefully"
+  },
+  {
+    "wordWithDia": "بِشَكْلٍ آمِنٍ",
+    "wordWithoutDia": "بشكل آمن",
+    "pronunciation": "bshakl aamen",
+    "meaning": "securely"
+  },
+  {
+    "wordWithDia": "بُوضُوْحٍ",
+    "wordWithoutDia": "بوضوح",
+    "pronunciation": "bowdhoo",
+    "meaning": "clearly"
+  }
 ]

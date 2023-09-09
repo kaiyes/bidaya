@@ -1,156 +1,602 @@
 [
-  { "word": "ذهب", "pronunciation": "dhahaba", "meaning": "to go" },
-  { "word": "أكل", "pronunciation": "akala", "meaning": "to eat" },
-  { "word": "شرب", "pronunciation": "shariba", "meaning": "to drink" },
-  { "word": "نام", "pronunciation": "nam", "meaning": "to sleep" },
-  { "word": "جلس", "pronunciation": "jilas", "meaning": "to sit" },
-  { "word": "وقف", "pronunciation": "waqafa", "meaning": "to stand" },
-  { "word": "كتب", "pronunciation": "kataba", "meaning": "to write" },
-  { "word": "قرأ", "pronunciation": "qara'a", "meaning": "to read" },
-  { "word": "فهم", "pronunciation": "fahima", "meaning": "to understand" },
-  { "word": "تكلم", "pronunciation": "takallama", "meaning": "to speak" },
-  { "word": "سمع", "pronunciation": "sama'a", "meaning": "to hear" },
-  { "word": "رأى", "pronunciation": "ra'a", "meaning": "to see" },
-  { "word": "ذهب", "pronunciation": "dhahaba", "meaning": "to go" },
-  { "word": "أتى", "pronunciation": "ata", "meaning": "to come" },
-  { "word": "ركب", "pronunciation": "rakiba", "meaning": "to ride" },
-  { "word": "سافر", "pronunciation": "safara", "meaning": "to travel" },
-  { "word": "عمل", "pronunciation": "amala", "meaning": "to work" },
-  { "word": "شرع", "pronunciation": "shara'a", "meaning": "to begin" },
-  { "word": "نجح", "pronunciation": "najaha", "meaning": "to succeed" },
-  { "word": "فشل", "pronunciation": "fashila", "meaning": "to fail" },
-  { "word": "ضحك", "pronunciation": "dahika", "meaning": "to laugh" },
-  { "word": "بكى", "pronunciation": "baka", "meaning": "to cry" },
-  { "word": "غسل", "pronunciation": "ghasala", "meaning": "to wash" },
-  { "word": "لبس", "pronunciation": "labisa", "meaning": "to wear" },
-  { "word": "فتح", "pronunciation": "fataha", "meaning": "to open" },
-  { "word": "أغلق", "pronunciation": "aghlaqa", "meaning": "to close" },
-  { "word": "أخذ", "pronunciation": "akhatha", "meaning": "to take" },
-  { "word": "أعطى", "pronunciation": "a'ta", "meaning": "to give" },
-  { "word": "أتى", "pronunciation": "ata", "meaning": "to bring" },
-  { "word": "رمى", "pronunciation": "rama", "meaning": "to throw" },
-  { "word": "قال", "pronunciation": "qala", "meaning": "to say" },
-  { "word": "أخبر", "pronunciation": "akhbara", "meaning": "to tell" },
-  { "word": "نسي", "pronunciation": "nasiya", "meaning": "to forget" },
-  { "word": "تذكر", "pronunciation": "tadhakara", "meaning": "to remember" },
-  { "word": "رفع", "pronunciation": "rafa'a", "meaning": "to lift" },
-  { "word": "أخرج", "pronunciation": "akhraja", "meaning": "to take out" },
-  { "word": "دخل", "pronunciation": "dakhala", "meaning": "to enter" },
-  { "word": "خرج", "pronunciation": "kharaja", "meaning": "to go out" },
-  { "word": "سجد", "pronunciation": "sajada", "meaning": "to prostrate" },
-  { "word": "صلى", "pronunciation": "salla", "meaning": "to pray" },
-  { "word": "صافح", "pronunciation": "safaha", "meaning": "to shake hands" },
-  { "word": "احتضن", "pronunciation": "ihtadana", "meaning": "to hug" },
-  { "word": "قبل", "pronunciation": "qabbala", "meaning": "to kiss" },
-  { "word": "ضرب", "pronunciation": "daraba", "meaning": "to hit" },
-  { "word": "عقد", "pronunciation": "a'qada", "meaning": "to contract" },
-  { "word": "أصبح", "pronunciation": "asbaha", "meaning": "to become" },
-  { "word": "نام", "pronunciation": "nam", "meaning": "to sleep" },
-  { "word": "قام", "pronunciation": "qama", "meaning": "to get up" },
-  { "word": "انتظر", "pronunciation": "intazara", "meaning": "to wait" },
-  { "word": "أكمل", "pronunciation": "akmala", "meaning": "to complete" },
-  { "word": "انفصل", "pronunciation": "infasala", "meaning": "to separate" },
-  { "word": "اجتمع", "pronunciation": "ijtama'a", "meaning": "to gather" },
-  { "word": "تفرق", "pronunciation": "tafarraqa", "meaning": "to disperse" },
-  { "word": "زرع", "pronunciation": "zara'a", "meaning": "to plant" },
-  { "word": "حصد", "pronunciation": "hasada", "meaning": "to harvest" },
-  { "word": "نمو", "pronunciation": "namu", "meaning": "to grow" },
-  { "word": "ذبح", "pronunciation": "dabh", "meaning": "to slaughter" },
-  { "word": "استيقظ", "pronunciation": "istiyaqaza", "meaning": "to wake up" },
-  { "word": "تعب", "pronunciation": "ta'aba", "meaning": "to get tired" },
-  { "word": "استراح", "pronunciation": "istaraaha", "meaning": "to rest" },
-  { "word": "حلم", "pronunciation": "hulima", "meaning": "to dream" },
-  { "word": "استمتع", "pronunciation": "istamta'a", "meaning": "to enjoy" },
-  { "word": "حارب", "pronunciation": "haraba", "meaning": "to fight" },
-  { "word": "فاز", "pronunciation": "faaza", "meaning": "to win" },
-  { "word": "خسر", "pronunciation": "khasira", "meaning": "to lose" },
-  { "word": "سافر", "pronunciation": "safara", "meaning": "to travel" },
-  { "word": "سكن", "pronunciation": "sakana", "meaning": "to live" },
-  { "word": "مات", "pronunciation": "mata", "meaning": "to die" },
-  { "word": "عاد", "pronunciation": "aada", "meaning": "to return" },
-  { "word": "انتهى", "pronunciation": "intaha", "meaning": "to finish" },
-  { "word": "اندفع", "pronunciation": "indafaa", "meaning": "to rush" },
-  { "word": "نجح", "pronunciation": "najaha", "meaning": "to succeed" },
-  { "word": "فشل", "pronunciation": "fashila", "meaning": "to fail" },
-  { "word": "تراجع", "pronunciation": "taraajala", "meaning": "to retreat" },
-  { "word": "نجح", "pronunciation": "najaha", "meaning": "to pass (an exam)" },
-  { "word": "ركض", "pronunciation": "rakaza", "meaning": "to run" },
-  { "word": "سبح", "pronunciation": "sabaha", "meaning": "to swim" },
-  { "word": "سافر", "pronunciation": "safara", "meaning": "to journey" },
-  { "word": "طلب", "pronunciation": "talaba", "meaning": "to request" },
-  { "word": "أطعم", "pronunciation": "a'tama", "meaning": "to feed" },
-  { "word": "رفع", "pronunciation": "rafa'a", "meaning": "to raise" },
-  { "word": "أسكن", "pronunciation": "asakana", "meaning": "to inhabit" },
-  { "word": "أعطى", "pronunciation": "a'ta", "meaning": "to grant" },
-  { "word": "تزوج", "pronunciation": "tazawwaja", "meaning": "to marry" },
-  { "word": "طلق", "pronunciation": "talaq", "meaning": "to divorce" },
-  { "word": "حمل", "pronunciation": "hamala", "meaning": "to carry" },
-  { "word": "نجح", "pronunciation": "najaha", "meaning": "to pass (a test)" },
-  { "word": "فشل", "pronunciation": "fashila", "meaning": "to fail (a test)" },
-  { "word": "توقف", "pronunciation": "tawaqafa", "meaning": "to stop" },
-  { "word": "أمسك", "pronunciation": "amsaka", "meaning": "to hold" },
-  { "word": "ترك", "pronunciation": "taraka", "meaning": "to leave" },
-  { "word": "رفض", "pronunciation": "rafada", "meaning": "to refuse" },
-  { "word": "أعطى", "pronunciation": "a'ta", "meaning": "to give" },
-  { "word": "أخذ", "pronunciation": "akhatha", "meaning": "to take" },
-  { "word": "فرح", "pronunciation": "fariha", "meaning": "to rejoice" },
-  { "word": "أسرع", "pronunciation": "asra'a", "meaning": "to hurry" },
-  { "word": "عاد", "pronunciation": "aada", "meaning": "to return" },
-  { "word": "انتهى", "pronunciation": "intaha", "meaning": "to end" },
-  { "word": "خرج", "pronunciation": "kharaja", "meaning": "to go out" },
-  { "word": "فهم", "pronunciation": "fahima", "meaning": "to understand" },
-  { "word": "ذهب", "pronunciation": "dhahaba", "meaning": "to leave" },
-  { "word": "انتظر", "pronunciation": "intazara", "meaning": "to wait" },
-  { "word": "صبر", "pronunciation": "sabra", "meaning": "to endure" },
-  { "word": "حزن", "pronunciation": "hazana", "meaning": "to grieve" },
-  { "word": "عاب", "pronunciation": "aaba", "meaning": "to blame" },
-  { "word": "غضب", "pronunciation": "ghadhiba", "meaning": "to get angry" },
-  { "word": "ابتسم", "pronunciation": "ibtasama", "meaning": "to smile" },
-  { "word": "صمت", "pronunciation": "samata", "meaning": "to be silent" },
-  { "word": "فقد", "pronunciation": "faqada", "meaning": "to lose" },
-  { "word": "وجد", "pronunciation": "wajada", "meaning": "to find" },
-  { "word": "عثر", "pronunciation": "athara", "meaning": "to stumble" },
-  { "word": "حسن", "pronunciation": "hasuna", "meaning": "to improve" },
-  { "word": "ساء", "pronunciation": "sa'a", "meaning": "to worsen" },
-  { "word": "تسبب", "pronunciation": "tasabba", "meaning": "to cause" },
-  { "word": "اعتذر", "pronunciation": "i'tazara", "meaning": "to apologize" },
-  { "word": "تكلم", "pronunciation": "takallama", "meaning": "to talk" },
-  { "word": "حكم", "pronunciation": "hukma", "meaning": "to judge" },
-  { "word": "احتج", "pronunciation": "ihtajja", "meaning": "to protest" },
-  { "word": "سيطر", "pronunciation": "saytara", "meaning": "to control" },
-  { "word": "حمل", "pronunciation": "hamala", "meaning": "to bear" },
-  { "word": "أمسك", "pronunciation": "amsaka", "meaning": "to grasp" },
-  { "word": "اجتاح", "pronunciation": "ijtaaha", "meaning": "to invade" },
-  { "word": "أمر", "pronunciation": "amara", "meaning": "to command" },
-  { "word": "ترجم", "pronunciation": "tarjama", "meaning": "to translate" },
-  { "word": "كتب", "pronunciation": "kataba", "meaning": "to author" },
-  { "word": "تخيل", "pronunciation": "takhayyala", "meaning": "to imagine" },
-  { "word": "نصح", "pronunciation": "nasaaha", "meaning": "to advise" },
-  { "word": "أذى", "pronunciation": "adha", "meaning": "to harm" },
-  { "word": "تردد", "pronunciation": "taraddada", "meaning": "to hesitate" },
-  { "word": "استدرج", "pronunciation": "istadraja", "meaning": "to deceive" },
-  { "word": "استقال", "pronunciation": "istiqala", "meaning": "to resign" },
-  { "word": "انتقد", "pronunciation": "intaqada", "meaning": "to criticize" },
-  { "word": "تقدم", "pronunciation": "taqaddama", "meaning": "to advance" },
-  { "word": "تأخر", "pronunciation": "ta'akhkhara", "meaning": "to delay" },
   {
-    "word": "أخطأ",
-    "pronunciation": "akhata'a",
-    "meaning": "to make a mistake"
+    "wordWithDia": "كَتَبَ",
+    "wordWithoutDia": "كتب",
+    "pronunciation": "kataba",
+    "meaning": "wrote"
   },
-  { "word": "اعتقد", "pronunciation": "i'taqada", "meaning": "to believe" },
-  { "word": "أماكن", "pronunciation": "amakan", "meaning": "to place" },
-  { "word": "استفسر", "pronunciation": "istafsara", "meaning": "to inquire" },
-  { "word": "تأمل", "pronunciation": "ta'amala", "meaning": "to contemplate" },
-  { "word": "تخصص", "pronunciation": "takhasasa", "meaning": "to specialize" },
-  { "word": "تجاوز", "pronunciation": "tajaawaza", "meaning": "to surpass" },
-  { "word": "استقر", "pronunciation": "istaqarra", "meaning": "to settle" },
-  { "word": "تألم", "pronunciation": "ta'alam", "meaning": "to suffer" },
   {
-    "word": "تفاجأ",
-    "pronunciation": "tafaaja'a",
-    "meaning": "to be surprised"
+    "wordWithDia": "قَالَ",
+    "wordWithoutDia": "قال",
+    "pronunciation": "qala",
+    "meaning": "said"
   },
-  { "word": "استمر", "pronunciation": "istamara", "meaning": "to continue" },
-  { "word": "احتفل", "pronunciation": "ihtafala", "meaning": "to celebrate" }
+  {
+    "wordWithDia": "ذَهَبَ",
+    "wordWithoutDia": "ذهب",
+    "pronunciation": "dahaba",
+    "meaning": "went"
+  },
+  {
+    "wordWithDia": "أَكَلَ",
+    "wordWithoutDia": "أكل",
+    "pronunciation": "akala",
+    "meaning": "ate"
+  },
+  {
+    "wordWithDia": "شَرِبَ",
+    "wordWithoutDia": "شرب",
+    "pronunciation": "shariba",
+    "meaning": "drank"
+  },
+  {
+    "wordWithDia": "نَامَ",
+    "wordWithoutDia": "نام",
+    "pronunciation": "nama",
+    "meaning": "slept"
+  },
+  {
+    "wordWithDia": "رَكِبَ",
+    "wordWithoutDia": "ركب",
+    "pronunciation": "rakiba",
+    "meaning": "rode"
+  },
+  {
+    "wordWithDia": "جَرَى",
+    "wordWithoutDia": "جرى",
+    "pronunciation": "jara",
+    "meaning": "ran"
+  },
+  {
+    "wordWithDia": "أَتَى",
+    "wordWithoutDia": "أتى",
+    "pronunciation": "ata",
+    "meaning": "came"
+  },
+  {
+    "wordWithDia": "فَهِمَ",
+    "wordWithoutDia": "فهم",
+    "pronunciation": "fahima",
+    "meaning": "understood"
+  },
+  {
+    "wordWithDia": "كَسَرَ",
+    "wordWithoutDia": "كسر",
+    "pronunciation": "kasara",
+    "meaning": "broke"
+  },
+  {
+    "wordWithDia": "عَرَفَ",
+    "wordWithoutDia": "عرف",
+    "pronunciation": "arafa",
+    "meaning": "knew"
+  },
+  {
+    "wordWithDia": "شَاهَدَ",
+    "wordWithoutDia": "شاهد",
+    "pronunciation": "shahada",
+    "meaning": "witnessed"
+  },
+  {
+    "wordWithDia": "بَنَى",
+    "wordWithoutDia": "بنى",
+    "pronunciation": "bana",
+    "meaning": "built"
+  },
+  {
+    "wordWithDia": "أَكْتَشَفَ",
+    "wordWithoutDia": "أكتشف",
+    "pronunciation": "aktashafa",
+    "meaning": "discovered"
+  },
+  {
+    "wordWithDia": "دَرَسَ",
+    "wordWithoutDia": "درس",
+    "pronunciation": "darasa",
+    "meaning": "studied"
+  },
+  {
+    "wordWithDia": "رَمَى",
+    "wordWithoutDia": "رمى",
+    "pronunciation": "rama",
+    "meaning": "threw"
+  },
+  {
+    "wordWithDia": "تَسَوَّقَ",
+    "wordWithoutDia": "تسوّق",
+    "pronunciation": "tasawwaqa",
+    "meaning": "tasted"
+  },
+  {
+    "wordWithDia": "اِشْتَرَى",
+    "wordWithoutDia": "اشترى",
+    "pronunciation": "ishtara",
+    "meaning": "bought"
+  },
+  {
+    "wordWithDia": "لَمَسَ",
+    "wordWithoutDia": "لمس",
+    "pronunciation": "lamasa",
+    "meaning": "touched"
+  },
+  {
+    "wordWithDia": "طَبَخَ",
+    "wordWithoutDia": "طبخ",
+    "pronunciation": "tabakha",
+    "meaning": "cooked"
+  },
+  {
+    "wordWithDia": "سَافَرَ",
+    "wordWithoutDia": "سافر",
+    "pronunciation": "safara",
+    "meaning": "traveled"
+  },
+  {
+    "wordWithDia": "حَضَرَ",
+    "wordWithoutDia": "حضر",
+    "pronunciation": "hadara",
+    "meaning": "attended"
+  },
+  {
+    "wordWithDia": "تَحَدَّثَ",
+    "wordWithoutDia": "تحدّث",
+    "pronunciation": "tahaddatha",
+    "meaning": "spoke"
+  },
+  {
+    "wordWithDia": "اِجْتَمَعَ",
+    "wordWithoutDia": "اجتمع",
+    "pronunciation": "ijtama'a",
+    "meaning": "gathered"
+  },
+  {
+    "wordWithDia": "نَفَخَ",
+    "wordWithoutDia": "نفخ",
+    "pronunciation": "nafakha",
+    "meaning": "blew"
+  },
+  {
+    "wordWithDia": "اِنْتَظَرَ",
+    "wordWithoutDia": "انتظر",
+    "pronunciation": "intazara",
+    "meaning": "waited"
+  },
+  {
+    "wordWithDia": "رَكِضَ",
+    "wordWithoutDia": "ركض",
+    "pronunciation": "rakida",
+    "meaning": "ran (fast)"
+  },
+  {
+    "wordWithDia": "رَقَصَ",
+    "wordWithoutDia": "رقص",
+    "pronunciation": "raqasa",
+    "meaning": "danced"
+  },
+  {
+    "wordWithDia": "عَمِلَ",
+    "wordWithoutDia": "عمل",
+    "pronunciation": "amila",
+    "meaning": "worked"
+  },
+  {
+    "wordWithDia": "صَمَمَ",
+    "wordWithoutDia": "صمم",
+    "pronunciation": "samama",
+    "meaning": "designed"
+  },
+  {
+    "wordWithDia": "سَاعَدَ",
+    "wordWithoutDia": "ساعد",
+    "pronunciation": "sa'ada",
+    "meaning": "helped"
+  },
+  {
+    "wordWithDia": "عَلَّمَ",
+    "wordWithoutDia": "علم",
+    "pronunciation": "allama",
+    "meaning": "taught"
+  },
+  {
+    "wordWithDia": "تَزَوَّجَ",
+    "wordWithoutDia": "تزوّج",
+    "pronunciation": "tazawwaja",
+    "meaning": "married"
+  },
+  {
+    "wordWithDia": "تَعَلَّمَ",
+    "wordWithoutDia": "تعلّم",
+    "pronunciation": "ta'allama",
+    "meaning": "learned"
+  },
+  {
+    "wordWithDia": "أَخَذَ",
+    "wordWithoutDia": "أخذ",
+    "pronunciation": "akhadha",
+    "meaning": "took"
+  },
+  {
+    "wordWithDia": "رَفَعَ",
+    "wordWithoutDia": "رفع",
+    "pronunciation": "rafa'a",
+    "meaning": "lifted"
+  },
+  {
+    "wordWithDia": "أَمَرَ",
+    "wordWithoutDia": "أمر",
+    "pronunciation": "amara",
+    "meaning": "ordered"
+  },
+  {
+    "wordWithDia": "دَعَا",
+    "wordWithoutDia": "دعا",
+    "pronunciation": "da'a",
+    "meaning": "invited"
+  },
+  {
+    "wordWithDia": "هَدَّى",
+    "wordWithoutDia": "هدّى",
+    "pronunciation": "hadda",
+    "meaning": "gifted"
+  },
+  {
+    "wordWithDia": "تَسَلَّقَ",
+    "wordWithoutDia": "تسلّق",
+    "pronunciation": "tasallaqa",
+    "meaning": "climbed"
+  },
+  {
+    "wordWithDia": "اِنْخَرَطَ",
+    "wordWithoutDia": "اخترط",
+    "pronunciation": "inkharata",
+    "meaning": "participated"
+  },
+  {
+    "wordWithDia": "عَزَفَ",
+    "wordWithoutDia": "عزف",
+    "pronunciation": "azafa",
+    "meaning": "played (instrument)"
+  },
+  {
+    "wordWithDia": "طَالَعَ",
+    "wordWithoutDia": "طالع",
+    "pronunciation": "tala'a",
+    "meaning": "watched"
+  },
+  {
+    "wordWithDia": "رَفَضَ",
+    "wordWithoutDia": "رفض",
+    "pronunciation": "rafada",
+    "meaning": "rejected"
+  },
+  {
+    "wordWithDia": "أَرَادَ",
+    "wordWithoutDia": "أراد",
+    "pronunciation": "arada",
+    "meaning": "wanted"
+  },
+  {
+    "wordWithDia": "رَفَصَ",
+    "wordWithoutDia": "رفص",
+    "pronunciation": "rafasa",
+    "meaning": "stomped"
+  },
+  {
+    "wordWithDia": "تَكَلَّمَ",
+    "wordWithoutDia": "تكلّم",
+    "pronunciation": "takallama",
+    "meaning": "talked"
+  },
+  {
+    "wordWithDia": "أَعْطَى",
+    "wordWithoutDia": "أعطى",
+    "pronunciation": "a'ta",
+    "meaning": "gave"
+  },
+  {
+    "wordWithDia": "تَنَفَّسَ",
+    "wordWithoutDia": "تنفّس",
+    "pronunciation": "tanaffasa",
+    "meaning": "breathed"
+  },
+  {
+    "wordWithDia": "حَكَمَ",
+    "wordWithoutDia": "حكم",
+    "pronunciation": "hakama",
+    "meaning": "judged"
+  },
+  {
+    "wordWithDia": "تَسَوَّقَ",
+    "wordWithoutDia": "تسوّق",
+    "pronunciation": "tasawwaqa",
+    "meaning": "enjoyed"
+  },
+  {
+    "wordWithDia": "رَجَّحَ",
+    "wordWithoutDia": "رجّح",
+    "pronunciation": "rajjaḥa",
+    "meaning": "preferred"
+  },
+  {
+    "wordWithDia": "رَحَبَ",
+    "wordWithoutDia": "رحب",
+    "pronunciation": "raḥaba",
+    "meaning": "welcomed"
+  },
+  {
+    "wordWithDia": "تَوَضَّأَ",
+    "wordWithoutDia": "توضّأ",
+    "pronunciation": "tawaḍḍa'a",
+    "meaning": "performed ablution"
+  },
+  {
+    "wordWithDia": "تَنَقَّلَ",
+    "wordWithoutDia": "تنقّل",
+    "pronunciation": "tanaqqaḷa",
+    "meaning": "moved"
+  },
+  {
+    "wordWithDia": "قَبِّلَ",
+    "wordWithoutDia": "قبّل",
+    "pronunciation": "qabbila",
+    "meaning": "kissed"
+  },
+  {
+    "wordWithDia": "غَسَلَ",
+    "wordWithoutDia": "غسل",
+    "pronunciation": "ghassala",
+    "meaning": "washed"
+  },
+  {
+    "wordWithDia": "فَتَشَ",
+    "wordWithoutDia": "فتش",
+    "pronunciation": "fataša",
+    "meaning": "searched"
+  },
+  {
+    "wordWithDia": "تَفَكَّرَ",
+    "wordWithoutDia": "تفكّر",
+    "pronunciation": "tafakkar",
+    "meaning": "thought"
+  },
+  {
+    "wordWithDia": "تَعَامَلَ",
+    "wordWithoutDia": "تعامل",
+    "pronunciation": "ta'aamala",
+    "meaning": "dealt (with)"
+  },
+  {
+    "wordWithDia": "تَفَاعَلَ",
+    "wordWithoutDia": "تفاعل",
+    "pronunciation": "tafaaala",
+    "meaning": "interacted"
+  },
+  {
+    "wordWithDia": "تَشَاجَرَ",
+    "wordWithoutDia": "تشاجر",
+    "pronunciation": "tašaajar",
+    "meaning": "quarreled"
+  },
+  {
+    "wordWithDia": "تَعَلَّمَ",
+    "wordWithoutDia": "تعلّم",
+    "pronunciation": "ta'allama",
+    "meaning": "studied (learned)"
+  },
+  {
+    "wordWithDia": "تَلَقَّى",
+    "wordWithoutDia": "تلقّى",
+    "pronunciation": "talaqqa",
+    "meaning": "received"
+  },
+  {
+    "wordWithDia": "اِخْتَارَ",
+    "wordWithoutDia": "اختار",
+    "pronunciation": "ikhtara",
+    "meaning": "chose"
+  },
+  {
+    "wordWithDia": "تَأَثَّرَ",
+    "wordWithoutDia": "تأثّر",
+    "pronunciation": "ta'aththara",
+    "meaning": "influenced"
+  },
+  {
+    "wordWithDia": "تَخَيَّلَ",
+    "wordWithoutDia": "تخيّل",
+    "pronunciation": "takhayyala",
+    "meaning": "imagined"
+  },
+  {
+    "wordWithDia": "تَحَمَّلَ",
+    "wordWithoutDia": "تحمّل",
+    "pronunciation": "taḥammala",
+    "meaning": "carried"
+  },
+  {
+    "wordWithDia": "تَجَاوَزَ",
+    "wordWithoutDia": "تجاوز",
+    "pronunciation": "tajaawaza",
+    "meaning": "surpassed"
+  },
+  {
+    "wordWithDia": "اِنْكَسَرَ",
+    "wordWithoutDia": "انكسر",
+    "pronunciation": "inkasara",
+    "meaning": "shattered"
+  },
+  {
+    "wordWithDia": "تَحَدَّثَ",
+    "wordWithoutDia": "تحدّث",
+    "pronunciation": "taḥaddatha",
+    "meaning": "talked (spoke)"
+  },
+  {
+    "wordWithDia": "اِنْشَرَحَ",
+    "wordWithoutDia": "اشرحح",
+    "pronunciation": "inšaraḥa",
+    "meaning": "expanded"
+  },
+  {
+    "wordWithDia": "اِنْتَشَرَ",
+    "wordWithoutDia": "اشترح",
+    "pronunciation": "intašara",
+    "meaning": "spread"
+  },
+  {
+    "wordWithDia": "تَأَثَّرَ",
+    "wordWithoutDia": "تأثّر",
+    "pronunciation": "ta'aththara",
+    "meaning": "affected"
+  },
+  {
+    "wordWithDia": "تَرَكَّبَ",
+    "wordWithoutDia": "تركّب",
+    "pronunciation": "tarakkaba",
+    "meaning": "installed"
+  },
+  {
+    "wordWithDia": "تَرَدَّدَ",
+    "wordWithoutDia": "تردّد",
+    "pronunciation": "taraddada",
+    "meaning": "hesitated"
+  },
+  {
+    "wordWithDia": "تَكَافَأَ",
+    "wordWithoutDia": "تكافأ",
+    "pronunciation": "takāfa'a",
+    "meaning": "rewarded"
+  },
+  {
+    "wordWithDia": "تَرَبَّعَ",
+    "wordWithoutDia": "تربّع",
+    "pronunciation": "tarabba'a",
+    "meaning": "sat (on a throne)"
+  },
+  {
+    "wordWithDia": "تَقَبَّلَ",
+    "wordWithoutDia": "تقبّل",
+    "pronunciation": "taqabbala",
+    "meaning": "accepted"
+  },
+  {
+    "wordWithDia": "تَشَابَهَ",
+    "wordWithoutDia": "تشابه",
+    "pronunciation": "tašābaḥa",
+    "meaning": "resembled"
+  },
+  {
+    "wordWithDia": "تَزَامَنَ",
+    "wordWithoutDia": "تزامن",
+    "pronunciation": "tazāmana",
+    "meaning": "coincided"
+  },
+  {
+    "wordWithDia": "تَرَدَّفَ",
+    "wordWithoutDia": "تردّف",
+    "pronunciation": "taraddafa",
+    "meaning": "repeated"
+  },
+  {
+    "wordWithDia": "تَقَلَّصَ",
+    "wordWithoutDia": "تقلّص",
+    "pronunciation": "taqallasha",
+    "meaning": "contracted"
+  },
+  {
+    "wordWithDia": "تَفَقَّهَ",
+    "wordWithoutDia": "تفقّه",
+    "pronunciation": "tafaqqaha",
+    "meaning": "acquired knowledge"
+  },
+  {
+    "wordWithDia": "تَعَبَّرَ",
+    "wordWithoutDia": "تعبّر",
+    "pronunciation": "ta'abbara",
+    "meaning": "expressed"
+  },
+  {
+    "wordWithDia": "تَفَكَّرَ",
+    "wordWithoutDia": "تفكّر",
+    "pronunciation": "tafakkar",
+    "meaning": "reflected"
+  },
+  {
+    "wordWithDia": "تَمَثَّلَ",
+    "wordWithoutDia": "تمثّل",
+    "pronunciation": "tamaṯṯala",
+    "meaning": "represented"
+  },
+  {
+    "wordWithDia": "تَسَاءَلَ",
+    "wordWithoutDia": "تساءل",
+    "pronunciation": "tasa'ala",
+    "meaning": "wondered"
+  },
+  {
+    "wordWithDia": "تَشَاغَلَ",
+    "wordWithoutDia": "تشاغل",
+    "pronunciation": "tašāġala",
+    "meaning": "occupied"
+  },
+  {
+    "wordWithDia": "تَشَعَّبَ",
+    "wordWithoutDia": "تشعّب",
+    "pronunciation": "taša'aṛṛaba",
+    "meaning": "branched"
+  },
+  {
+    "wordWithDia": "تَرَكَّضَ",
+    "wordWithoutDia": "تركّض",
+    "pronunciation": "tarakkad",
+    "meaning": "sprinted"
+  },
+  {
+    "wordWithDia": "تَكَلَّمَ",
+    "wordWithoutDia": "تكلّم",
+    "pronunciation": "takallama",
+    "meaning": "spoke (talked)"
+  },
+  {
+    "wordWithDia": "تَفَاخَرَ",
+    "wordWithoutDia": "تفاخر",
+    "pronunciation": "tafāḫara",
+    "meaning": "boasted"
+  },
+  {
+    "wordWithDia": "تَلَقَّى",
+    "wordWithoutDia": "تلقّى",
+    "pronunciation": "talaqqa",
+    "meaning": "encountered"
+  },
+  {
+    "wordWithDia": "تَشَبَّثَ",
+    "wordWithoutDia": "تشبّث",
+    "pronunciation": "tašabbaha",
+    "meaning": "clung"
+  },
+  {
+    "wordWithDia": "تَشَجَّعَ",
+    "wordWithoutDia": "تشجّع",
+    "pronunciation": "tašaǧǧa",
+    "meaning": "encouraged"
+  },
+  {
+    "wordWithDia": "تَسَاوَى",
+    "wordWithoutDia": "تساوى",
+    "pronunciation": "tasaawaa",
+    "meaning": "equaled"
+  },
+  {
+    "wordWithDia": "تَصَاحَبَ",
+    "wordWithoutDia": "تصاحب",
+    "pronunciation": "taṣāḥaba",
+    "meaning": "associated"
+  },
+  {
+    "wordWithDia": "تَعَاوَنَ",
+    "wordWithoutDia": "تعاون",
+    "pronunciation": "ta'aawana",
+    "meaning": "cooperated"
+  }
 ]

@@ -1,130 +1,470 @@
 [
-  { "word": "جميل", "pronunciation": "jameel", "meaning": "beautiful" },
-  { "word": "ذكي", "pronunciation": "thakee", "meaning": "smart" },
-  { "word": "سعيد", "pronunciation": "sa'eed", "meaning": "happy" },
-  { "word": "قوي", "pronunciation": "qaweey", "meaning": "strong" },
-  { "word": "ضعيف", "pronunciation": "daeef", "meaning": "weak" },
-  { "word": "سريع", "pronunciation": "saree'", "meaning": "fast" },
-  { "word": "بطيء", "pronunciation": "batee'", "meaning": "slow" },
-  { "word": "صغير", "pronunciation": "sagheer", "meaning": "small" },
-  { "word": "كبير", "pronunciation": "kabeer", "meaning": "big" },
-  { "word": "طويل", "pronunciation": "taweel", "meaning": "tall" },
-  { "word": "قصير", "pronunciation": "qaseer", "meaning": "short" },
-  { "word": "قديم", "pronunciation": "qadeem", "meaning": "old" },
-  { "word": "جديد", "pronunciation": "jadeed", "meaning": "new" },
-  { "word": "رائع", "pronunciation": "raa'ee", "meaning": "wonderful" },
-  { "word": "سيئ", "pronunciation": "sayy'", "meaning": "bad" },
-  { "word": "جيد", "pronunciation": "jayyid", "meaning": "good" },
-  { "word": "فاشل", "pronunciation": "faashil", "meaning": "failed" },
-  { "word": "ناجح", "pronunciation": "naajih", "meaning": "successful" },
-  { "word": "سهل", "pronunciation": "sahl", "meaning": "easy" },
-  { "word": "صعب", "pronunciation": "sa'b", "meaning": "difficult" },
-  { "word": "بسيط", "pronunciation": "basit", "meaning": "simple" },
-  { "word": "معقد", "pronunciation": "ma'aqad", "meaning": "complex" },
-  { "word": "مرح", "pronunciation": "murah", "meaning": "fun" },
-  { "word": "ممل", "pronunciation": "mumil", "meaning": "boring" },
-  { "word": "مختلف", "pronunciation": "mukhtalif", "meaning": "different" },
-  { "word": "متشابه", "pronunciation": "mutashabih", "meaning": "similar" },
-  { "word": "خفيف", "pronunciation": "khafeef", "meaning": "light" },
-  { "word": "ثقيل", "pronunciation": "thaqeel", "meaning": "heavy" },
-  { "word": "نظيف", "pronunciation": "nazee", "meaning": "clean" },
-  { "word": "قذر", "pronunciation": "qathar", "meaning": "dirty" },
-  { "word": "لذيذ", "pronunciation": "lazeez", "meaning": "delicious" },
-  { "word": "مالح", "pronunciation": "malih", "meaning": "salty" },
-  { "word": "حلو", "pronunciation": "hulw", "meaning": "sweet" },
-  { "word": "حامض", "pronunciation": "hameed", "meaning": "sour" },
-  { "word": "مر", "pronunciation": "mur", "meaning": "bitter" },
-  { "word": "حاد", "pronunciation": "had", "meaning": "sharp" },
-  { "word": "غائم", "pronunciation": "ghayim", "meaning": "cloudy" },
-  { "word": "مشمس", "pronunciation": "mashmous", "meaning": "sunny" },
-  { "word": "ممطر", "pronunciation": "mamtar", "meaning": "rainy" },
-  { "word": "جاف", "pronunciation": "jaf", "meaning": "dry" },
-  { "word": "رطب", "pronunciation": "ratb", "meaning": "wet" },
-  { "word": "بارد", "pronunciation": "baared", "meaning": "cold" },
-  { "word": "حار", "pronunciation": "haar", "meaning": "hot" },
-  { "word": "صافي", "pronunciation": "saafi", "meaning": "clear" },
-  { "word": "ضبابي", "pronunciation": "dababi", "meaning": "foggy" },
-  { "word": "عاصف", "pronunciation": "aasif", "meaning": "stormy" },
-  { "word": "هادئ", "pronunciation": "haade'", "meaning": "calm" },
-  { "word": "ضوضاء", "pronunciation": "dawdaa", "meaning": "noisy" },
-  { "word": "سكران", "pronunciation": "sukraan", "meaning": "drunk" },
-  { "word": "صاخب", "pronunciation": "saakhb", "meaning": "loud" },
-  { "word": "صامت", "pronunciation": "saamit", "meaning": "quiet" },
-  { "word": "جائع", "pronunciation": "jaai'", "meaning": "hungry" },
-  { "word": "شبعان", "pronunciation": "shabaan", "meaning": "full" },
-  { "word": "عطشان", "pronunciation": "atshaan", "meaning": "thirsty" },
-  { "word": "جاف", "pronunciation": "jaaf", "meaning": "dry" },
-  { "word": "مبلل", "pronunciation": "mablul", "meaning": "wet" },
-  { "word": "مخيف", "pronunciation": "mukhif", "meaning": "scary" },
-  { "word": "آمن", "pronunciation": "aamin", "meaning": "safe" },
-  { "word": "خطير", "pronunciation": "khatir", "meaning": "dangerous" },
-  { "word": "وسيم", "pronunciation": "waseem", "meaning": "handsome" },
-  { "word": "جميلة", "pronunciation": "jameela", "meaning": "pretty (female)" },
-  { "word": "قبيح", "pronunciation": "qabeel", "meaning": "ugly" },
-  { "word": "رخيص", "pronunciation": "rakhees", "meaning": "cheap" },
-  { "word": "غالي", "pronunciation": "ghaali", "meaning": "expensive" },
-  { "word": "سهلة", "pronunciation": "sahla", "meaning": "easy (female)" },
-  { "word": "صعبة", "pronunciation": "sa'ba", "meaning": "difficult (female)" },
-  { "word": "كبيرة", "pronunciation": "kabeera", "meaning": "big (female)" },
-  { "word": "صغيرة", "pronunciation": "sagheera", "meaning": "small (female)" },
-  { "word": "سعيدة", "pronunciation": "sa'eeda", "meaning": "happy (female)" },
-  { "word": "سريعة", "pronunciation": "saree'a", "meaning": "fast (female)" },
-  { "word": "بطيئة", "pronunciation": "batee'a", "meaning": "slow (female)" },
-  { "word": "قديمة", "pronunciation": "qadeema", "meaning": "old (female)" },
-  { "word": "جديدة", "pronunciation": "jadeeda", "meaning": "new (female)" },
   {
-    "word": "رائعة",
+    "wordWithDia": "جَمِيل",
+    "wordWithoutDia": "جميل",
+    "pronunciation": "jameel",
+    "meaning": "beautiful"
+  },
+  {
+    "wordWithDia": "ذَكِي",
+    "wordWithoutDia": "ذكي",
+    "pronunciation": "thakee",
+    "meaning": "smart"
+  },
+  {
+    "wordWithDia": "سَعِيد",
+    "wordWithoutDia": "سعيد",
+    "pronunciation": "sa'eed",
+    "meaning": "happy"
+  },
+  {
+    "wordWithDia": "قَوِي",
+    "wordWithoutDia": "قوي",
+    "pronunciation": "qaweey",
+    "meaning": "strong"
+  },
+  {
+    "wordWithDia": "ضَعِيف",
+    "wordWithoutDia": "ضعيف",
+    "pronunciation": "daeef",
+    "meaning": "weak"
+  },
+  {
+    "wordWithDia": "سَرِيع",
+    "wordWithoutDia": "سريع",
+    "pronunciation": "saree'",
+    "meaning": "fast"
+  },
+  {
+    "wordWithDia": "بَطِيء",
+    "wordWithoutDia": "بطيء",
+    "pronunciation": "batee'",
+    "meaning": "slow"
+  },
+  {
+    "wordWithDia": "صَغِير",
+    "wordWithoutDia": "صغير",
+    "pronunciation": "sagheer",
+    "meaning": "small"
+  },
+  {
+    "wordWithDia": "كَبِير",
+    "wordWithoutDia": "كبير",
+    "pronunciation": "kabeer",
+    "meaning": "big"
+  },
+  {
+    "wordWithDia": "طَوِيل",
+    "wordWithoutDia": "طويل",
+    "pronunciation": "taweel",
+    "meaning": "tall"
+  },
+  {
+    "wordWithDia": "قَصِير",
+    "wordWithoutDia": "قصير",
+    "pronunciation": "qaseer",
+    "meaning": "short"
+  },
+  {
+    "wordWithDia": "قَدِيم",
+    "wordWithoutDia": "قديم",
+    "pronunciation": "qadeem",
+    "meaning": "old"
+  },
+  {
+    "wordWithDia": "جَدِيد",
+    "wordWithoutDia": "جديد",
+    "pronunciation": "jadeed",
+    "meaning": "new"
+  },
+  {
+    "wordWithDia": "رَائِع",
+    "wordWithoutDia": "رائع",
+    "pronunciation": "raa'ee",
+    "meaning": "wonderful"
+  },
+  {
+    "wordWithDia": "سَيِّء",
+    "wordWithoutDia": "سيئ",
+    "pronunciation": "sayyi'",
+    "meaning": "bad"
+  },
+  {
+    "wordWithDia": "جَيِّد",
+    "wordWithoutDia": "جيد",
+    "pronunciation": "jayyid",
+    "meaning": "good"
+  },
+  {
+    "wordWithDia": "فَاشِل",
+    "wordWithoutDia": "فاشل",
+    "pronunciation": "faashil",
+    "meaning": "failed"
+  },
+  {
+    "wordWithDia": "نَاجِح",
+    "wordWithoutDia": "ناجح",
+    "pronunciation": "naajih",
+    "meaning": "successful"
+  },
+  {
+    "wordWithDia": "سَهْل",
+    "wordWithoutDia": "سهل",
+    "pronunciation": "sahl",
+    "meaning": "easy"
+  },
+  {
+    "wordWithDia": "صَعْب",
+    "wordWithoutDia": "صعب",
+    "pronunciation": "sa'b",
+    "meaning": "difficult"
+  },
+  {
+    "wordWithDia": "بَسِيط",
+    "wordWithoutDia": "بسيط",
+    "pronunciation": "basit",
+    "meaning": "simple"
+  },
+  {
+    "wordWithDia": "مُعَقَّد",
+    "wordWithoutDia": "معقد",
+    "pronunciation": "ma'aqad",
+    "meaning": "complex"
+  },
+  {
+    "wordWithDia": "مُرَح",
+    "wordWithoutDia": "مرح",
+    "pronunciation": "murah",
+    "meaning": "fun"
+  },
+  {
+    "wordWithDia": "مُمِل",
+    "wordWithoutDia": "ممل",
+    "pronunciation": "mumil",
+    "meaning": "boring"
+  },
+  {
+    "wordWithDia": "مُخْتَلِف",
+    "wordWithoutDia": "مختلف",
+    "pronunciation": "mukhtalif",
+    "meaning": "different"
+  },
+  {
+    "wordWithDia": "مُتَشَابِه",
+    "wordWithoutDia": "متشابه",
+    "pronunciation": "mutashabih",
+    "meaning": "similar"
+  },
+  {
+    "wordWithDia": "خَفِيف",
+    "wordWithoutDia": "خفيف",
+    "pronunciation": "khafeef",
+    "meaning": "light"
+  },
+  {
+    "wordWithDia": "ثَقِيل",
+    "wordWithoutDia": "ثقيل",
+    "pronunciation": "thaqeel",
+    "meaning": "heavy"
+  },
+  {
+    "wordWithDia": "نَظِيف",
+    "wordWithoutDia": "نظيف",
+    "pronunciation": "nazee",
+    "meaning": "clean"
+  },
+  {
+    "wordWithDia": "قَذِر",
+    "wordWithoutDia": "قذر",
+    "pronunciation": "qathar",
+    "meaning": "dirty"
+  },
+  {
+    "wordWithDia": "لَذِيذ",
+    "wordWithoutDia": "لذيذ",
+    "pronunciation": "lazeez",
+    "meaning": "delicious"
+  },
+  {
+    "wordWithDia": "مَالِح",
+    "wordWithoutDia": "مالح",
+    "pronunciation": "malih",
+    "meaning": "salty"
+  },
+  {
+    "wordWithDia": "حَلُو",
+    "wordWithoutDia": "حلو",
+    "pronunciation": "hulw",
+    "meaning": "sweet"
+  },
+  {
+    "wordWithDia": "حَامِض",
+    "wordWithoutDia": "حامض",
+    "pronunciation": "hameed",
+    "meaning": "sour"
+  },
+  {
+    "wordWithDia": "مُر",
+    "wordWithoutDia": "مر",
+    "pronunciation": "mur",
+    "meaning": "bitter"
+  },
+  {
+    "wordWithDia": "حَاد",
+    "wordWithoutDia": "حاد",
+    "pronunciation": "had",
+    "meaning": "sharp"
+  },
+  {
+    "wordWithDia": "غَائِم",
+    "wordWithoutDia": "غائم",
+    "pronunciation": "ghayim",
+    "meaning": "cloudy"
+  },
+  {
+    "wordWithDia": "مُشَمَّس",
+    "wordWithoutDia": "مشمس",
+    "pronunciation": "mashmous",
+    "meaning": "sunny"
+  },
+  {
+    "wordWithDia": "مُمْطِر",
+    "wordWithoutDia": "ممطر",
+    "pronunciation": "mamtar",
+    "meaning": "rainy"
+  },
+  {
+    "wordWithDia": "جَاف",
+    "wordWithoutDia": "جاف",
+    "pronunciation": "jaf",
+    "meaning": "dry"
+  },
+  {
+    "wordWithDia": "رَطِب",
+    "wordWithoutDia": "رطب",
+    "pronunciation": "ratb",
+    "meaning": "wet"
+  },
+  {
+    "wordWithDia": "بَارِد",
+    "wordWithoutDia": "بارد",
+    "pronunciation": "baared",
+    "meaning": "cold"
+  },
+  {
+    "wordWithDia": "حَار",
+    "wordWithoutDia": "حار",
+    "pronunciation": "haar",
+    "meaning": "hot"
+  },
+  {
+    "wordWithDia": "صَافِي",
+    "wordWithoutDia": "صافي",
+    "pronunciation": "saafi",
+    "meaning": "clear"
+  },
+  {
+    "wordWithDia": "ضَبَابِي",
+    "wordWithoutDia": "ضبابي",
+    "pronunciation": "dababi",
+    "meaning": "foggy"
+  },
+  {
+    "wordWithDia": "عَاصِف",
+    "wordWithoutDia": "عاصف",
+    "pronunciation": "aasif",
+    "meaning": "stormy"
+  },
+  {
+    "wordWithDia": "هَادِئ",
+    "wordWithoutDia": "هادئ",
+    "pronunciation": "haade'",
+    "meaning": "calm"
+  },
+  {
+    "wordWithDia": "ضُوضَاء",
+    "wordWithoutDia": "ضوضاء",
+    "pronunciation": "dawdaa",
+    "meaning": "noisy"
+  },
+  {
+    "wordWithDia": "سُكْرَان",
+    "wordWithoutDia": "سكران",
+    "pronunciation": "sukraan",
+    "meaning": "drunk"
+  },
+  {
+    "wordWithDia": "صَاخِب",
+    "wordWithoutDia": "صاخب",
+    "pronunciation": "saakhb",
+    "meaning": "loud"
+  },
+  {
+    "wordWithDia": "صَامِت",
+    "wordWithoutDia": "صامت",
+    "pronunciation": "saamit",
+    "meaning": "quiet"
+  },
+  {
+    "wordWithDia": "جَائِع",
+    "wordWithoutDia": "جائع",
+    "pronunciation": "jaai'",
+    "meaning": "hungry"
+  },
+  {
+    "wordWithDia": "شَبْعَان",
+    "wordWithoutDia": "شبعان",
+    "pronunciation": "shabaan",
+    "meaning": "full"
+  },
+  {
+    "wordWithDia": "عَطْشَان",
+    "wordWithoutDia": "عطشان",
+    "pronunciation": "atshaan",
+    "meaning": "thirsty"
+  },
+  {
+    "wordWithDia": "جَاف",
+    "wordWithoutDia": "جاف",
+    "pronunciation": "jaaf",
+    "meaning": "dry"
+  },
+  {
+    "wordWithDia": "مُبْلِل",
+    "wordWithoutDia": "مبلل",
+    "pronunciation": "mablul",
+    "meaning": "wet"
+  },
+  {
+    "wordWithDia": "مُخِيف",
+    "wordWithoutDia": "مخيف",
+    "pronunciation": "mukhif",
+    "meaning": "scary"
+  },
+  {
+    "wordWithDia": "آمِن",
+    "wordWithoutDia": "آمن",
+    "pronunciation": "aamin",
+    "meaning": "safe"
+  },
+  {
+    "wordWithDia": "خَطِير",
+    "wordWithoutDia": "خطير",
+    "pronunciation": "khatir",
+    "meaning": "dangerous"
+  },
+  {
+    "wordWithDia": "وَسِيم",
+    "wordWithoutDia": "وسيم",
+    "pronunciation": "waseem",
+    "meaning": "handsome"
+  },
+  {
+    "wordWithDia": "جَمِيلَة",
+    "wordWithoutDia": "جميلة",
+    "pronunciation": "jameela",
+    "meaning": "pretty (female)"
+  },
+  {
+    "wordWithDia": "قَبِيح",
+    "wordWithoutDia": "قبيح",
+    "pronunciation": "qabeel",
+    "meaning": "ugly"
+  },
+  {
+    "wordWithDia": "رَخِيص",
+    "wordWithoutDia": "رخيص",
+    "pronunciation": "rakhees",
+    "meaning": "cheap"
+  },
+  {
+    "wordWithDia": "غَالِي",
+    "wordWithoutDia": "غالي",
+    "pronunciation": "ghaali",
+    "meaning": "expensive"
+  },
+  {
+    "wordWithDia": "سَهْلَة",
+    "wordWithoutDia": "سهلة",
+    "pronunciation": "sahla",
+    "meaning": "easy (female)"
+  },
+  {
+    "wordWithDia": "صَعْبَة",
+    "wordWithoutDia": "صعبة",
+    "pronunciation": "sa'ba",
+    "meaning": "difficult (female)"
+  },
+  {
+    "wordWithDia": "كَبِيرَة",
+    "wordWithoutDia": "كبيرة",
+    "pronunciation": "kabeera",
+    "meaning": "big (female)"
+  },
+  {
+    "wordWithDia": "صَغِيرَة",
+    "wordWithoutDia": "صغيرة",
+    "pronunciation": "sagheera",
+    "meaning": "small (female)"
+  },
+  {
+    "wordWithDia": "سَعِيدَة",
+    "wordWithoutDia": "سعيدة",
+    "pronunciation": "sa'eeda",
+    "meaning": "happy (female)"
+  },
+  {
+    "wordWithDia": "سَرِيعَة",
+    "wordWithoutDia": "سريعة",
+    "pronunciation": "saree'a",
+    "meaning": "fast (female)"
+  },
+  {
+    "wordWithDia": "بَطِيئَة",
+    "wordWithoutDia": "بطيئة",
+    "pronunciation": "batee'a",
+    "meaning": "slow (female)"
+  },
+  {
+    "wordWithDia": "قَدِيمَة",
+    "wordWithoutDia": "قديمة",
+    "pronunciation": "qadeema",
+    "meaning": "old (female)"
+  },
+  {
+    "wordWithDia": "جَدِيدَة",
+    "wordWithoutDia": "جديدة",
+    "pronunciation": "jadeeda",
+    "meaning": "new (female)"
+  },
+  {
+    "wordWithDia": "رَائِعَة",
+    "wordWithoutDia": "رائعة",
     "pronunciation": "raa'ia",
     "meaning": "wonderful (female)"
   },
-  { "word": "سيئة", "pronunciation": "sayya'a", "meaning": "bad (female)" },
-  { "word": "جيدة", "pronunciation": "jayyida", "meaning": "good (female)" },
   {
-    "word": "فاشلة",
+    "wordWithDia": "سَيِّئَة",
+    "wordWithoutDia": "سيئة",
+    "pronunciation": "sayya'a",
+    "meaning": "bad (female)"
+  },
+  {
+    "wordWithDia": "جَيِّدَة",
+    "wordWithoutDia": "جيدة",
+    "pronunciation": "jayyida",
+    "meaning": "good (female)"
+  },
+  {
+    "wordWithDia": "فَاشِلَة",
+    "wordWithoutDia": "فاشلة",
     "pronunciation": "faashila",
     "meaning": "failed (female)"
   },
   {
-    "word": "ناجحة",
+    "wordWithDia": "نَاجِحَة",
+    "wordWithoutDia": "ناجحة",
     "pronunciation": "naajiha",
     "meaning": "successful (female)"
-  },
-  {
-    "word": "معقدة",
-    "pronunciation": "ma'aqada",
-    "meaning": "complex (female)"
-  },
-  { "word": "مرحة", "pronunciation": "muraha", "meaning": "fun (female)" },
-  { "word": "مملة", "pronunciation": "mumila", "meaning": "boring (female)" },
-  {
-    "word": "مختلفة",
-    "pronunciation": "mukhtalifa",
-    "meaning": "different (female)"
-  },
-  {
-    "word": "متشابهة",
-    "pronunciation": "mutashabih",
-    "meaning": "similar (female)"
-  },
-  { "word": "خفيفة", "pronunciation": "khafeefa", "meaning": "light (female)" },
-  { "word": "ثقيلة", "pronunciation": "thaqeela", "meaning": "heavy (female)" },
-  { "word": "نظيفة", "pronunciation": "nazee'a", "meaning": "clean (female)" },
-  { "word": "قذرة", "pronunciation": "qathara", "meaning": "dirty (female)" },
-  {
-    "word": "لذيذة",
-    "pronunciation": "lazeeza",
-    "meaning": "delicious (female)"
-  },
-  { "word": "مالحة", "pronunciation": "maliha", "meaning": "salty (female)" },
-  { "word": "حلوة", "pronunciation": "hulwa", "meaning": "sweet (female)" },
-  { "word": "حامضة", "pronunciation": "hameeda", "meaning": "sour (female)" },
-  { "word": "مرة", "pronunciation": "mura", "meaning": "bitter (female)" },
-  { "word": "حادة", "pronunciation": "hada", "meaning": "sharp (female)" },
-  { "word": "مخيفة", "pronunciation": "mukhifa", "meaning": "scary (female)" },
-  { "word": "آمنة", "pronunciation": "aamina", "meaning": "safe (female)" },
-  {
-    "word": "خطيرة",
-    "pronunciation": "khatira",
-    "meaning": "dangerous (female)"
   }
 ]
