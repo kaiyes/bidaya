@@ -86,12 +86,14 @@ export default function Home({ navigation: { navigate } }) {
         <View style={styles.wordsRow}>
           {words.map(i => (
             <SmallBlock
+              key={i.topicName}
               handlePress={() =>
                 navigate('List', {
                   verbs: i.topicName === 'verbs' ?? false,
                   nouns: i.topicName === 'nouns' ?? false,
                   adjectives: i.topicName === 'adjectives' ?? false,
-                  adverbs: i.topicName === 'adverbs' ?? false
+                  adverbs: i.topicName === 'adverbs' ?? false,
+                  title: i.topicName
                 })
               }
               blockHeader={i.header}

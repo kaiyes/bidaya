@@ -7,6 +7,10 @@ import {
   StyleSheet,
   SafeAreaView
 } from 'react-native'
+import {
+  widthPercentageToDP as wp,
+  heightPercentageToDP as hp
+} from 'react-native-responsive-screen'
 
 //import Words from '../util/allWords.json'
 import Nouns from '../util/nouns.json'
@@ -27,7 +31,7 @@ function AllWords({ navigation: { navigate }, route }) {
   }, [arr])
 
   return (
-    <SafeAreaView>
+    <SafeAreaView style={styles.container}>
       <FlatList
         data={arr}
         renderItem={({ item }) => (
@@ -46,8 +50,9 @@ function AllWords({ navigation: { navigate }, route }) {
 }
 
 const styles = StyleSheet.create({
-  sectionHeaderWrapper: {
-    width: '100%' // Take up the full width of the FlatList
+  container: {
+    flex: 1,
+    paddingHorizontal: wp('5%')
   },
   // background color of the content
   flatListContent: {
@@ -55,7 +60,6 @@ const styles = StyleSheet.create({
   },
   // background color of the FlatList
   flatList: {
-    backgroundColor: 'ivory',
     paddingHorizontal: '3%'
   },
   block: {
