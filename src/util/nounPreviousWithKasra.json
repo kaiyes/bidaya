@@ -137,6 +137,7 @@
     "pronunciation": "najm",
     "meaning": "star"
   },
+
   {
     "wordWithDia": "سَمَاء",
     "wordWithoutDia": "سماء",
@@ -216,6 +217,12 @@
     "meaning": "door"
   },
   {
+    "wordWithDia": "نَافِذَة",
+    "wordWithoutDia": "نافذة",
+    "pronunciation": "nafidha",
+    "meaning": "window"
+  },
+  {
     "wordWithDia": "سَقْف",
     "wordWithoutDia": "سقف",
     "pronunciation": "saqf",
@@ -226,6 +233,12 @@
     "wordWithoutDia": "ارضية",
     "pronunciation": "ardiyya",
     "meaning": "floor"
+  },
+  {
+    "wordWithDia": "جِدَار",
+    "wordWithoutDia": "جدار",
+    "pronunciation": "jidar",
+    "meaning": "wall"
   },
   {
     "wordWithDia": "غُرْفَة",
@@ -330,6 +343,12 @@
     "meaning": "book"
   },
   {
+    "wordWithDia": "قَلَم",
+    "wordWithoutDia": "قلم",
+    "pronunciation": "qalam",
+    "meaning": "pen"
+  },
+  {
     "wordWithDia": "قِرَاءَة",
     "wordWithoutDia": "قراءة",
     "pronunciation": "qira'ah",
@@ -340,6 +359,18 @@
     "wordWithoutDia": "كتّاب",
     "pronunciation": "kattab",
     "meaning": "writer"
+  },
+  {
+    "wordWithDia": "مُكْتَبَة",
+    "wordWithoutDia": "مكتبة",
+    "pronunciation": "muktabah",
+    "meaning": "library"
+  },
+  {
+    "wordWithDia": "مِدَرْسَة",
+    "wordWithoutDia": "مدرسة",
+    "pronunciation": "madrasa",
+    "meaning": "school"
   },
   {
     "wordWithDia": "جَامِعَة",
@@ -358,6 +389,139 @@
     "wordWithoutDia": "امتحان",
     "pronunciation": "imtihan",
     "meaning": "exam"
+  },
+
+  {
+    "wordWithDia": "كرة",
+    "wordWithoutDia": "كرة",
+    "pronunciation": "kura",
+    "meaning": "ball"
+  },
+  {
+    "wordWithDia": "قلم",
+    "wordWithoutDia": "قلم",
+    "pronunciation": "qalam",
+    "meaning": "pen"
+  },
+  {
+    "wordWithDia": "جدار",
+    "wordWithoutDia": "جدار",
+    "pronunciation": "jidar",
+    "meaning": "wall"
+  },
+  {
+    "wordWithDia": "نافذة",
+    "wordWithoutDia": "نافذة",
+    "pronunciation": "nafidha",
+    "meaning": "window"
+  },
+  {
+    "wordWithDia": "مفتاح",
+    "wordWithoutDia": "مفتاح",
+    "pronunciation": "miftah",
+    "meaning": "key"
+  },
+  {
+    "wordWithDia": "قلب",
+    "wordWithoutDia": "قلب",
+    "pronunciation": "qalb",
+    "meaning": "heart"
+  },
+  {
+    "wordWithDia": "ساعة",
+    "wordWithoutDia": "ساعة",
+    "pronunciation": "sa'a",
+    "meaning": "watch"
+  },
+  {
+    "wordWithDia": "صديق",
+    "wordWithoutDia": "صديق",
+    "pronunciation": "sadiq",
+    "meaning": "friend"
+  },
+  {
+    "wordWithDia": "عائلة",
+    "wordWithoutDia": "عائلة",
+    "pronunciation": "a'ila",
+    "meaning": "family"
+  },
+  {
+    "wordWithDia": "زهرة",
+    "wordWithoutDia": "زهرة",
+    "pronunciation": "zahra",
+    "meaning": "flower"
+  },
+  {
+    "wordWithDia": "ماء",
+    "wordWithoutDia": "ماء",
+    "pronunciation": "maa",
+    "meaning": "water"
+  },
+  {
+    "wordWithDia": "طعام",
+    "wordWithoutDia": "طعام",
+    "pronunciation": "ta'am",
+    "meaning": "food"
+  },
+  {
+    "wordWithDia": "حيوان",
+    "wordWithoutDia": "حيوان",
+    "pronunciation": "haywan",
+    "meaning": "animal"
+  },
+  {
+    "wordWithDia": "ملابس",
+    "wordWithoutDia": "ملابس",
+    "pronunciation": "malabis",
+    "meaning": "clothes"
+  },
+  {
+    "wordWithDia": "جبل",
+    "wordWithoutDia": "جبل",
+    "pronunciation": "jabal",
+    "meaning": "mountain"
+  },
+  {
+    "wordWithDia": "شمس",
+    "wordWithoutDia": "شمس",
+    "pronunciation": "shams",
+    "meaning": "sun"
+  },
+  {
+    "wordWithDia": "قمر",
+    "wordWithoutDia": "قمر",
+    "pronunciation": "qamar",
+    "meaning": "moon"
+  },
+  {
+    "wordWithDia": "نجم",
+    "wordWithoutDia": "نجم",
+    "pronunciation": "najm",
+    "meaning": "star"
+  },
+  {
+    "wordWithDia": "سماء",
+    "wordWithoutDia": "سماء",
+    "pronunciation": "samaa",
+    "meaning": "sky"
+  },
+  {
+    "wordWithDia": "شارع",
+    "wordWithoutDia": "شارع",
+    "pronunciation": "shar'a",
+    "meaning": "street"
+  },
+  {
+    "wordWithDia": "مطار",
+    "wordWithoutDia": "مطار",
+    "pronunciation": "matar",
+    "meaning": "airport"
+  },
+  {
+    "wordWithDia": "مستشفى",
+    "wordWithoutDia": "مستشفى",
+    "pronunciation": "mustashfa",
+    "meaning": "hospital"
   },
   {
     "wordWithDia": "سفر",
@@ -378,6 +542,12 @@
     "meaning": "ship"
   },
   {
+    "wordWithDia": "سمك",
+    "wordWithoutDia": "سمك",
+    "pronunciation": "samak",
+    "meaning": "fish"
+  },
+  {
     "wordWithDia": "فاكهة",
     "wordWithoutDia": "فاكهة",
     "pronunciation": "fakha",
@@ -394,6 +564,24 @@
     "wordWithoutDia": "مدير",
     "pronunciation": "mudir",
     "meaning": "manager"
+  },
+  {
+    "wordWithDia": "جامعة",
+    "wordWithoutDia": "جامعة",
+    "pronunciation": "jami'a",
+    "meaning": "university"
+  },
+  {
+    "wordWithDia": "ساعة",
+    "wordWithoutDia": "ساعة",
+    "pronunciation": "sa'a",
+    "meaning": "watch"
+  },
+  {
+    "wordWithDia": "قلم",
+    "wordWithoutDia": "قلم",
+    "pronunciation": "qalam",
+    "meaning": "pen"
   },
   {
     "wordWithDia": "وردة",
@@ -444,6 +632,12 @@
     "meaning": "milk"
   },
   {
+    "wordWithDia": "مسجد",
+    "wordWithoutDia": "مسجد",
+    "pronunciation": "masjid",
+    "meaning": "mosque"
+  },
+  {
     "wordWithDia": "مساء",
     "wordWithoutDia": "مساء",
     "pronunciation": "masa",
@@ -484,6 +678,12 @@
     "wordWithoutDia": "قهوة",
     "pronunciation": "qahwa",
     "meaning": "coffee"
+  },
+  {
+    "wordWithDia": "تلفزيون",
+    "wordWithoutDia": "تلفزيون",
+    "pronunciation": "televizyun",
+    "meaning": "television"
   },
   {
     "wordWithDia": "مستقبل",
@@ -556,6 +756,12 @@
     "wordWithoutDia": "حلوى",
     "pronunciation": "halwa",
     "meaning": "sweets"
+  },
+  {
+    "wordWithDia": "عطلة",
+    "wordWithoutDia": "عطلة",
+    "pronunciation": "'atla",
+    "meaning": "vacation"
   },
   {
     "wordWithDia": "مدرس",
@@ -648,10 +854,28 @@
     "meaning": "grandmother"
   },
   {
+    "wordWithDia": "كتاب",
+    "wordWithoutDia": "كتاب",
+    "pronunciation": "kitab",
+    "meaning": "book"
+  },
+  {
+    "wordWithDia": "قراءة",
+    "wordWithoutDia": "قراءة",
+    "pronunciation": "qira'a",
+    "meaning": "reading"
+  },
+  {
     "wordWithDia": "قلم رصاص",
     "wordWithoutDia": "قلم رصاص",
     "pronunciation": "qalam rasas",
     "meaning": "pencil"
+  },
+  {
+    "wordWithDia": "مدرسة",
+    "wordWithoutDia": "مدرسة",
+    "pronunciation": "madrasa",
+    "meaning": "school"
   },
   {
     "wordWithDia": "قاموس",
@@ -666,16 +890,82 @@
     "meaning": "mind"
   },
   {
+    "wordWithDia": "مدينة",
+    "wordWithoutDia": "مدينة",
+    "pronunciation": "madina",
+    "meaning": "city"
+  },
+  {
+    "wordWithDia": "عمل",
+    "wordWithoutDia": "عمل",
+    "pronunciation": "amal",
+    "meaning": "work"
+  },
+  {
     "wordWithDia": "ساحة",
     "wordWithoutDia": "ساحة",
     "pronunciation": "saha",
     "meaning": "square"
   },
   {
+    "wordWithDia": "شهر",
+    "wordWithoutDia": "شهر",
+    "pronunciation": "shahr",
+    "meaning": "month"
+  },
+  {
     "wordWithDia": "منزل",
     "wordWithoutDia": "منزل",
     "pronunciation": "manzil",
     "meaning": "house"
+  },
+  {
+    "wordWithDia": "سرير",
+    "wordWithoutDia": "سرير",
+    "pronunciation": "sariir",
+    "meaning": "bed"
+  },
+  {
+    "wordWithDia": "ماء",
+    "wordWithoutDia": "ماء",
+    "pronunciation": "maa",
+    "meaning": "water"
+  },
+  {
+    "wordWithDia": "باب",
+    "wordWithoutDia": "باب",
+    "pronunciation": "bab",
+    "meaning": "door"
+  },
+  {
+    "wordWithDia": "نافذة",
+    "wordWithoutDia": "نافذة",
+    "pronunciation": "nafidha",
+    "meaning": "window"
+  },
+  {
+    "wordWithDia": "غرفة",
+    "wordWithoutDia": "غرفة",
+    "pronunciation": "ghurfa",
+    "meaning": "room"
+  },
+  {
+    "wordWithDia": "طاولة",
+    "wordWithoutDia": "طاولة",
+    "pronunciation": "tawila",
+    "meaning": "table"
+  },
+  {
+    "wordWithDia": "كرسي",
+    "wordWithoutDia": "كرسي",
+    "pronunciation": "kursi",
+    "meaning": "chair"
+  },
+  {
+    "wordWithDia": "سماء",
+    "wordWithoutDia": "سماء",
+    "pronunciation": "samaa",
+    "meaning": "sky"
   },
   {
     "wordWithDia": "يد",
@@ -696,16 +986,46 @@
     "meaning": "woman"
   },
   {
+    "wordWithDia": "ولد",
+    "wordWithoutDia": "ولد",
+    "pronunciation": "walad",
+    "meaning": "boy"
+  },
+  {
+    "wordWithDia": "بنت",
+    "wordWithoutDia": "بنت",
+    "pronunciation": "bint",
+    "meaning": "girl"
+  },
+  {
+    "wordWithDia": "كتاب",
+    "wordWithoutDia": "كتاب",
+    "pronunciation": "kitab",
+    "meaning": "book"
+  },
+  {
     "wordWithDia": "ورقة",
     "wordWithoutDia": "ورقة",
     "pronunciation": "waraqa",
     "meaning": "paper"
   },
   {
+    "wordWithDia": "مدير",
+    "wordWithoutDia": "مدير",
+    "pronunciation": "mudir",
+    "meaning": "manager"
+  },
+  {
     "wordWithDia": "موظف",
     "wordWithoutDia": "موظف",
     "pronunciation": "mawthif",
     "meaning": "employee"
+  },
+  {
+    "wordWithDia": "سيارة",
+    "wordWithoutDia": "سيارة",
+    "pronunciation": "sayara",
+    "meaning": "car"
   },
   {
     "wordWithDia": "حافلة",
@@ -718,6 +1038,12 @@
     "wordWithoutDia": "قطار",
     "pronunciation": "qitaar",
     "meaning": "train"
+  },
+  {
+    "wordWithDia": "سفينة",
+    "wordWithoutDia": "سفينة",
+    "pronunciation": "safina",
+    "meaning": "ship"
   },
   {
     "wordWithDia": "طائرة",
@@ -738,16 +1064,40 @@
     "meaning": "boat"
   },
   {
+    "wordWithDia": "مطار",
+    "wordWithoutDia": "مطار",
+    "pronunciation": "matar",
+    "meaning": "airport"
+  },
+  {
     "wordWithDia": "متجر",
     "wordWithoutDia": "متجر",
     "pronunciation": "mutjar",
     "meaning": "store"
   },
   {
+    "wordWithDia": "مستشفى",
+    "wordWithoutDia": "مستشفى",
+    "pronunciation": "mustashfa",
+    "meaning": "hospital"
+  },
+  {
     "wordWithDia": "مطعم",
     "wordWithoutDia": "مطعم",
     "pronunciation": "mat'am",
     "meaning": "restaurant"
+  },
+  {
+    "wordWithDia": "سينما",
+    "wordWithoutDia": "سينما",
+    "pronunciation": "sinema",
+    "meaning": "cinema"
+  },
+  {
+    "wordWithDia": "مسجد",
+    "wordWithoutDia": "مسجد",
+    "pronunciation": "masjid",
+    "meaning": "mosque"
   },
   {
     "wordWithDia": "كنيسة",
@@ -766,6 +1116,12 @@
     "wordWithoutDia": "قصر",
     "pronunciation": "qasr",
     "meaning": "palace"
+  },
+  {
+    "wordWithDia": "مدرس",
+    "wordWithoutDia": "مدرس",
+    "pronunciation": "mudarris",
+    "meaning": "teacher"
   },
   {
     "wordWithDia": "طالب",
@@ -816,10 +1172,40 @@
     "meaning": "cloud"
   },
   {
+    "wordWithDia": "شمس",
+    "wordWithoutDia": "شمس",
+    "pronunciation": "shams",
+    "meaning": "sun"
+  },
+  {
+    "wordWithDia": "قمر",
+    "wordWithoutDia": "قمر",
+    "pronunciation": "qamar",
+    "meaning": "moon"
+  },
+  {
+    "wordWithDia": "نجم",
+    "wordWithoutDia": "نجم",
+    "pronunciation": "najm",
+    "meaning": "star"
+  },
+  {
     "wordWithDia": "كوكب",
     "wordWithoutDia": "كوكب",
     "pronunciation": "kawkab",
     "meaning": "planet"
+  },
+  {
+    "wordWithDia": "جبل",
+    "wordWithoutDia": "جبل",
+    "pronunciation": "jabal",
+    "meaning": "mountain"
+  },
+  {
+    "wordWithDia": "بحر",
+    "wordWithoutDia": "بحر",
+    "pronunciation": "bahr",
+    "meaning": "sea"
   },
   {
     "wordWithDia": "نهر",
@@ -852,6 +1238,12 @@
     "meaning": "country"
   },
   {
+    "wordWithDia": "مدينة",
+    "wordWithoutDia": "مدينة",
+    "pronunciation": "madina",
+    "meaning": "city"
+  },
+  {
     "wordWithDia": "قرية",
     "wordWithoutDia": "قرية",
     "pronunciation": "qariyah",
@@ -864,10 +1256,58 @@
     "meaning": "farm"
   },
   {
+    "wordWithDia": "جامعة",
+    "wordWithoutDia": "جامعة",
+    "pronunciation": "jami'a",
+    "meaning": "university"
+  },
+  {
+    "wordWithDia": "مدرسة",
+    "wordWithoutDia": "مدرسة",
+    "pronunciation": "madrasa",
+    "meaning": "school"
+  },
+  {
+    "wordWithDia": "مستشفى",
+    "wordWithoutDia": "مستشفى",
+    "pronunciation": "mustashfa",
+    "meaning": "hospital"
+  },
+  {
+    "wordWithDia": "مطعم",
+    "wordWithoutDia": "مطعم",
+    "pronunciation": "mat'am",
+    "meaning": "restaurant"
+  },
+  {
+    "wordWithDia": "مكتبة",
+    "wordWithoutDia": "مكتبة",
+    "pronunciation": "maktabah",
+    "meaning": "library"
+  },
+  {
+    "wordWithDia": "حديقة",
+    "wordWithoutDia": "حديقة",
+    "pronunciation": "hadiqah",
+    "meaning": "garden"
+  },
+  {
     "wordWithDia": "ملعب",
     "wordWithoutDia": "ملعب",
     "pronunciation": "mala'ab",
     "meaning": "stadium"
+  },
+  {
+    "wordWithDia": "شاطئ",
+    "wordWithoutDia": "شاطئ",
+    "pronunciation": "shaati'",
+    "meaning": "beach"
+  },
+  {
+    "wordWithDia": "جبل",
+    "wordWithoutDia": "جبل",
+    "pronunciation": "jabal",
+    "meaning": "mountain"
   },
   {
     "wordWithDia": "كهف",
@@ -888,16 +1328,34 @@
     "meaning": "plain"
   },
   {
+    "wordWithDia": "جزيرة",
+    "wordWithoutDia": "جزيرة",
+    "pronunciation": "jazeera",
+    "meaning": "island"
+  },
+  {
     "wordWithDia": "هضبة",
     "wordWithoutDia": "هضبة",
     "pronunciation": "hadabah",
     "meaning": "plateau"
   },
   {
+    "wordWithDia": "غابة",
+    "wordWithoutDia": "غابة",
+    "pronunciation": "ghabah",
+    "meaning": "forest"
+  },
+  {
     "wordWithDia": "جدول",
     "wordWithoutDia": "جدول",
     "pronunciation": "jadwal",
     "meaning": "schedule"
+  },
+  {
+    "wordWithDia": "ساعة",
+    "wordWithoutDia": "ساعة",
+    "pronunciation": "sa'a",
+    "meaning": "watch"
   },
   {
     "wordWithDia": "تقويم",
@@ -946,6 +1404,12 @@
     "wordWithoutDia": "شاشة",
     "pronunciation": "shasha",
     "meaning": "screen"
+  },
+  {
+    "wordWithDia": "مفتاح",
+    "wordWithoutDia": "مفتاح",
+    "pronunciation": "miftaah",
+    "meaning": "key"
   },
   {
     "wordWithDia": "قفل",
@@ -1020,6 +1484,12 @@
     "meaning": "movies"
   },
   {
+    "wordWithDia": "مسرح",
+    "wordWithoutDia": "مسرح",
+    "pronunciation": "masrah",
+    "meaning": "theater"
+  },
+  {
     "wordWithDia": "كتب",
     "wordWithoutDia": "كتب",
     "pronunciation": "kutub",
@@ -1030,6 +1500,12 @@
     "wordWithoutDia": "قصص",
     "pronunciation": "qisas",
     "meaning": "stories"
+  },
+  {
+    "wordWithDia": "شعر",
+    "wordWithoutDia": "شعر",
+    "pronunciation": "sha'r",
+    "meaning": "poetry"
   },
   {
     "wordWithDia": "أغنية",
@@ -1056,6 +1532,12 @@
     "meaning": "swimming"
   },
   {
+    "wordWithDia": "كرة",
+    "wordWithoutDia": "كرة",
+    "pronunciation": "kurah",
+    "meaning": "ball"
+  },
+  {
     "wordWithDia": "جولف",
     "wordWithoutDia": "جولف",
     "pronunciation": "golf",
@@ -1072,6 +1554,12 @@
     "wordWithoutDia": "سيرك",
     "pronunciation": "sirk",
     "meaning": "circus"
+  },
+  {
+    "wordWithDia": "سفر",
+    "wordWithoutDia": "سفر",
+    "pronunciation": "safar",
+    "meaning": "travel"
   },
   {
     "wordWithDia": "مغامرة",
@@ -1116,6 +1604,18 @@
     "meaning": "medicine"
   },
   {
+    "wordWithDia": "مستشفى",
+    "wordWithoutDia": "مستشفى",
+    "pronunciation": "mustashfa",
+    "meaning": "hospital"
+  },
+  {
+    "wordWithDia": "طبيب",
+    "wordWithoutDia": "طبيب",
+    "pronunciation": "tabeeb",
+    "meaning": "doctor"
+  },
+  {
     "wordWithDia": "ممرض",
     "wordWithoutDia": "ممرض",
     "pronunciation": "mumarid",
@@ -1134,10 +1634,76 @@
     "meaning": "pharmacy"
   },
   {
+    "wordWithDia": "سماء",
+    "wordWithoutDia": "سماء",
+    "pronunciation": "samaa",
+    "meaning": "sky"
+  },
+  {
+    "wordWithDia": "سحاب",
+    "wordWithoutDia": "سحاب",
+    "pronunciation": "sahab",
+    "meaning": "cloud"
+  },
+  {
+    "wordWithDia": "نجمة",
+    "wordWithoutDia": "نجمة",
+    "pronunciation": "najmah",
+    "meaning": "star"
+  },
+  {
+    "wordWithDia": "قمر",
+    "wordWithoutDia": "قمر",
+    "pronunciation": "qamar",
+    "meaning": "moon"
+  },
+  {
+    "wordWithDia": "شمس",
+    "wordWithoutDia": "شمس",
+    "pronunciation": "shams",
+    "meaning": "sun"
+  },
+  {
+    "wordWithDia": "كوكب",
+    "wordWithoutDia": "كوكب",
+    "pronunciation": "kawkab",
+    "meaning": "planet"
+  },
+  {
     "wordWithDia": "جو",
     "wordWithoutDia": "جو",
     "pronunciation": "jaw",
     "meaning": "weather"
+  },
+  {
+    "wordWithDia": "مطر",
+    "wordWithoutDia": "مطر",
+    "pronunciation": "matar",
+    "meaning": "rain"
+  },
+  {
+    "wordWithDia": "ثلج",
+    "wordWithoutDia": "ثلج",
+    "pronunciation": "thalj",
+    "meaning": "snow"
+  },
+  {
+    "wordWithDia": "عاصفة",
+    "wordWithoutDia": "عاصفة",
+    "pronunciation": "'asifah",
+    "meaning": "storm"
+  },
+  {
+    "wordWithDia": "رياح",
+    "wordWithoutDia": "رياح",
+    "pronunciation": "riyah",
+    "meaning": "wind"
+  },
+  {
+    "wordWithDia": "برق",
+    "wordWithoutDia": "برق",
+    "pronunciation": "barq",
+    "meaning": "lightning"
   },
   {
     "wordWithDia": "زلزال",
@@ -1146,16 +1712,58 @@
     "meaning": "earthquake"
   },
   {
+    "wordWithDia": "بحر",
+    "wordWithoutDia": "بحر",
+    "pronunciation": "bahr",
+    "meaning": "sea"
+  },
+  {
+    "wordWithDia": "نهر",
+    "wordWithoutDia": "نهر",
+    "pronunciation": "nahr",
+    "meaning": "river"
+  },
+  {
     "wordWithDia": "بحيرة",
     "wordWithoutDia": "بحيرة",
     "pronunciation": "buhayrah",
     "meaning": "lake"
   },
   {
+    "wordWithDia": "شلال",
+    "wordWithoutDia": "شلال",
+    "pronunciation": "shilal",
+    "meaning": "waterfall"
+  },
+  {
+    "wordWithDia": "صحراء",
+    "wordWithoutDia": "صحراء",
+    "pronunciation": "sahra",
+    "meaning": "desert"
+  },
+  {
+    "wordWithDia": "جبل",
+    "wordWithoutDia": "جبل",
+    "pronunciation": "jabal",
+    "meaning": "mountain"
+  },
+  {
+    "wordWithDia": "هضبة",
+    "wordWithoutDia": "هضبة",
+    "pronunciation": "hadabah",
+    "meaning": "plateau"
+  },
+  {
     "wordWithDia": "أودية",
     "wordWithoutDia": "أودية",
     "pronunciation": "awdiyah",
     "meaning": "valley"
+  },
+  {
+    "wordWithDia": "شاطئ",
+    "wordWithoutDia": "شاطئ",
+    "pronunciation": "shaati'",
+    "meaning": "beach"
   },
   {
     "wordWithDia": "منحدر",
@@ -1182,10 +1790,40 @@
     "meaning": "harbor"
   },
   {
+    "wordWithDia": "مطار",
+    "wordWithoutDia": "مطار",
+    "pronunciation": "matar",
+    "meaning": "airport"
+  },
+  {
+    "wordWithDia": "محطة",
+    "wordWithoutDia": "محطة",
+    "pronunciation": "mahattah",
+    "meaning": "station"
+  },
+  {
+    "wordWithDia": "متجر",
+    "wordWithoutDia": "متجر",
+    "pronunciation": "mutjar",
+    "meaning": "store"
+  },
+  {
+    "wordWithDia": "سوق",
+    "wordWithoutDia": "سوق",
+    "pronunciation": "suq",
+    "meaning": "market"
+  },
+  {
     "wordWithDia": "مول",
     "wordWithoutDia": "مول",
     "pronunciation": "mawl",
     "meaning": "mall"
+  },
+  {
+    "wordWithDia": "مطعم",
+    "wordWithoutDia": "مطعم",
+    "pronunciation": "mat'am",
+    "meaning": "restaurant"
   },
   {
     "wordWithDia": "كافيه",
@@ -1194,16 +1832,46 @@
     "meaning": "cafe"
   },
   {
+    "wordWithDia": "فندق",
+    "wordWithoutDia": "فندق",
+    "pronunciation": "funduq",
+    "meaning": "hotel"
+  },
+  {
     "wordWithDia": "بنك",
     "wordWithoutDia": "بنك",
     "pronunciation": "bank",
     "meaning": "bank"
   },
   {
+    "wordWithDia": "مكتبة",
+    "wordWithoutDia": "مكتبة",
+    "pronunciation": "maktabah",
+    "meaning": "library"
+  },
+  {
+    "wordWithDia": "سينما",
+    "wordWithoutDia": "سينما",
+    "pronunciation": "sineema",
+    "meaning": "cinema"
+  },
+  {
     "wordWithDia": "متحف",
     "wordWithoutDia": "متحف",
     "pronunciation": "mathaf",
     "meaning": "museum"
+  },
+  {
+    "wordWithDia": "حديقة",
+    "wordWithoutDia": "حديقة",
+    "pronunciation": "hadiqah",
+    "meaning": "garden"
+  },
+  {
+    "wordWithDia": "ملعب",
+    "wordWithoutDia": "ملعب",
+    "pronunciation": "mala'ab",
+    "meaning": "stadium"
   },
   {
     "wordWithDia": "مسبح",
@@ -1216,6 +1884,24 @@
     "wordWithoutDia": "حديقة حيوان",
     "pronunciation": "hadiqah haywan",
     "meaning": "zoo"
+  },
+  {
+    "wordWithDia": "مدينة",
+    "wordWithoutDia": "مدينة",
+    "pronunciation": "madina",
+    "meaning": "city"
+  },
+  {
+    "wordWithDia": "قرية",
+    "wordWithoutDia": "قرية",
+    "pronunciation": "qariyah",
+    "meaning": "village"
+  },
+  {
+    "wordWithDia": "مزرعة",
+    "wordWithoutDia": "مزرعة",
+    "pronunciation": "mazra'a",
+    "meaning": "farm"
   },
   {
     "wordWithDia": "مصنع",
@@ -1242,6 +1928,36 @@
     "meaning": "warehouse"
   },
   {
+    "wordWithDia": "مصرف",
+    "wordWithoutDia": "مصرف",
+    "pronunciation": "masraf",
+    "meaning": "bank"
+  },
+  {
+    "wordWithDia": "مكتب",
+    "wordWithoutDia": "مكتب",
+    "pronunciation": "maktab",
+    "meaning": "office"
+  },
+  {
+    "wordWithDia": "مطبخ",
+    "wordWithoutDia": "مطبخ",
+    "pronunciation": "matbakh",
+    "meaning": "kitchen"
+  },
+  {
+    "wordWithDia": "حمام",
+    "wordWithoutDia": "حمام",
+    "pronunciation": "hammam",
+    "meaning": "bathroom"
+  },
+  {
+    "wordWithDia": "غرفة نوم",
+    "wordWithoutDia": "غرفة نوم",
+    "pronunciation": "ghurfa nawm",
+    "meaning": "bedroom"
+  },
+  {
     "wordWithDia": "صالة",
     "wordWithoutDia": "صالة",
     "pronunciation": "sala",
@@ -1260,10 +1976,22 @@
     "meaning": "desk"
   },
   {
+    "wordWithDia": "كرسي",
+    "wordWithoutDia": "كرسي",
+    "pronunciation": "kursi",
+    "meaning": "chair"
+  },
+  {
     "wordWithDia": "مرايا",
     "wordWithoutDia": "مرايا",
     "pronunciation": "maraaya",
     "meaning": "mirror"
+  },
+  {
+    "wordWithDia": "سرير",
+    "wordWithoutDia": "سرير",
+    "pronunciation": "sareer",
+    "meaning": "bed"
   },
   {
     "wordWithDia": "خزانة",
@@ -1290,10 +2018,22 @@
     "meaning": "lamp"
   },
   {
+    "wordWithDia": "شمعة",
+    "wordWithoutDia": "شمعة",
+    "pronunciation": "shama'ah",
+    "meaning": "candle"
+  },
+  {
     "wordWithDia": "فتاحة",
     "wordWithoutDia": "فتاحة",
     "pronunciation": "fatahah",
     "meaning": "opener"
+  },
+  {
+    "wordWithDia": "مفتاح",
+    "wordWithoutDia": "مفتاح",
+    "pronunciation": "miftaah",
+    "meaning": "key"
   },
   {
     "wordWithDia": "ساعة",
@@ -1306,6 +2046,30 @@
     "wordWithoutDia": "منبه",
     "pronunciation": "munbah",
     "meaning": "alarm clock"
+  },
+  {
+    "wordWithDia": "شاشة",
+    "wordWithoutDia": "شاشة",
+    "pronunciation": "shasha",
+    "meaning": "screen"
+  },
+  {
+    "wordWithDia": "تلفزيون",
+    "wordWithoutDia": "تلفزيون",
+    "pronunciation": "televizyon",
+    "meaning": "television"
+  },
+  {
+    "wordWithDia": "جوال",
+    "wordWithoutDia": "جوال",
+    "pronunciation": "jawwal",
+    "meaning": "mobile phone"
+  },
+  {
+    "wordWithDia": "حاسوب",
+    "wordWithoutDia": "حاسوب",
+    "pronunciation": "haasub",
+    "meaning": "computer"
   },
   {
     "wordWithDia": "فأرة",
@@ -1326,9 +2090,123 @@
     "meaning": "mouse (animal)"
   },
   {
+    "wordWithDia": "كاميرا",
+    "wordWithoutDia": "كاميرا",
+    "pronunciation": "kameera",
+    "meaning": "camera"
+  },
+  {
     "wordWithDia": "مايكروفون",
     "wordWithoutDia": "مايكروفون",
     "pronunciation": "maikrofoon",
     "meaning": "microphone"
+  },
+  {
+    "wordWithDia": "مكبر صوت",
+    "wordWithoutDia": "مكبر صوت",
+    "pronunciation": "mukabbir sawt",
+    "meaning": "speaker"
+  },
+  {
+    "wordWithDia": "سماعات",
+    "wordWithoutDia": "سماعات",
+    "pronunciation": "sama'at",
+    "meaning": "headphones"
+  },
+  {
+    "wordWithDia": "كتابة",
+    "wordWithoutDia": "كتابة",
+    "pronunciation": "kitabah",
+    "meaning": "writing"
+  },
+  {
+    "wordWithDia": "لغة",
+    "wordWithoutDia": "لغة",
+    "pronunciation": "lughah",
+    "meaning": "language"
+  },
+  {
+    "wordWithDia": "رسم",
+    "wordWithoutDia": "رسم",
+    "pronunciation": "rusm",
+    "meaning": "drawing"
+  },
+  {
+    "wordWithDia": "موسيقى",
+    "wordWithoutDia": "موسيقى",
+    "pronunciation": "moosiqaa",
+    "meaning": "music"
+  },
+  {
+    "wordWithDia": "رقص",
+    "wordWithoutDia": "رقص",
+    "pronunciation": "raqs",
+    "meaning": "dance"
+  },
+  {
+    "wordWithDia": "فن",
+    "wordWithoutDia": "فن",
+    "pronunciation": "fun",
+    "meaning": "art"
+  },
+  {
+    "wordWithDia": "أفلام",
+    "wordWithoutDia": "أفلام",
+    "pronunciation": "aflam",
+    "meaning": "movies"
+  },
+  {
+    "wordWithDia": "مسرح",
+    "wordWithoutDia": "مسرح",
+    "pronunciation": "masrah",
+    "meaning": "theater"
+  },
+  {
+    "wordWithDia": "كتب",
+    "wordWithoutDia": "كتب",
+    "pronunciation": "kutub",
+    "meaning": "books"
+  },
+  {
+    "wordWithDia": "قصص",
+    "wordWithoutDia": "قصص",
+    "pronunciation": "qisas",
+    "meaning": "stories"
+  },
+  {
+    "wordWithDia": "شعر",
+    "wordWithoutDia": "شعر",
+    "pronunciation": "sha'r",
+    "meaning": "poetry"
+  },
+  {
+    "wordWithDia": "أغنية",
+    "wordWithoutDia": "أغنية",
+    "pronunciation": "aghaniyah",
+    "meaning": "song"
+  },
+  {
+    "wordWithDia": "ألعاب",
+    "wordWithoutDia": "ألعاب",
+    "pronunciation": "al'aaab",
+    "meaning": "games"
+  },
+  {
+    "wordWithDia": "رياضة",
+    "wordWithoutDia": "رياضة",
+    "pronunciation": "riyadah",
+    "meaning": "sports"
+  },
+  {
+    "wordWithDia": "سباحة",
+    "wordWithoutDia": "سباحة",
+    "pronunciation": "sibahah",
+    "meaning": "swimming"
+  },
+  {
+    "wordWithDia": "كرة",
+    "wordWithoutDia": "كرة",
+    "pronunciation": "kurah",
+    "meaning": "ball"
   }
 ]
