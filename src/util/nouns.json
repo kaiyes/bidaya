@@ -360,565 +360,505 @@
     "meaning": "exam"
   },
   {
-    "wordWithDia": "سفر",
-    "wordWithoutDia": "سفر",
-    "pronunciation": "safar",
-    "meaning": "travel"
-  },
-  {
-    "wordWithDia": "شاطئ",
-    "wordWithoutDia": "شاطئ",
-    "pronunciation": "shati'",
-    "meaning": "beach"
-  },
-  {
-    "wordWithDia": "سفينة",
-    "wordWithoutDia": "سفينة",
-    "pronunciation": "safina",
-    "meaning": "ship"
-  },
-  {
-    "wordWithDia": "فاكهة",
-    "wordWithoutDia": "فاكهة",
-    "pronunciation": "fakha",
-    "meaning": "fruit"
-  },
-  {
-    "wordWithDia": "حقيبة",
-    "wordWithoutDia": "حقيبة",
-    "pronunciation": "haqiba",
-    "meaning": "bag"
-  },
-  {
-    "wordWithDia": "مدير",
-    "wordWithoutDia": "مدير",
-    "pronunciation": "mudir",
-    "meaning": "manager"
-  },
-  {
-    "wordWithDia": "وردة",
-    "wordWithoutDia": "وردة",
-    "pronunciation": "warda",
-    "meaning": "rose"
-  },
-  {
-    "wordWithDia": "شهر",
-    "wordWithoutDia": "شهر",
-    "pronunciation": "shahr",
-    "meaning": "month"
-  },
-  {
-    "wordWithDia": "ألعاب",
-    "wordWithoutDia": "ألعاب",
-    "pronunciation": "ala'ab",
-    "meaning": "toys"
-  },
-  {
-    "wordWithDia": "عطر",
-    "wordWithoutDia": "عطر",
-    "pronunciation": "itr",
-    "meaning": "perfume"
-  },
-  {
-    "wordWithDia": "بحر",
+    "wordWithDia": "بَحْر",
     "wordWithoutDia": "بحر",
     "pronunciation": "bahr",
     "meaning": "sea"
   },
   {
-    "wordWithDia": "جمل",
+    "wordWithDia": "جَمَل",
     "wordWithoutDia": "جمل",
     "pronunciation": "jamal",
     "meaning": "camel"
   },
   {
-    "wordWithDia": "عمل",
+    "wordWithDia": "عَمَل",
     "wordWithoutDia": "عمل",
     "pronunciation": "amal",
     "meaning": "work"
   },
   {
-    "wordWithDia": "حليب",
+    "wordWithDia": "حَلِيب",
     "wordWithoutDia": "حليب",
     "pronunciation": "haleeb",
     "meaning": "milk"
   },
   {
-    "wordWithDia": "مساء",
+    "wordWithDia": "مَسَاء",
     "wordWithoutDia": "مساء",
     "pronunciation": "masa",
     "meaning": "evening"
   },
   {
-    "wordWithDia": "صباح",
+    "wordWithDia": "صَبَاح",
     "wordWithoutDia": "صباح",
     "pronunciation": "sabah",
     "meaning": "morning"
   },
   {
-    "wordWithDia": "محطة",
+    "wordWithDia": "مَحَطَّة",
     "wordWithoutDia": "محطة",
     "pronunciation": "mahatta",
     "meaning": "station"
   },
   {
-    "wordWithDia": "شهادة",
+    "wordWithDia": "شَهَادَة",
     "wordWithoutDia": "شهادة",
     "pronunciation": "shahada",
     "meaning": "certificate"
   },
   {
-    "wordWithDia": "جواز سفر",
+    "wordWithDia": "جَوَاز سَفَر",
     "wordWithoutDia": "جواز سفر",
     "pronunciation": "jawaz safar",
     "meaning": "passport"
   },
   {
-    "wordWithDia": "عملة",
+    "wordWithDia": "عُمْلَة",
     "wordWithoutDia": "عملة",
     "pronunciation": "umla",
     "meaning": "currency"
   },
   {
-    "wordWithDia": "قهوة",
+    "wordWithDia": "قَهْوَة",
     "wordWithoutDia": "قهوة",
     "pronunciation": "qahwa",
     "meaning": "coffee"
   },
   {
-    "wordWithDia": "مستقبل",
+    "wordWithDia": "مُسْتَقْبَل",
     "wordWithoutDia": "مستقبل",
     "pronunciation": "mustaqbal",
     "meaning": "future"
   },
   {
-    "wordWithDia": "تاريخ",
+    "wordWithDia": "تَارِيخ",
     "wordWithoutDia": "تاريخ",
     "pronunciation": "tareekh",
     "meaning": "history"
   },
   {
-    "wordWithDia": "علم",
+    "wordWithDia": "عِلْم",
     "wordWithoutDia": "علم",
     "pronunciation": "ilm",
     "meaning": "knowledge"
   },
   {
-    "wordWithDia": "أخبار",
+    "wordWithDia": "أَخْبَار",
     "wordWithoutDia": "أخبار",
     "pronunciation": "akhbar",
     "meaning": "news"
   },
   {
-    "wordWithDia": "مشروب",
+    "wordWithDia": "مَشْرُوب",
     "wordWithoutDia": "مشروب",
     "pronunciation": "mashrub",
     "meaning": "drink"
   },
   {
-    "wordWithDia": "رياضة",
+    "wordWithDia": "رِيَاضَة",
     "wordWithoutDia": "رياضة",
     "pronunciation": "riyada",
     "meaning": "sport"
   },
   {
-    "wordWithDia": "مسرح",
+    "wordWithDia": "مَسْرَح",
     "wordWithoutDia": "مسرح",
     "pronunciation": "masrah",
     "meaning": "theater"
   },
   {
-    "wordWithDia": "مدينة",
+    "wordWithDia": "مَدِينَة",
     "wordWithoutDia": "مدينة",
     "pronunciation": "madina",
     "meaning": "city"
   },
   {
-    "wordWithDia": "مسكن",
+    "wordWithDia": "مَسْكَن",
     "wordWithoutDia": "مسكن",
     "pronunciation": "maskun",
     "meaning": "home"
   },
   {
-    "wordWithDia": "سينما",
+    "wordWithDia": "سِينِمَا",
     "wordWithoutDia": "سينما",
     "pronunciation": "sinema",
     "meaning": "cinema"
   },
   {
-    "wordWithDia": "شعر",
+    "wordWithDia": "شِعْر",
     "wordWithoutDia": "شعر",
     "pronunciation": "shi'r",
     "meaning": "poetry"
   },
   {
-    "wordWithDia": "حلوى",
+    "wordWithDia": "حَلْوَى",
     "wordWithoutDia": "حلوى",
     "pronunciation": "halwa",
     "meaning": "sweets"
   },
   {
-    "wordWithDia": "مدرس",
+    "wordWithDia": "مُدَّرِس",
     "wordWithoutDia": "مدرس",
     "pronunciation": "mudarris",
     "meaning": "teacher"
   },
   {
-    "wordWithDia": "علامة",
+    "wordWithDia": "عَلَامَة",
     "wordWithoutDia": "علامة",
     "pronunciation": "'alamah",
     "meaning": "sign"
   },
   {
-    "wordWithDia": "طبيب",
+    "wordWithDia": "طَبِيب",
     "wordWithoutDia": "طبيب",
     "pronunciation": "tabib",
     "meaning": "doctor"
   },
   {
-    "wordWithDia": "أم",
+    "wordWithDia": "أُمّ",
     "wordWithoutDia": "أم",
     "pronunciation": "umm",
     "meaning": "mother"
   },
   {
-    "wordWithDia": "أب",
+    "wordWithDia": "أَب",
     "wordWithoutDia": "أب",
     "pronunciation": "ab",
     "meaning": "father"
   },
   {
-    "wordWithDia": "إخوة",
+    "wordWithDia": "إِخْوَة",
     "wordWithoutDia": "إخوة",
     "pronunciation": "ikhwa",
     "meaning": "brothers"
   },
   {
-    "wordWithDia": "أخت",
+    "wordWithDia": "أُخْت",
     "wordWithoutDia": "أخت",
     "pronunciation": "ukht",
     "meaning": "sister"
   },
   {
-    "wordWithDia": "ابن",
+    "wordWithDia": "ابْن",
     "wordWithoutDia": "ابن",
     "pronunciation": "ibn",
     "meaning": "son"
   },
   {
-    "wordWithDia": "ابنة",
+    "wordWithDia": "ابْنَة",
     "wordWithoutDia": "ابنة",
     "pronunciation": "ibnah",
     "meaning": "daughter"
   },
   {
-    "wordWithDia": "زوج",
+    "wordWithDia": "زَوْج",
     "wordWithoutDia": "زوج",
     "pronunciation": "zawj",
     "meaning": "husband"
   },
   {
-    "wordWithDia": "زوجة",
+    "wordWithDia": "زَوْجَة",
     "wordWithoutDia": "زوجة",
     "pronunciation": "zawjah",
     "meaning": "wife"
   },
   {
-    "wordWithDia": "بنت",
+    "wordWithDia": "بِنْت",
     "wordWithoutDia": "بنت",
     "pronunciation": "bint",
     "meaning": "girl"
   },
   {
-    "wordWithDia": "ولد",
+    "wordWithDia": "وَلَد",
     "wordWithoutDia": "ولد",
     "pronunciation": "walad",
     "meaning": "boy"
   },
   {
-    "wordWithDia": "جد",
+    "wordWithDia": "جَد",
     "wordWithoutDia": "جد",
     "pronunciation": "jadd",
     "meaning": "grandfather"
   },
   {
-    "wordWithDia": "جدة",
+    "wordWithDia": "جَدَّة",
     "wordWithoutDia": "جدة",
     "pronunciation": "jaddah",
     "meaning": "grandmother"
   },
   {
-    "wordWithDia": "قلم رصاص",
+    "wordWithDia": "قَلَم رَصَاص",
     "wordWithoutDia": "قلم رصاص",
     "pronunciation": "qalam rasas",
     "meaning": "pencil"
   },
   {
-    "wordWithDia": "قاموس",
+    "wordWithDia": "قَامُوس",
     "wordWithoutDia": "قاموس",
     "pronunciation": "qamus",
     "meaning": "dictionary"
   },
   {
-    "wordWithDia": "عقل",
+    "wordWithDia": "عَقْل",
     "wordWithoutDia": "عقل",
     "pronunciation": "'aql",
     "meaning": "mind"
   },
   {
-    "wordWithDia": "ساحة",
+    "wordWithDia": "سَاحَة",
     "wordWithoutDia": "ساحة",
     "pronunciation": "saha",
     "meaning": "square"
   },
   {
-    "wordWithDia": "منزل",
+    "wordWithDia": "مَنْزِل",
     "wordWithoutDia": "منزل",
     "pronunciation": "manzil",
     "meaning": "house"
   },
   {
-    "wordWithDia": "يد",
+    "wordWithDia": "يَد",
     "wordWithoutDia": "يد",
     "pronunciation": "yad",
     "meaning": "hand"
   },
   {
-    "wordWithDia": "رجل",
+    "wordWithDia": "رَجُل",
     "wordWithoutDia": "رجل",
     "pronunciation": "rajul",
     "meaning": "man"
   },
   {
-    "wordWithDia": "امرأة",
+    "wordWithDia": "امْرَأَة",
     "wordWithoutDia": "امرأة",
     "pronunciation": "imra'a",
     "meaning": "woman"
   },
   {
-    "wordWithDia": "ورقة",
+    "wordWithDia": "وَرَقَة",
     "wordWithoutDia": "ورقة",
     "pronunciation": "waraqa",
     "meaning": "paper"
   },
   {
-    "wordWithDia": "موظف",
+    "wordWithDia": "مَوْظَف",
     "wordWithoutDia": "موظف",
     "pronunciation": "mawthif",
     "meaning": "employee"
   },
   {
-    "wordWithDia": "حافلة",
+    "wordWithDia": "حَافِلَة",
     "wordWithoutDia": "حافلة",
     "pronunciation": "hafilah",
     "meaning": "bus"
   },
   {
-    "wordWithDia": "قطار",
+    "wordWithDia": "قِطَار",
     "wordWithoutDia": "قطار",
     "pronunciation": "qitaar",
     "meaning": "train"
   },
   {
-    "wordWithDia": "طائرة",
+    "wordWithDia": "طَائِرَة",
     "wordWithoutDia": "طائرة",
     "pronunciation": "ta'ira",
     "meaning": "airplane"
   },
   {
-    "wordWithDia": "دراجة",
+    "wordWithDia": "دَرَّاجَة",
     "wordWithoutDia": "دراجة",
     "pronunciation": "daraja",
     "meaning": "bike"
   },
   {
-    "wordWithDia": "قارب",
+    "wordWithDia": "قَارِب",
     "wordWithoutDia": "قارب",
     "pronunciation": "qarib",
     "meaning": "boat"
   },
   {
-    "wordWithDia": "متجر",
+    "wordWithDia": "مَتْجَر",
     "wordWithoutDia": "متجر",
     "pronunciation": "mutjar",
     "meaning": "store"
   },
   {
-    "wordWithDia": "مطعم",
+    "wordWithDia": "مَطْعَم",
     "wordWithoutDia": "مطعم",
     "pronunciation": "mat'am",
     "meaning": "restaurant"
   },
   {
-    "wordWithDia": "كنيسة",
+    "wordWithDia": "كَنِيسَة",
     "wordWithoutDia": "كنيسة",
     "pronunciation": "kanisa",
     "meaning": "church"
   },
   {
-    "wordWithDia": "معبد",
+    "wordWithDia": "مَعْبَد",
     "wordWithoutDia": "معبد",
     "pronunciation": "ma'bad",
     "meaning": "temple"
   },
   {
-    "wordWithDia": "قصر",
+    "wordWithDia": "قَصَر",
     "wordWithoutDia": "قصر",
     "pronunciation": "qasr",
     "meaning": "palace"
   },
   {
-    "wordWithDia": "طالب",
+    "wordWithDia": "طَالِب",
     "wordWithoutDia": "طالب",
     "pronunciation": "taleb",
     "meaning": "student"
   },
   {
-    "wordWithDia": "مستخدم",
+    "wordWithDia": "مُسْتَخْدِم",
     "wordWithoutDia": "مستخدم",
     "pronunciation": "mustakhdim",
     "meaning": "user"
   },
   {
-    "wordWithDia": "مطر",
+    "wordWithDia": "مَطَر",
     "wordWithoutDia": "مطر",
     "pronunciation": "matar",
     "meaning": "rain"
   },
   {
-    "wordWithDia": "ثلج",
+    "wordWithDia": "ثَلْج",
     "wordWithoutDia": "ثلج",
     "pronunciation": "thalj",
     "meaning": "snow"
   },
   {
-    "wordWithDia": "عاصفة",
+    "wordWithDia": "عَاصِفَة",
     "wordWithoutDia": "عاصفة",
     "pronunciation": "'asifah",
     "meaning": "storm"
   },
   {
-    "wordWithDia": "رياح",
+    "wordWithDia": "رِيَاح",
     "wordWithoutDia": "رياح",
     "pronunciation": "riyah",
     "meaning": "wind"
   },
   {
-    "wordWithDia": "برق",
+    "wordWithDia": "بَرْق",
     "wordWithoutDia": "برق",
     "pronunciation": "barq",
     "meaning": "lightning"
   },
   {
-    "wordWithDia": "غيم",
+    "wordWithDia": "غَيْم",
     "wordWithoutDia": "غيم",
     "pronunciation": "ghaym",
     "meaning": "cloud"
   },
   {
-    "wordWithDia": "كوكب",
+    "wordWithDia": "كَوْكَب",
     "wordWithoutDia": "كوكب",
     "pronunciation": "kawkab",
     "meaning": "planet"
   },
   {
-    "wordWithDia": "نهر",
+    "wordWithDia": "نَهْر",
     "wordWithoutDia": "نهر",
     "pronunciation": "nahr",
     "meaning": "river"
   },
   {
-    "wordWithDia": "صحراء",
+    "wordWithDia": "صَحْرَاء",
     "wordWithoutDia": "صحراء",
     "pronunciation": "sahra",
     "meaning": "desert"
   },
   {
-    "wordWithDia": "غابة",
+    "wordWithDia": "غَابَة",
     "wordWithoutDia": "غابة",
     "pronunciation": "ghabah",
     "meaning": "forest"
   },
   {
-    "wordWithDia": "جزيرة",
+    "wordWithDia": "جَزِيرَة",
     "wordWithoutDia": "جزيرة",
     "pronunciation": "jazeera",
     "meaning": "island"
   },
   {
-    "wordWithDia": "بلد",
+    "wordWithDia": "بَلَد",
     "wordWithoutDia": "بلد",
     "pronunciation": "balad",
     "meaning": "country"
   },
   {
-    "wordWithDia": "قرية",
+    "wordWithDia": "قُرْيَة",
     "wordWithoutDia": "قرية",
     "pronunciation": "qariyah",
     "meaning": "village"
   },
   {
-    "wordWithDia": "مزرعة",
+    "wordWithDia": "مَزْرَعَة",
     "wordWithoutDia": "مزرعة",
     "pronunciation": "mazra'a",
     "meaning": "farm"
   },
   {
-    "wordWithDia": "ملعب",
+    "wordWithDia": "مَلْعَب",
     "wordWithoutDia": "ملعب",
     "pronunciation": "mala'ab",
     "meaning": "stadium"
   },
   {
-    "wordWithDia": "كهف",
+    "wordWithDia": "كَهْف",
     "wordWithoutDia": "كهف",
     "pronunciation": "kahf",
     "meaning": "cave"
   },
   {
-    "wordWithDia": "شلال",
+    "wordWithDia": "شَلَال",
     "wordWithoutDia": "شلال",
     "pronunciation": "shilal",
     "meaning": "waterfall"
   },
   {
-    "wordWithDia": "سهل",
+    "wordWithDia": "سَهْل",
     "wordWithoutDia": "سهل",
     "pronunciation": "sahl",
     "meaning": "plain"
   },
   {
-    "wordWithDia": "هضبة",
+    "wordWithDia": "هَضَبَة",
     "wordWithoutDia": "هضبة",
     "pronunciation": "hadabah",
     "meaning": "plateau"
   },
   {
-    "wordWithDia": "جدول",
+    "wordWithDia": "جَدْوَل",
     "wordWithoutDia": "جدول",
     "pronunciation": "jadwal",
     "meaning": "schedule"
   },
   {
-    "wordWithDia": "تقويم",
+    "wordWithDia": "تَقْوِيم",
     "wordWithoutDia": "تقويم",
     "pronunciation": "taqweem",
     "meaning": "calendar"
   },
   {
-    "wordWithDia": "ساعة يد",
+    "wordWithDia": "سَاعَة يَد",
     "wordWithoutDia": "ساعة يد",
     "pronunciation": "sa'at yad",
     "meaning": "wristwatch"
   },
   {
-    "wordWithDia": "قمر صناعي",
+    "wordWithDia": "قَمَر صَنَاعِي",
     "wordWithoutDia": "قمر صناعي",
     "pronunciation": "qamar sana'i",
     "meaning": "satellite"
   },
   {
-    "wordWithDia": "كمبيوتر",
+    "wordWithDia": "كَمْبِيُوتَر",
     "wordWithoutDia": "كمبيوتر",
     "pronunciation": "kombyooter",
     "meaning": "computer"
@@ -930,403 +870,403 @@
     "meaning": "internet"
   },
   {
-    "wordWithDia": "موبايل",
+    "wordWithDia": "مُوبَايِل",
     "wordWithoutDia": "موبايل",
     "pronunciation": "mobayil",
     "meaning": "mobile phone"
   },
   {
-    "wordWithDia": "كاميرا",
+    "wordWithDia": "كَامِيرَا",
     "wordWithoutDia": "كاميرا",
     "pronunciation": "kameera",
     "meaning": "camera"
   },
   {
-    "wordWithDia": "شاشة",
+    "wordWithDia": "شَاشَة",
     "wordWithoutDia": "شاشة",
     "pronunciation": "shasha",
     "meaning": "screen"
   },
   {
-    "wordWithDia": "قفل",
+    "wordWithDia": "قِفْل",
     "wordWithoutDia": "قفل",
     "pronunciation": "qifl",
     "meaning": "lock"
   },
   {
-    "wordWithDia": "بطارية",
+    "wordWithDia": "بَطَارِيَة",
     "wordWithoutDia": "بطارية",
     "pronunciation": "battariyah",
     "meaning": "battery"
   },
   {
-    "wordWithDia": "شاحن",
+    "wordWithDia": "شَاحِن",
     "wordWithoutDia": "شاحن",
     "pronunciation": "shaahin",
     "meaning": "charger"
   },
   {
-    "wordWithDia": "مكبر صوت",
+    "wordWithDia": "مُكَبِّر صَوْت",
     "wordWithoutDia": "مكبر صوت",
     "pronunciation": "mukabbir sawt",
     "meaning": "speaker"
   },
   {
-    "wordWithDia": "سماعات",
+    "wordWithDia": "سَمَاعَات",
     "wordWithoutDia": "سماعات",
     "pronunciation": "sama'at",
     "meaning": "headphones"
   },
   {
-    "wordWithDia": "كتابة",
+    "wordWithDia": "كِتَابَة",
     "wordWithoutDia": "كتابة",
     "pronunciation": "kitabah",
     "meaning": "writing"
   },
   {
-    "wordWithDia": "لغة",
+    "wordWithDia": "لُغَة",
     "wordWithoutDia": "لغة",
     "pronunciation": "lughah",
     "meaning": "language"
   },
   {
-    "wordWithDia": "رسم",
+    "wordWithDia": "رَسْم",
     "wordWithoutDia": "رسم",
     "pronunciation": "rusm",
     "meaning": "drawing"
   },
   {
-    "wordWithDia": "موسيقى",
+    "wordWithDia": "مُوسِيقَى",
     "wordWithoutDia": "موسيقى",
     "pronunciation": "moosiqaa",
     "meaning": "music"
   },
   {
-    "wordWithDia": "رقص",
+    "wordWithDia": "رَقْص",
     "wordWithoutDia": "رقص",
     "pronunciation": "raqs",
     "meaning": "dance"
   },
   {
-    "wordWithDia": "فن",
+    "wordWithDia": "فَن",
     "wordWithoutDia": "فن",
     "pronunciation": "fun",
     "meaning": "art"
   },
   {
-    "wordWithDia": "أفلام",
+    "wordWithDia": "أَفْلَام",
     "wordWithoutDia": "أفلام",
     "pronunciation": "aflam",
     "meaning": "movies"
   },
   {
-    "wordWithDia": "كتب",
+    "wordWithDia": "كُتُب",
     "wordWithoutDia": "كتب",
     "pronunciation": "kutub",
     "meaning": "books"
   },
   {
-    "wordWithDia": "قصص",
+    "wordWithDia": "قُصَص",
     "wordWithoutDia": "قصص",
     "pronunciation": "qisas",
     "meaning": "stories"
   },
   {
-    "wordWithDia": "أغنية",
+    "wordWithDia": "أَغْنِيَة",
     "wordWithoutDia": "أغنية",
     "pronunciation": "aghaniyah",
     "meaning": "song"
   },
   {
-    "wordWithDia": "ألعاب",
+    "wordWithDia": "أَلْعَاب",
     "wordWithoutDia": "ألعاب",
     "pronunciation": "al'aaab",
     "meaning": "games"
   },
   {
-    "wordWithDia": "رياضة",
+    "wordWithDia": "رِيَاضَة",
     "wordWithoutDia": "رياضة",
     "pronunciation": "riyadah",
     "meaning": "sports"
   },
   {
-    "wordWithDia": "سباحة",
+    "wordWithDia": "سِبَاحَة",
     "wordWithoutDia": "سباحة",
     "pronunciation": "sibahah",
     "meaning": "swimming"
   },
   {
-    "wordWithDia": "جولف",
+    "wordWithDia": "جُولْف",
     "wordWithoutDia": "جولف",
     "pronunciation": "golf",
     "meaning": "golf"
   },
   {
-    "wordWithDia": "سكي",
+    "wordWithDia": "سَكِي",
     "wordWithoutDia": "سكي",
     "pronunciation": "ski",
     "meaning": "skiing"
   },
   {
-    "wordWithDia": "سيرك",
+    "wordWithDia": "سِيرْك",
     "wordWithoutDia": "سيرك",
     "pronunciation": "sirk",
     "meaning": "circus"
   },
   {
-    "wordWithDia": "مغامرة",
+    "wordWithDia": "مُغَامَرَة",
     "wordWithoutDia": "مغامرة",
     "pronunciation": "mughamarah",
     "meaning": "adventure"
   },
   {
-    "wordWithDia": "استكشاف",
+    "wordWithDia": "اِسْتِكْشَاف",
     "wordWithoutDia": "استكشاف",
     "pronunciation": "istikhshaf",
     "meaning": "exploration"
   },
   {
-    "wordWithDia": "تخييم",
+    "wordWithDia": "تَخِييم",
     "wordWithoutDia": "تخييم",
     "pronunciation": "takhyeem",
     "meaning": "camping"
   },
   {
-    "wordWithDia": "طبيعة",
+    "wordWithDia": "طَبِيعَة",
     "wordWithoutDia": "طبيعة",
     "pronunciation": "tabi'ah",
     "meaning": "nature"
   },
   {
-    "wordWithDia": "جمال",
+    "wordWithDia": "جَمَال",
     "wordWithoutDia": "جمال",
     "pronunciation": "jamal",
     "meaning": "beauty"
   },
   {
-    "wordWithDia": "صحة",
+    "wordWithDia": "صِحَّة",
     "wordWithoutDia": "صحة",
     "pronunciation": "sahah",
     "meaning": "health"
   },
   {
-    "wordWithDia": "طب",
+    "wordWithDia": "طِبّ",
     "wordWithoutDia": "طب",
     "pronunciation": "tibb",
     "meaning": "medicine"
   },
   {
-    "wordWithDia": "ممرض",
+    "wordWithDia": "مُمَرِّض",
     "wordWithoutDia": "ممرض",
     "pronunciation": "mumarid",
     "meaning": "nurse"
   },
   {
-    "wordWithDia": "علاج",
+    "wordWithDia": "عِلَاج",
     "wordWithoutDia": "علاج",
     "pronunciation": "'ilaaj",
     "meaning": "treatment"
   },
   {
-    "wordWithDia": "صيدلية",
+    "wordWithDia": "صَيْدَلِيَّة",
     "wordWithoutDia": "صيدلية",
     "pronunciation": "saydalayyah",
     "meaning": "pharmacy"
   },
   {
-    "wordWithDia": "جو",
+    "wordWithDia": "جَوّ",
     "wordWithoutDia": "جو",
     "pronunciation": "jaw",
     "meaning": "weather"
   },
   {
-    "wordWithDia": "زلزال",
+    "wordWithDia": "زَلْزَال",
     "wordWithoutDia": "زلزال",
     "pronunciation": "zilzaal",
     "meaning": "earthquake"
   },
   {
-    "wordWithDia": "بحيرة",
+    "wordWithDia": "بَحِيرَة",
     "wordWithoutDia": "بحيرة",
     "pronunciation": "buhayrah",
     "meaning": "lake"
   },
   {
-    "wordWithDia": "أودية",
+    "wordWithDia": "أُودِيَة",
     "wordWithoutDia": "أودية",
     "pronunciation": "awdiyah",
     "meaning": "valley"
   },
   {
-    "wordWithDia": "منحدر",
+    "wordWithDia": "مُنْحَدَر",
     "wordWithoutDia": "منحدر",
     "pronunciation": "munhadar",
     "meaning": "cliff"
   },
   {
-    "wordWithDia": "جسر",
+    "wordWithDia": "جِسْر",
     "wordWithoutDia": "جسر",
     "pronunciation": "jusr",
     "meaning": "bridge"
   },
   {
-    "wordWithDia": "نفق",
+    "wordWithDia": "نَفَق",
     "wordWithoutDia": "نفق",
     "pronunciation": "nafaq",
     "meaning": "tunnel"
   },
   {
-    "wordWithDia": "ميناء",
+    "wordWithDia": "مِينَاء",
     "wordWithoutDia": "ميناء",
     "pronunciation": "mina'",
     "meaning": "harbor"
   },
   {
-    "wordWithDia": "مول",
+    "wordWithDia": "مَوْل",
     "wordWithoutDia": "مول",
     "pronunciation": "mawl",
     "meaning": "mall"
   },
   {
-    "wordWithDia": "كافيه",
+    "wordWithDia": "كَافِيه",
     "wordWithoutDia": "كافيه",
     "pronunciation": "kafeeh",
     "meaning": "cafe"
   },
   {
-    "wordWithDia": "بنك",
+    "wordWithDia": "بَنْك",
     "wordWithoutDia": "بنك",
     "pronunciation": "bank",
     "meaning": "bank"
   },
   {
-    "wordWithDia": "متحف",
+    "wordWithDia": "مَتْحَف",
     "wordWithoutDia": "متحف",
     "pronunciation": "mathaf",
     "meaning": "museum"
   },
   {
-    "wordWithDia": "مسبح",
+    "wordWithDia": "مَسْبَح",
     "wordWithoutDia": "مسبح",
     "pronunciation": "masbah",
     "meaning": "pool"
   },
   {
-    "wordWithDia": "حديقة حيوان",
+    "wordWithDia": "حَدِيقَة حَيَوَان",
     "wordWithoutDia": "حديقة حيوان",
     "pronunciation": "hadiqah haywan",
     "meaning": "zoo"
   },
   {
-    "wordWithDia": "مصنع",
+    "wordWithDia": "مَصْنَع",
     "wordWithoutDia": "مصنع",
     "pronunciation": "mصan'a",
     "meaning": "factory"
   },
   {
-    "wordWithDia": "مطبعة",
+    "wordWithDia": "مَطْبَعَة",
     "wordWithoutDia": "مطبعة",
     "pronunciation": "matba'ah",
     "meaning": "printing press"
   },
   {
-    "wordWithDia": "مخبز",
+    "wordWithDia": "مَخْبَز",
     "wordWithoutDia": "مخبز",
     "pronunciation": "makhbaz",
     "meaning": "bakery"
   },
   {
-    "wordWithDia": "مستودع",
+    "wordWithDia": "مُسْتَوْدَع",
     "wordWithoutDia": "مستودع",
     "pronunciation": "mustawdoo'",
     "meaning": "warehouse"
   },
   {
-    "wordWithDia": "صالة",
+    "wordWithDia": "صَالَة",
     "wordWithoutDia": "صالة",
     "pronunciation": "sala",
     "meaning": "living room"
   },
   {
-    "wordWithDia": "سفرة",
+    "wordWithDia": "سُفْرَة",
     "wordWithoutDia": "سفرة",
     "pronunciation": "sufrah",
     "meaning": "dining room"
   },
   {
-    "wordWithDia": "مكتب",
+    "wordWithDia": "مَكْتَب",
     "wordWithoutDia": "مكتب",
     "pronunciation": "maktab",
     "meaning": "desk"
   },
   {
-    "wordWithDia": "مرايا",
+    "wordWithDia": "مِرَآيَا",
     "wordWithoutDia": "مرايا",
     "pronunciation": "maraaya",
     "meaning": "mirror"
   },
   {
-    "wordWithDia": "خزانة",
+    "wordWithDia": "خِزَانَة",
     "wordWithoutDia": "خزانة",
     "pronunciation": "khizaanah",
     "meaning": "closet"
   },
   {
-    "wordWithDia": "سجادة",
+    "wordWithDia": "سَجَادَة",
     "wordWithoutDia": "سجادة",
     "pronunciation": "sajadah",
     "meaning": "carpet"
   },
   {
-    "wordWithDia": "ستائر",
+    "wordWithDia": "سِتَارَات",
     "wordWithoutDia": "ستائر",
     "pronunciation": "ista'ir",
     "meaning": "curtains"
   },
   {
-    "wordWithDia": "مصباح",
+    "wordWithDia": "مِصْبَاح",
     "wordWithoutDia": "مصباح",
     "pronunciation": "misbah",
     "meaning": "lamp"
   },
   {
-    "wordWithDia": "فتاحة",
+    "wordWithDia": "فَتَاحَة",
     "wordWithoutDia": "فتاحة",
     "pronunciation": "fatahah",
     "meaning": "opener"
   },
   {
-    "wordWithDia": "ساعة",
+    "wordWithDia": "سَاعَة",
     "wordWithoutDia": "ساعة",
     "pronunciation": "sa'ah",
     "meaning": "clock"
   },
   {
-    "wordWithDia": "منبه",
+    "wordWithDia": "مُنْبَه",
     "wordWithoutDia": "منبه",
     "pronunciation": "munbah",
     "meaning": "alarm clock"
   },
   {
-    "wordWithDia": "فأرة",
+    "wordWithDia": "فَأْرَة",
     "wordWithoutDia": "فأرة",
     "pronunciation": "fa'rah",
     "meaning": "mouse"
   },
   {
-    "wordWithDia": "لوحة مفاتيح",
+    "wordWithDia": "لُوحَة مِفَاتِيح",
     "wordWithoutDia": "لوحة مفاتيح",
     "pronunciation": "lawhat mafaateeh",
     "meaning": "keyboard"
   },
   {
-    "wordWithDia": "ماوس",
+    "wordWithDia": "مَاوُس",
     "wordWithoutDia": "ماوس",
     "pronunciation": "maus",
     "meaning": "mouse (animal)"
   },
   {
-    "wordWithDia": "مايكروفون",
+    "wordWithDia": "مَايِكْرُوفُون",
     "wordWithoutDia": "مايكروفون",
     "pronunciation": "maikrofoon",
     "meaning": "microphone"
