@@ -5,7 +5,9 @@ import {
   FlatList,
   TouchableOpacity,
   StyleSheet,
-  SafeAreaView
+  SafeAreaView,
+  Switch,
+  View
 } from 'react-native'
 import {
   widthPercentageToDP as wp,
@@ -22,6 +24,8 @@ function AllWords({ navigation: { navigate }, route }) {
   const { nouns, verbs, adjectives, adverbs } = route.params
 
   const [arr, setArr] = useState([])
+  const [isEnabled, setIsEnabled] = useState(true)
+  const [meaningOn, setMeaningOn] = useState(true)
 
   useEffect(() => {
     if (verbs) setArr(Verbs)
@@ -32,13 +36,34 @@ function AllWords({ navigation: { navigate }, route }) {
 
   return (
     <SafeAreaView style={styles.container}>
+      <View style={styles.basicRow}>
+        <Switch
+          trackColor={{ false: '#767577', true: '#81b0ff' }}
+          thumbColor={isEnabled ? 'green' : 'gray'}
+          onValueChange={() => setIsEnabled(previousState => !previousState)}
+          value={isEnabled}
+          label={'diacritics'}
+        />
+        <Switch
+          trackColor={{ false: '#767577', true: '#81b0ff' }}
+          thumbColor={isEnabled ? 'green' : 'gray'}
+          onValueChange={() => setMeaningOn(previousState => !previousState)}
+          value={meaningOn}
+          label={'meaning'}
+        />
+      </View>
+
       <FlatList
         data={arr}
         renderItem={({ item }) => (
           <TouchableOpacity style={styles.block}>
-            <Text style={styles.kanjiText}>{item.word}</Text>
+            <Text style={styles.kanjiText}>
+              {isEnabled ? item.wordWithDia : item.wordWithoutDia}
+            </Text>
             <Text style={styles.pronunciation}>{item.pronunciation}</Text>
-            <Text style={styles.meaning}>{item.meaning}</Text>
+            {meaningOn ? (
+              <Text style={styles.meaning}>{item.meaning}</Text>
+            ) : null}
           </TouchableOpacity>
         )}
         numColumns={Platform.OS != 'ios' && Platform.OS != 'android' ? 5 : 3}
@@ -86,6 +111,12 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: '400',
     fontFamily: 'Menlo'
+  },
+  diaText: {
+    fontSize: 20
+  },
+  basicRow: {
+    flexDirection: 'row'
   }
 })
 

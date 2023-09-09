@@ -17,7 +17,11 @@ export default function Navigator() {
         }}>
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="Kids" component={KidScreen} />
-        <Stack.Screen name="List" component={ListScreen} />
+        <Stack.Screen
+          name="List"
+          component={ListScreen}
+          options={({ route }) => ({ headerTitle: route.params.title })}
+        />
       </Stack.Navigator>
     )
   }
