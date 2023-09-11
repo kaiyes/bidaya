@@ -20,6 +20,17 @@ import Verbs from '../util/verbs.json'
 import Adjectives from '../util/adjectives.json'
 import Adverbs from '../util/adverbs.json'
 
+//'#B7E4C7'  lightgreen'  'mediumseagreen'  'forestgreen' 'green'
+// '#D8F3DC' '#B7E4C7' '#95D5B2' '#74C69D' '#3DAC78'
+
+const colorLevels = {
+  1: 'azure',
+  2: '#B7E4C7',
+  3: 'lightgreen',
+  4: 'mediumseagreen',
+  5: 'green'
+}
+
 function AllWords({ navigation: { navigate }, route }) {
   const { nouns, verbs, adjectives, adverbs } = route.params
 
@@ -27,12 +38,72 @@ function AllWords({ navigation: { navigate }, route }) {
   const [isEnabled, setIsEnabled] = useState(true)
   const [meaningOn, setMeaningOn] = useState(true)
 
+  const [questions, setQuestions] = useState([
+    {
+      level: 2,
+      meaning: 'school',
+      nextDateToShow: '14th October',
+      pronunciation: 'madrasa',
+      wordWithDia: 'مَدْرَسَة',
+      wordWithoutDia: 'مدرسة'
+    },
+    {
+      level: 1,
+      meaning: 'car',
+      nextDateToShow: '14th October',
+      pronunciation: 'sayara',
+      wordWithDia: 'سَيَّارَة',
+      wordWithoutDia: 'سيارة'
+    },
+    {
+      level: 4,
+      meaning: 'heart',
+      nextDateToShow: '14th October',
+      pronunciation: 'qalb',
+      wordWithDia: 'قَلْب',
+      wordWithoutDia: 'قلب'
+    },
+    {
+      level: 3,
+      meaning: 'pen',
+      nextDateToShow: '14th October',
+      pronunciation: 'qalam',
+      wordWithDia: 'قَلَم',
+      wordWithoutDia: 'قلم'
+    },
+    {
+      level: 5,
+      meaning: 'fish',
+      nextDateToShow: '14th October',
+      pronunciation: 'samaka',
+      wordWithDia: 'سَمَكَة',
+      wordWithoutDia: 'سمكة'
+    }
+  ])
+
   useEffect(() => {
     if (verbs) setArr(Verbs)
     if (nouns) setArr(Nouns)
     if (adjectives) setArr(Adjectives)
     if (adverbs) setArr(Adverbs)
   }, [arr])
+
+  function pushToQuestionsArray(word) {
+    let slightlyChangedword = {
+      ...word,
+      level: 2,
+      nextDateToShow: '14th October'
+    }
+    if (questions.findIndex(i => i.meaning === word.meaning) === -1) {
+      questions.push(slightlyChangedword)
+    }
+    console.log(slightlyChangedword)
+  }
+
+  function whichColor(word) {
+    const wordIndex = questions.findIndex(i => i.meaning === word.meaning)
+    return wordIndex === -1 ? 'white' : colorLevels[questions[wordIndex].level]
+  }
 
   return (
     <SafeAreaView style={styles.container}>
@@ -56,7 +127,12 @@ function AllWords({ navigation: { navigate }, route }) {
       <FlatList
         data={arr}
         renderItem={({ item }) => (
-          <TouchableOpacity style={styles.block}>
+          <TouchableOpacity
+            style={{
+              ...styles.block,
+              backgroundColor: whichColor(item)
+            }}
+            onPress={() => pushToQuestionsArray(item)}>
             <Text style={styles.kanjiText}>
               {isEnabled ? item.wordWithDia : item.wordWithoutDia}
             </Text>
@@ -95,7 +171,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     borderWidth: 3,
     borderColor: 'black',
-    backgroundColor: 'khaki',
     borderRadius: 5
   },
   kanjiText: {
@@ -120,4 +195,7 @@ const styles = StyleSheet.create({
   }
 })
 
+// '#D8F3DC' '#B7E4C7' '#95D5B2' '#74C69D' '#3DAC78'
+//'#B7E4C7'  lightgreen'  'mediumseagreen'  'forestgreen' 'green'
+//'yellow' 'gold' 'goldenrod' 'orange' 'darkorange'
 export default AllWords
